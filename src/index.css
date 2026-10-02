@@ -6,8 +6,12 @@
  * exposes them to Tailwind as `bg-surface`, `text-text-muted`, etc. — the
  * generated utilities reference the variable, so runtime changes apply.
  *
- * Màu chủ đạo là tím chứ không phải xanh lá: xanh lá và đỏ phải để dành
+ * Màu chủ đạo là xanh ngọc (teal) chứ không phải xanh lá: xanh lá và đỏ phải để dành
  * cho nghĩa "đúng" / "sai" khi chấm bài.
+ *
+ * Ở chế độ sáng, success/danger/warning dùng sắc độ 700 chứ không phải 600: ba màu này
+ * được in thành CHỮ NHỎ trên nền nhạt cùng tông (nhãn "✔ Đúng", hộp cảnh báo, hộp ghi
+ * chú đáp án), nên sắc độ 600 chỉ đạt tương phản ~3.1 — dưới ngưỡng đọc được.
  * ------------------------------------------------------------------ */
 @theme inline {
   --color-primary: var(--primary);
@@ -32,43 +36,43 @@
 }
 
 :root {
-  --primary: #7c3aed;
-  --primary-dark: #6d28d9;
-  --primary-soft: #f5f3ff;
-  --primary-grad: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
-  --bg: #f7f6fb;
-  --bg-accent: radial-gradient(1200px 600px at 50% -280px, rgba(124, 58, 237, 0.08), transparent 70%);
+  --primary: #0e7490;
+  --primary-dark: #155e75;
+  --primary-soft: #ecfeff;
+  --primary-grad: linear-gradient(135deg, #107d99 0%, #0e7490 100%);
+  --bg: #f3f8fa;
+  --bg-accent: radial-gradient(1200px 600px at 50% -280px, rgba(14, 116, 144, 0.10), transparent 70%);
   --surface: #ffffff;
-  --surface-2: #fbfaff;
+  --surface-2: #f7fcfd;
   --text: #0f172a;
   --text-muted: #64748b;
-  --border: #e8e6f1;
-  --border-strong: #d6d2e6;
-  --success: #16a34a;
+  --border: #e1ecf0;
+  --border-strong: #c9dde4;
+  --success: #15803d;
   --success-soft: #f0fdf4;
-  --danger: #dc2626;
+  --danger: #b91c1c;
   --danger-soft: #fef2f2;
-  --warning: #d97706;
+  --warning: #b45309;
   --warning-soft: #fffbeb;
   --shadow-sm: 0 1px 2px rgba(15, 23, 42, 0.05);
   --shadow: 0 1px 2px rgba(15, 23, 42, 0.04), 0 6px 18px -6px rgba(15, 23, 42, 0.1);
   --shadow-lg: 0 4px 10px -4px rgba(15, 23, 42, 0.1), 0 18px 40px -14px rgba(15, 23, 42, 0.2);
-  --shadow-primary: 0 6px 16px -6px rgba(124, 58, 237, 0.6);
+  --shadow-primary: 0 6px 16px -6px rgba(14, 116, 144, 0.55);
 }
 
 :root[data-theme="dark"] {
-  --primary: #a78bfa;
-  --primary-dark: #c4b5fd;
-  --primary-soft: #241f3d;
-  --primary-grad: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
-  --bg: #0d0b1a;
-  --bg-accent: radial-gradient(1200px 600px at 50% -280px, rgba(139, 92, 246, 0.16), transparent 70%);
-  --surface: #17142a;
-  --surface-2: #1d1935;
+  --primary: #22d3ee;
+  --primary-dark: #67e8f9;
+  --primary-soft: #0e2b33;
+  --primary-grad: linear-gradient(135deg, #107d99 0%, #0e7490 100%);
+  --bg: #071a1f;
+  --bg-accent: radial-gradient(1200px 600px at 50% -280px, rgba(34, 211, 238, 0.13), transparent 70%);
+  --surface: #0f2129;
+  --surface-2: #152b33;
   --text: #e2e8f0;
   --text-muted: #94a3b8;
-  --border: #2b2744;
-  --border-strong: #3a3559;
+  --border: #1e3b45;
+  --border-strong: #2b505c;
   --success: #4ade80;
   --success-soft: #0f2418;
   --danger: #f87171;
@@ -78,23 +82,23 @@
   --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
   --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -8px rgba(0, 0, 0, 0.5);
   --shadow-lg: 0 6px 16px -6px rgba(0, 0, 0, 0.5), 0 22px 48px -16px rgba(0, 0, 0, 0.6);
-  --shadow-primary: 0 6px 16px -6px rgba(124, 58, 237, 0.55);
+  --shadow-primary: 0 6px 16px -6px rgba(14, 116, 144, 0.5);
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --primary: #a78bfa;
-    --primary-dark: #c4b5fd;
-    --primary-soft: #241f3d;
-    --primary-grad: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
-    --bg: #0d0b1a;
-    --bg-accent: radial-gradient(1200px 600px at 50% -280px, rgba(139, 92, 246, 0.16), transparent 70%);
-    --surface: #17142a;
-    --surface-2: #1d1935;
+    --primary: #22d3ee;
+    --primary-dark: #67e8f9;
+    --primary-soft: #0e2b33;
+    --primary-grad: linear-gradient(135deg, #107d99 0%, #0e7490 100%);
+    --bg: #071a1f;
+    --bg-accent: radial-gradient(1200px 600px at 50% -280px, rgba(34, 211, 238, 0.13), transparent 70%);
+    --surface: #0f2129;
+    --surface-2: #152b33;
     --text: #e2e8f0;
     --text-muted: #94a3b8;
-    --border: #2b2744;
-    --border-strong: #3a3559;
+    --border: #1e3b45;
+    --border-strong: #2b505c;
     --success: #4ade80;
     --success-soft: #0f2418;
     --danger: #f87171;
@@ -104,7 +108,7 @@
     --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -8px rgba(0, 0, 0, 0.5);
     --shadow-lg: 0 6px 16px -6px rgba(0, 0, 0, 0.5), 0 22px 48px -16px rgba(0, 0, 0, 0.6);
-    --shadow-primary: 0 6px 16px -6px rgba(124, 58, 237, 0.55);
+    --shadow-primary: 0 6px 16px -6px rgba(14, 116, 144, 0.5);
   }
 }
 
