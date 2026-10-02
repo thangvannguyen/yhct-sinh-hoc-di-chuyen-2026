@@ -76,6 +76,7 @@ thiếu dữ kiện. Giữ nguyên đáp án gốc và đã ghi chú trong phầ
 |-----|-----------|--------|
 | **176** | D — *Vận chuyển các chất hoà tan, phân tử nhỏ* | Hai phương án A (*cần tiêu tốn năng lượng*) và C (*màng tạo túi*) cũng đúng với ẩm/thực bào. D là đặc điểm riêng của ẩm bào nên vẫn là phương án hợp lý nhất |
 | **159** | A — *2* | **Đề gốc bị mất danh sách các phép lai**: câu hỏi ghi "có bao nhiêu phép lai sau đây…" nhưng không liệt kê phép lai nào, nhảy thẳng xuống các phương án số. Không thể tự giải lại nên giữ đáp án của đề |
+| **106** | C — *Cấu trúc bậc IV* | Câu dẫn có vế "biểu thị thứ tự sắp xếp các acid amin… và vị trí của liên kết disulfide" — đúng là định nghĩa chuẩn của **cấu trúc bậc I**; bậc IV nói về cách lắp ghép các tiểu đơn vị trong không gian. Nhưng slide bài 4 lại mô tả bậc 4 là "nhiều hơn 1 chuỗi polypeptid" được bình ổn bằng "liên kết disulfide", nên đáp án của đề có cơ sở trong chính bài giảng. **Giữ đáp án của đề, đã ghi chú trong phần Giải thích để người học hỏi lại giảng viên** |
 | **10** | C — *Sự sống* | Phương án E (*Sinh trưởng*) cũng không nằm trong ba tính chất đặc trưng theo slide; tuy nhiên "sự sống" là phương án lạc loài rõ ràng nhất |
 
 ## 7. Đã kiểm tra lại toàn bộ câu tính toán
