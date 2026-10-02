@@ -1,0 +1,128 @@
+{
+  "_doc": "Giải thích + mẹo ghi nhớ — Bài 3: Năng lượng sinh học. Bám theo slide 03-nang-luong-sinh-hoc.pdf.",
+
+  "bai-3-65": {
+    "explain": "Năng lượng hoạt hóa là lượng năng lượng tối thiểu phải cung cấp để các phân tử phản ứng vượt qua rào cản và bắt đầu phản ứng. Enzym không tạo ra năng lượng mà làm GIẢM năng lượng hoạt hóa, nhờ đó phản ứng xảy ra nhanh ở nhiệt độ cơ thể. ATP là nguồn năng lượng dùng cho công việc của tế bào chứ không phải thứ \"khơi mào\".",
+    "tip": "Hoạt hóa = cú hích ban đầu. Enzym chỉ hạ thấp cú hích ấy xuống."
+  },
+
+  "bai-3-66": {
+    "explain": "ATP = Adenosin TriPhosphat, gồm ba phần: base adenin + đường ribose + ba gốc phosphat. Lưu ý phân biệt: \"adenin\" là riêng base nitơ, còn \"adenosin\" mới là adenin đã gắn với đường ribose — chính adenosin mới mang ba phosphat.",
+    "tip": "Adenin + ribose = adenosin. Có đường rồi mới gắn được phosphat → AdenoSIN triphosphat."
+  },
+
+  "bai-3-67": {
+    "explain": "Chu trình Krebs diễn ra trong chất nền (matrix) của ty thể — nơi chứa đủ bộ enzym của chu trình. Đường phân xảy ra ở bào tương, còn chuỗi truyền điện tử nằm trên màng trong ty thể. Nhớ sơ đồ ba tầng: bào tương → chất nền ty thể → màng trong ty thể.",
+    "tip": "Ba địa chỉ: Đường phân = bào tương · Krebs = chất nền · Chuỗi e⁻ = màng trong."
+  },
+
+  "bai-3-68": {
+    "explain": "Chuỗi truyền điện tử nằm trên màng trong ty thể vì cần một màng kín để bơm H⁺ ra khoảng gian màng, tạo chênh lệch nồng độ H⁺ cho ATP synthase hoạt động. Màng ngoài ty thể có nhiều lỗ porin nên không giữ được gradient; chất nền chỉ chứa enzym của Krebs.",
+    "tip": "Muốn có gradient H⁺ phải có màng KÍN → màng TRONG ty thể."
+  },
+
+  "bai-3-69": {
+    "explain": "Theo cách tính 1 NADH ≈ 3 ATP và 1 FADH₂ ≈ 2 ATP: 8 × 3 = 24, cộng 4 × 2 = 8, tổng cộng 32 ATP. Con số \"8 NADH và 4 FADH₂\" ứng với trường hợp 2 NADH sinh ra ở bào tương được đưa vào ty thể bằng con thoi glycerol-phosphat và chuyển thành FADH₂ — vì vậy tổng ATP của cả quá trình là 36 thay vì 38, và riêng phần hóa thẩm là 32 thay vì 34.",
+    "tip": "NADH ×3, FADH₂ ×2. (8×3) + (4×2) = 24 + 8 = 32."
+  },
+
+  "bai-3-70": {
+    "explain": "Đường phân xảy ra ở bào tương (tế bào chất) — đây là giai đoạn chung cho cả hô hấp hiếu khí lẫn lên men, và cũng là lý do vi khuẩn không có ty thể vẫn phân giải được glucose. Hai giai đoạn sau (Krebs và chuỗi truyền điện tử) mới cần đến ty thể.",
+    "tip": "Đường phân là bước \"ngoài cửa\" ty thể — ai cũng làm được, kể cả tế bào không có ty thể."
+  },
+
+  "bai-3-71": {
+    "explain": "Một phân tử glucose qua đường phân cho 2 acid pyruvic (pyruvat), kèm 2 ATP và 2 NADH. Acetyl CoA chỉ xuất hiện ở bước SAU đó (oxy hóa pyruvat trong ty thể), còn lactat là sản phẩm của lên men lactic khi thiếu oxy — cả hai đều không phải sản phẩm trực tiếp của đường phân.",
+    "tip": "Đường phân dừng lại ở PYRUVAT. Acetyl CoA và lactat là chặng kế tiếp."
+  },
+
+  "bai-3-72": {
+    "explain": "Pyruvat được vận chuyển vào chất nền ty thể rồi bị phức hệ pyruvat dehydrogenase khử carboxyl – oxy hóa thành acetyl CoA, đồng thời giải phóng 1 CO₂ và 1 NADH cho mỗi phân tử. Chỉ ở dạng acetyl CoA thì nó mới ghép được với oxaloacetat để vào chu trình Krebs. Lactat là ngõ cụt khi thiếu oxy; oxaloacetat là chất đón chứ không phải dạng chuyển hóa của pyruvat.",
+    "tip": "Pyruvat phải \"thay áo\" thành acetyl CoA mới được vào vòng Krebs."
+  },
+
+  "bai-3-73": {
+    "explain": "Một glucose (6 carbon) bị oxy hóa hoàn toàn nên toàn bộ 6 carbon đều ra đi dưới dạng CO₂. Cụ thể: 2 CO₂ ở bước oxy hóa 2 pyruvat thành acetyl CoA, cộng 4 CO₂ từ hai vòng Krebs (mỗi vòng 2 CO₂).",
+    "tip": "Glucose có 6 C → thải đúng 6 CO₂. Đếm carbon là ra."
+  },
+
+  "bai-3-74": {
+    "explain": "Oxy là chất nhận điện tử cuối cùng của chuỗi hô hấp: nó nhận điện tử ở phức hệ IV rồi kết hợp với H⁺ tạo thành H₂O. H₂O là SẢN PHẨM chứ không phải chất nhận; NADH và FADH₂ là chất CHO điện tử; còn pyruvat chỉ đóng vai nhận điện tử trong lên men (điều kiện thiếu oxy).",
+    "tip": "Oxy đứng cuối hàng nhận điện tử → sinh ra nước. Hết oxy thì pyruvat phải nhận thay → lên men."
+  },
+
+  "bai-3-75": {
+    "explain": "Câu này lặp lại ý câu 74 nhưng hỏi thẳng vào chuỗi truyền điện tử: chất nhận cuối cùng là O₂ phân tử. O₂⁻ là gốc superoxid (sản phẩm phụ gây hại), CO₂ là sản phẩm thải của Krebs, còn H⁺ chỉ được bơm qua màng để tạo gradient chứ không nhận điện tử.",
+    "tip": "Câu 74 và 75 cùng một đáp án: O₂."
+  },
+
+  "bai-3-76": {
+    "explain": "Vẫn là màng trong ty thể — nơi gắn bốn phức hệ protein I, II, III, IV cùng ubiquinon và cytochrom C. Lưu ý phương án D \"ty thể\" tuy không sai hoàn toàn nhưng quá chung chung; đề yêu cầu định vị chính xác nên phải chọn màng trong.",
+    "tip": "Câu 68 và 76 trùng nhau: màng trong ty thể."
+  },
+
+  "bai-3-77": {
+    "explain": "Lên men là phần nối tiếp trực tiếp của đường phân nên cũng xảy ra ở tế bào chất (bào tương), hoàn toàn không cần ty thể — đó là lý do vi khuẩn và nấm men lên men được, và tế bào cơ ta vẫn lên men lactic khi thiếu oxy.",
+    "tip": "Đường phân ở bào tương → lên men cũng ở bào tương (cùng một chỗ, đi tiếp)."
+  },
+
+  "bai-3-78": {
+    "explain": "Khi thiếu oxy, chuỗi truyền điện tử tắc nên NADH không trả được điện tử cho oxy. Lúc này pyruvat đứng ra nhận hydro và điện tử TỪ NADH để tái tạo NAD⁺, giúp đường phân tiếp tục chạy — đó chính là lên men. NAD⁺ và FAD là dạng đã oxy hóa (chất nhận), còn FADH₂, FMNH₂ không tham gia khâu này.",
+    "tip": "Lên men tồn tại chỉ để \"trả lại\" NAD⁺ cho đường phân chạy tiếp."
+  },
+
+  "bai-3-79": {
+    "explain": "Chu trình Krebs khởi động khi acetyl CoA (2 C) ngưng tụ với oxaloacetat (4 C) nhờ enzym citrat synthase. Oxaloacetat vừa là chất mở đầu vừa là chất được tái tạo ở cuối vòng, nên chu trình mới \"khép kín\" được. Citrat, α-cetoglutarat, succinat, fumarat đều là các chất trung gian sinh ra sau đó.",
+    "tip": "Acetyl CoA (2C) + Oxaloacetat (4C) = Citrat (6C). Nhớ phép cộng này là nhớ cả câu 79 và 80."
+  },
+
+  "bai-3-80": {
+    "explain": "Sản phẩm đầu tiên của chu trình Krebs là citrat (acid citric) — cũng chính là lý do chu trình còn được gọi là chu trình acid citric. Sau citrat mới lần lượt đến α-cetoglutarat, succinat, fumarat, malat rồi quay về oxaloacetat.",
+    "tip": "Tên gọi khác của Krebs là \"chu trình acid citric\" → chất đầu tiên phải là citrat."
+  },
+
+  "bai-3-81": {
+    "explain": "Trong ATP, liên kết giữa đường ribose với gốc phosphat thứ nhất chỉ là liên kết ester bình thường; hai liên kết giữa các gốc phosphat mới là liên kết phosphoanhydrid giàu năng lượng. Liên kết tế bào thường xuyên cắt để lấy năng lượng là liên kết ngoài cùng (giữa phosphat thứ hai và thứ ba), cho ATP → ADP + Pi với ΔG° = −7,3 kcal/mol. Phương án E (\"giữa các nhóm phosphat\") đúng về bản chất nhưng quá chung, không chỉ ra được liên kết sinh năng lượng nhiều nhất và được dùng nhiều nhất.",
+    "tip": "Cắt cái phosphat NGOÀI CÙNG là ra năng lượng — ATP thành ADP."
+  },
+
+  "bai-3-82": {
+    "explain": "Tế bào tạo ATP theo hai cách: phosphoryl hóa mức cơ chất (gắn trực tiếp gốc phosphat từ cơ chất sang ADP — chỉ cho vài ATP) và tổng hợp hóa thẩm (dùng gradient H⁺ qua màng trong ty thể để quay ATP synthase). Hóa thẩm cho hiệu suất cao hơn hẳn: trong hô hấp hiếu khí nó tạo 32–34 ATP, trong khi phosphoryl hóa mức cơ chất chỉ góp 4 ATP. \"Phosphoryl hóa mức tế bào\" là thuật ngữ không tồn tại.",
+    "tip": "Hóa thẩm cho ~34 ATP, mức cơ chất chỉ 4 ATP → hiệu quả cao là hóa thẩm."
+  },
+
+  "bai-3-83": {
+    "explain": "Đó đúng là định nghĩa tổng hợp hóa thẩm (chemiosmosis): điện tử cao năng được dùng để bơm H⁺ tạo chênh lệch nồng độ hai bên màng, rồi H⁺ chảy ngược qua kênh ATP synthase sinh ra ATP — cơ chế này hoạt động ở cả ty thể lẫn lục lạp. \"Tổng hợp lý thẩm\" là tên bịa; \"phosphoryl hóa mức cơ chất\" là cơ chế khác hẳn.",
+    "tip": "Hóa thẩm = H⁺ \"thẩm thấu\" qua màng quay tuabin ATP synthase. Câu 82, 83, 89 đều về nó."
+  },
+
+  "bai-3-84": {
+    "explain": "Mỗi vòng Krebs tạo 1 GTP/ATP (phosphoryl hóa mức cơ chất) và nhiều chất khử (3 NADH + 1 FADH₂), nên A và B đều đúng. Riêng ý C sai một nửa: Krebs có thải CO₂ nhưng KHÔNG tạo H₂O — nước chỉ hình thành ở cuối chuỗi truyền điện tử khi oxy nhận điện tử. Vì C sai nên không chọn được D.",
+    "tip": "Krebs ra CO₂; H₂O là của chuỗi truyền điện tử. Sai một chữ \"H₂O\" là loại cả phương án."
+  },
+
+  "bai-3-85": {
+    "explain": "Bảng tổng kết đường phân trong slide: nguyên liệu 1 glucose + 2 NAD⁺ + 2 ADP, sản phẩm 2 pyruvat + 2 ATP + 2 NADH. Lưu ý 2 ATP ở đây là LÃI RÒNG (tạo 4 nhưng đã tiêu 2 ở giai đoạn đầu tư), và đường phân không sinh FADH₂ — FADH₂ chỉ xuất hiện trong chu trình Krebs.",
+    "tip": "Đường phân: 2 – 2 – 2 (2 pyruvat, 2 ATP, 2 NADH). Không có FADH₂."
+  },
+
+  "bai-3-86": {
+    "explain": "Slide ghi rõ đường phân \"là giai đoạn chung, không phụ thuộc oxy, xảy ra ở bào tương\". Nó chạy được cả khi có lẫn không có oxy — chính vì vậy mới là bước mở đầu chung cho cả hô hấp hiếu khí và lên men. Nói \"có oxy\" là sai vì bó hẹp điều kiện, còn chất nền ty thể là địa chỉ của chu trình Krebs.",
+    "tip": "Đường phân: ở BÀO TƯƠNG, KHÔNG phụ thuộc oxy — nhớ hai vế là đủ."
+  },
+
+  "bai-3-87": {
+    "explain": "Khi cơ hoạt động mạnh mà thiếu oxy, tế bào cơ chuyển sang lên men lactic; acid lactic tích lại làm giảm pH trong cơ, gây mỏi cơ và đau cơ, kèm theo tổn thương vi mạch tại chỗ. Lưu ý: cách diễn đạt của các phương án trong đề gốc hơi khó hiểu — phương án A (\"gây đau cơ, mỏi cơ\") nghe hợp lý hơn về mặt sinh lý, nhưng đáp án được tô trong đề là B. Khi đi thi nên bám theo đáp án của đề; còn về bản chất cần nhớ: hậu quả của lên men lactic là ứ acid lactic gây mỏi cơ.",
+    "tip": "Bản chất: ứ ACID LACTIC → mỏi cơ. Riêng câu này đề chọn phương án B."
+  },
+
+  "bai-3-88": {
+    "explain": "Chuỗi truyền điện tử gồm bốn phức hệ protein I, II, III và IV, cộng hai chất mang điện tử di động là ubiquinon (coenzym Q) và cytochrom C. PSI, PSII là hai hệ quang hóa của QUANG HỢP ở lục lạp, không thuộc hô hấp tế bào — nên mọi phương án có PS đều sai; phương án C thiếu phức hệ IV.",
+    "tip": "Hô hấp: 4 phức hệ + Q + cyt C. Thấy \"PS\" (photosystem) là quang hợp, loại ngay."
+  },
+
+  "bai-3-89": {
+    "explain": "NADH và FADH₂ nhường điện tử cho chuỗi truyền điện tử; năng lượng của dòng điện tử được dùng để bơm H⁺ qua màng trong ty thể, tạo gradient, rồi H⁺ chảy ngược qua ATP synthase sinh ATP. Toàn bộ cơ chế đó gọi là phương thức hóa thẩm. \"Phosphoryl hóa\" là tên của phản ứng gắn phosphat nói chung, chưa mô tả cơ chế qua màng.",
+    "tip": "NADH/FADH₂ + chuỗi điện tử + gradient H⁺ = HÓA THẨM."
+  }
+}

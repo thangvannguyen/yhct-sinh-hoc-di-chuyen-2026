@@ -1,0 +1,243 @@
+{
+  "_doc": "Giải thích + mẹo ghi nhớ — Bài 2: Sinh học tế bào. Bám theo slide 02-sinh-hoc-te-bao.pdf.",
+
+  "bai-2-17": {
+    "explain": "Slide ghi rõ thành phần màng sinh chất: lipid gần 50%, protein gần 50%, carbohydrat 2–10%. Phospholipid chính là loại lipid chủ yếu tạo nên lớp kép của màng, nên cả bốn phương án A–D đều là thành phần có thật của màng.",
+    "tip": "Màng = Lipid 50% + Protein 50% + Carbohydrat 2–10%. Thấy câu hỏi \"thành phần màng\" thì nghĩ tới \"tất cả đều đúng\"."
+  },
+
+  "bai-2-18": {
+    "explain": "Các mạch hydrocarbon của phospholipid chuyển động liên tục, làm lớp màng kép có tính dòng lỏng hai chiều — nhờ đó màng đổi hình dạng, khép thành túi hay dung hợp mà không vỡ. Cholesterol thì ngược lại: nó chèn vào giữa các phospholipid làm màng cứng hơn. Protein và carbohydrat lo chức năng đặc hiệu và nhận diện, không quyết định tính linh động.",
+    "tip": "Phospholipid = LỎNG, cholesterol = CỨNG. Hai câu 18 và 19 là cặp đối nhau."
+  },
+
+  "bai-2-19": {
+    "explain": "Ở sinh vật bậc cao, cholesterol xen vào giữa các phân tử phospholipid làm hạn chế chuyển động của chúng, tạo tính cứng và độ bền cơ học cho màng. Phospholipid làm màng lỏng; protein, carbohydrat không giữ vai trò nâng độ bền cơ học.",
+    "tip": "Cholesterol là \"thanh chống\" cài giữa các phospholipid → màng cứng, bền."
+  },
+
+  "bai-2-20": {
+    "explain": "Tế bào chất là khối keo lỏng chứa khoảng 80% là nước, phần còn lại là các chất hòa tan và bào quan. Nước là dung môi cho mọi phản ứng sinh hóa, nên đây là thành phần chiếm tỷ lệ áp đảo. Golgi, peroxisom, ribosom chỉ là các bào quan nằm trong đó; còn nhân không nằm trong tế bào chất theo nghĩa thành phần cấu tạo.",
+    "tip": "80% nước — tế bào chất thực chất là \"nước có bào quan bơi trong đó\"."
+  },
+
+  "bai-2-21": {
+    "explain": "Slide xếp riêng một nhóm \"các bào quan chuyển hóa năng lượng\" gồm đúng hai thành viên: ty thể (hô hấp tế bào, tạo ATP) và lạp thể/lục lạp (quang hợp, biến quang năng thành hóa năng). Bộ máy Golgi chỉ chế biến – đóng gói – vận chuyển chất, không chuyển hóa năng lượng, nên các phương án có Golgi đều sai.",
+    "tip": "Hai \"nhà máy điện\": ty thể (động vật + thực vật) và lục lạp (thực vật)."
+  },
+
+  "bai-2-22": {
+    "explain": "GTP là nucleotid gắn với các protein G — trung tâm của hầu hết các con đường truyền tín hiệu nội bào: thụ thể nhận tín hiệu → protein G đổi GDP thành GTP → hoạt hóa chuỗi tín hiệu phía sau. ATP là đồng tiền năng lượng chung, CTP phục vụ tổng hợp lipid, UTP tổng hợp glycogen, còn TTP chỉ có trong DNA.",
+    "tip": "G trong GTP = G trong G-protein = Giao tiếp (truyền tín hiệu)."
+  },
+
+  "bai-2-23": {
+    "explain": "Slide ghi nguồn gốc của bộ máy Golgi là lưới nội chất trơn: các túi màng tách ra từ lưới nội chất trơn rồi dẹp lại thành 5–8 túi chồng lên nhau tạo thành Golgi. Lưới nội chất hạt chỉ gửi protein sang Golgi ở mặt cis chứ không sinh ra Golgi; còn lysosom là sản phẩm của Golgi chứ không phải nguồn gốc.",
+    "tip": "Chuỗi sinh ra nhau: lưới nội chất trơn → Golgi → lysosom."
+  },
+
+  "bai-2-24": {
+    "explain": "Lysosom có nguồn gốc từ thể Golgi: mặt trans của Golgi tách ra các túi chứa sẵn enzym thủy phân, các túi đó chính là lysosom. Lưới nội chất trơn sinh ra Golgi chứ không sinh ra lysosom trực tiếp.",
+    "tip": "Nhớ dây chuyền: lưới trơn → Golgi → lysosom. Câu 23 và 24 là hai mắt xích liền nhau."
+  },
+
+  "bai-2-25": {
+    "explain": "Peroxisom có màng đơn, chứa nhiều enzym oxy hóa (đặc biệt là catalase) phân hủy H₂O₂ thành H₂O, nhờ vậy loại bỏ độc tố cho tế bào; nó có rất nhiều ở tế bào gan — cơ quan khử độc chính. Lysosom cũng tiêu hủy nhưng bằng enzym thủy phân trong môi trường acid, không xử lý H₂O₂.",
+    "tip": "Peroxisom ↔ peroxid (H₂O₂). Tên gọi đã nói đúng chức năng."
+  },
+
+  "bai-2-26": {
+    "explain": "Ẩm bào, khuếch tán, thẩm thấu và xuất bào đều là các hình thức đưa vật chất qua màng. \"Nhược trương\" không phải là cách vận chuyển mà là tên một LOẠI MÔI TRƯỜNG (nồng độ chất tan ngoài tế bào thấp hơn trong tế bào, khiến nước đi từ ngoài vào trong).",
+    "tip": "Ưu – nhược – đẳng trương là tên MÔI TRƯỜNG, không phải tên kiểu vận chuyển."
+  },
+
+  "bai-2-27": {
+    "explain": "Nhân là bào quan có kích thước lớn nhất trong tế bào nhân thực (đường kính thường 5–10 μm, chiếm khoảng 10% thể tích tế bào). Ribosom và peroxisom nhỏ hơn rất nhiều. Tế bào chất và bào tương tuy chiếm thể tích lớn nhưng là một vùng/khối môi trường, không phải một \"bộ phận\" theo nghĩa bào quan.",
+    "tip": "Bào quan to nhất, nhìn thấy đầu tiên dưới kính hiển vi → nhân."
+  },
+
+  "bai-2-28": {
+    "explain": "Trung thể là bào quan tham gia phân bào: nó gồm hai trung tử xếp vuông góc, đến kỳ đầu sẽ tách về hai cực và tổ chức hình thành thoi vô sắc kéo nhiễm sắc thể. Trung tử chỉ là một thành phần của trung thể, còn thoi vô sắc là sản phẩm do trung thể tạo ra chứ bản thân không phải bào quan.",
+    "tip": "Trung thể = 2 trung tử vuông góc, là \"người chỉ huy\" tạo thoi vô sắc."
+  },
+
+  "bai-2-29": {
+    "explain": "Ty thể là nơi diễn ra hô hấp tế bào: chu trình Krebs ở chất nền và chuỗi truyền điện tử trên màng trong, tạo phần lớn ATP cho tế bào — vì vậy nó được gọi là \"trạm năng lượng\". Lạp thể làm quang hợp (chiều ngược lại), ribosom tổng hợp protein, Golgi đóng gói, lysosom tiêu hóa nội bào.",
+    "tip": "Hô hấp = ty thể; quang hợp = lục lạp."
+  },
+
+  "bai-2-30": {
+    "explain": "Màng tế bào (màng sinh chất) là nơi thực hiện và kiểm soát quá trình trao đổi chất và trao đổi thông tin giữa tế bào với môi trường. Lưu ý: trong câu này phương án D \"Màng sinh chất\" chỉ là tên gọi khác của chính A \"Màng tế bào\", nên về bản chất D cũng đúng — đề gốc tô vàng cả hai. Bộ đề chốt A vì đó là phương án đứng trước; câu 31 ngay sau là bản lặp lại của câu này với đáp án \"Màng sinh chất\".",
+    "tip": "Màng tế bào = màng sinh chất, hai tên một thứ. Câu này đề ra trùng phương án."
+  },
+
+  "bai-2-31": {
+    "explain": "Màng sinh chất bao bọc tế bào, là màng bán thấm có tính chọn lọc, vừa thực hiện vừa kiểm soát trao đổi chất với môi trường và là giá thể gắn các enzym trao đổi chất. Tế bào chất chỉ là nơi diễn ra phản ứng, nhân giữ thông tin di truyền, ty thể lo năng lượng, Golgi lo đóng gói — không bào quan nào tiếp xúc trực tiếp với môi trường ngoài như màng.",
+    "tip": "Muốn trao đổi với \"bên ngoài\" thì phải là cái nằm ở ranh giới → màng."
+  },
+
+  "bai-2-32": {
+    "explain": "Tuyệt đại bộ phận DNA của tế bào nhân thực nằm trong nhân, cuộn với protein histon tạo thành nhiễm sắc thể. Ty thể và lạp thể cũng có DNA riêng nhưng chỉ là vài chục gen, chiếm tỷ lệ rất nhỏ — nên trả lời cho câu \"nằm CHỦ YẾU ở đâu\" vẫn phải là nhiễm sắc thể.",
+    "tip": "Ty thể/lục lạp có DNA, nhưng chỉ là \"phần phụ\"; kho chính vẫn ở NST."
+  },
+
+  "bai-2-33": {
+    "explain": "Cloramphenicol gắn vào tiểu đơn vị 50S của ribosom vi khuẩn, ức chế enzym peptidyl transferase nên chặn đứng việc tạo liên kết peptid, làm vi khuẩn không tổng hợp được protein. Ribosom vi khuẩn (70S = 30S + 50S) khác ribosom người (80S = 40S + 60S), đó là lý do thuốc diệt khuẩn mà ít hại tế bào người.",
+    "tip": "Nhiều kháng sinh (cloramphenicol, tetracyclin, streptomycin) đều đánh vào RIBOSOM 70S."
+  },
+
+  "bai-2-34": {
+    "explain": "Vẫn là trung thể — bào quan tổ chức vi ống để hình thành thoi vô sắc, thiết bị bắt buộc phải có cho sự phân chia nhiễm sắc thể. Trung tử là thành phần cấu tạo nên trung thể, thoi vô sắc là sản phẩm chứ không phải bào quan, còn nhân tuy chứa NST nhưng không phải \"bào quan cần cho phân bào\" theo nghĩa cơ học.",
+    "tip": "Câu 28 và 34 là một câu hỏi lặp lại, đáp án giống hệt: trung thể."
+  },
+
+  "bai-2-35": {
+    "explain": "Slide ghi thành phần chính của thành tế bào prokaryota là peptidoglycan (murein) — mạng lưới đường và peptid bao quanh tế bào, giúp giữ hình dạng và chịu áp suất thẩm thấu. Cellulose là vách tế bào thực vật, còn phospholipid và lipoprotein thuộc về màng chứ không phải thành.",
+    "tip": "Vi khuẩn = peptidoglycan; thực vật = cellulose. Hai câu 35 và 40 là cặp đối nhau."
+  },
+
+  "bai-2-36": {
+    "explain": "Slide chia bào quan eukaryota thành nhóm có màng (lưới nội chất, Golgi, lysosom, peroxisom, không bào, ty thể, lục lạp) và nhóm KHÔNG màng gồm đúng ba thứ: trung thể, bộ xương tế bào và ribosom. Vì cả A, B, C đều đúng nên phải chọn D.",
+    "tip": "Ba thứ không có màng: Ribosom – Khung xương – Trung thể (R-K-T)."
+  },
+
+  "bai-2-37": {
+    "explain": "Lysosom là túi màng đơn do Golgi sinh ra, bên trong chứa hệ enzym thủy phân hoạt động ở pH acid; nó tiêu hóa thức ăn đưa vào bằng thực bào và phân hủy các bào quan già cỗi. Peroxisom chứa enzym oxy hóa (không phải thủy phân), còn ty thể, lạp thể, Golgi có chức năng khác hẳn.",
+    "tip": "Lyso- = ly giải, phân hủy. Lysosom là \"dạ dày\" của tế bào."
+  },
+
+  "bai-2-38": {
+    "explain": "E. coli, Salmonella, vi khuẩn nói chung và vi sinh vật đơn bào nhân sơ đều là prokaryota. Hồng cầu là tế bào của người — thuộc eukaryota; nó mất nhân khi trưởng thành nhưng đó là hiện tượng biệt hóa chứ không biến nó thành tế bào nhân sơ.",
+    "tip": "Hồng cầu KHÔNG CÒN nhân, khác hẳn với CHƯA CÓ nhân chuẩn của vi khuẩn."
+  },
+
+  "bai-2-39": {
+    "explain": "Ribosom là nơi diễn ra quá trình dịch mã — lắp ráp các acid amin thành chuỗi polypeptid theo mã trên mRNA. Nó có thể nằm tự do trong bào tương hoặc bám trên lưới nội chất hạt. Lưới nội chất hạt chỉ \"mang\" ribosom và tiếp nhận sản phẩm, còn Golgi chỉ chế biến tiếp protein đã được tổng hợp xong.",
+    "tip": "Ribosom = xưởng ráp protein; mọi bào quan khác chỉ là kho và khâu đóng gói."
+  },
+
+  "bai-2-40": {
+    "explain": "Vách tế bào ở eukaryota (điển hình là tế bào thực vật) có thành phần chủ yếu là cellulose dạng sợi dài, gắn với nhau nhờ pectin và hemicellulose; vách thứ cấp còn có thêm lignin. Peptidoglycan là của vi khuẩn, còn lipoprotein và phospholipid thuộc về màng.",
+    "tip": "Cellulose = chất xơ của thực vật; đó cũng là vách tế bào thực vật."
+  },
+
+  "bai-2-41": {
+    "explain": "Roi và lông của tế bào prokaryota được cấu tạo từ protein flagellin — các tiểu phần flagellin xếp xoắn thành sợi rỗng, quay như chân vịt giúp vi khuẩn bơi. Dynein là protein vận động của roi eukaryota, còn histon là protein cuộn DNA, không liên quan đến roi.",
+    "tip": "Flagellin cho vi khuẩn (flagella), dynein cho nhân thực."
+  },
+
+  "bai-2-42": {
+    "explain": "Roi và lông của eukaryota có sợi trục gồm các cặp vi ống; protein dynein nằm giữa các cặp vi ống, dùng ATP để làm chúng trượt lên nhau tạo chuyển động uốn sóng. Flagellin chỉ có ở vi khuẩn, histon không tham gia cấu trúc roi.",
+    "tip": "Dynein là \"động cơ\" làm vi ống trượt — nhớ dynein ↔ dynamic (chuyển động)."
+  },
+
+  "bai-2-43": {
+    "explain": "Ribosom của tế bào nhân thực có hệ số lắng 80S, gồm tiểu đơn vị nhỏ 40S và tiểu đơn vị lớn 60S. Lưu ý hệ số lắng S không cộng tuyến tính (40 + 60 ≠ 80) vì nó phụ thuộc cả khối lượng lẫn hình dạng phân tử.",
+    "tip": "Nhân thực: 80 = 40 + 60 (số chẵn, dễ nhớ \"8-4-6\")."
+  },
+
+  "bai-2-44": {
+    "explain": "Ribosom vi khuẩn nhỏ hơn: 70S gồm tiểu đơn vị 30S và 50S. Chính sự khác biệt 70S/80S này là cơ sở để kháng sinh (streptomycin, tetracyclin, cloramphenicol) tấn công vi khuẩn mà ít ảnh hưởng tế bào người.",
+    "tip": "Nhân sơ: 70 = 30 + 50 (\"7-3-5\"); nhân thực: 80 = 40 + 60 (\"8-4-6\")."
+  },
+
+  "bai-2-45": {
+    "explain": "Lưới nội chất hạt (nhám) mang tên \"hạt\" chính vì có các ribosom bám trên mặt ngoài màng; chúng tổng hợp protein rồi đẩy thẳng vào lòng lưới. Lưới nội chất nhẵn không có ribosom bám nên chuyên tổng hợp lipid, carbohydrat, khử độc và dự trữ calci.",
+    "tip": "\"Hạt\" chính là các hạt ribosom đính trên màng."
+  },
+
+  "bai-2-46": {
+    "explain": "Đó đúng là định nghĩa của thẩm thấu: nước di chuyển qua màng bán thấm từ nơi nồng độ chất tan thấp (nhược trương) sang nơi nồng độ chất tan cao (ưu trương). Khuếch tán là sự di chuyển của CHẤT TAN chứ không phải của nước; vận chuyển chủ động cần năng lượng và protein tải; đồng vận chuyển đưa hai chất cùng lúc.",
+    "tip": "Thẩm thấu = chỉ có NƯỚC đi; khuếch tán = CHẤT TAN đi."
+  },
+
+  "bai-2-47": {
+    "explain": "Slide liệt kê ba kiểu nối liên bào: nối khít (hai màng ép sát nhau nhờ protein đặc hiệu — tế bào da), nối neo hay nối thể liên bào (sợi trung gian đóng chặt tế bào vào nhau — tế bào cơ), và nối khe (protein màng bao quanh một lỗ cho tế bào giao lưu — cơ tim, tế bào phôi). Vì có đủ ba loại nên đáp án là E.",
+    "tip": "Ba nối: KHÍT (dán kín) – NEO (buộc chặt) – KHE (mở lỗ nói chuyện)."
+  },
+
+  "bai-2-48": {
+    "explain": "Điểm mấu chốt trong câu hỏi là cụm \"truyền thông tin từ chúng cho các tế bào ở các nơi khác\" — đó là chức năng thông tin của tế bào, thực hiện qua các phân tử tín hiệu và thụ thể màng. Việc tách rời và trôi theo dòng máu là hệ quả, còn \"chức năng tiếp nhận\" chỉ là một nửa (nhận), không bao gồm việc phát tín hiệu đi.",
+    "tip": "Trong đề, chữ \"truyền thông tin\" dẫn thẳng tới đáp án \"chức năng thông tin\"."
+  },
+
+  "bai-2-49": {
+    "explain": "Protein màng mới là thứ tạo nên tính đặc hiệu: kênh/protein vận chuyển chọn lọc từng chất, enzym xúc tác phản ứng riêng, thụ thể nhận đúng một loại hormon hay chất dẫn truyền thần kinh, protein liên kết neo khung xương tế bào. Lipid chỉ tạo nền (hàng rào kỵ nước) chung cho mọi màng, còn carbohydrat tham gia nhận diện nhưng luôn gắn trên protein hoặc lipid.",
+    "tip": "Lipid dựng \"bức tường\", protein mới là các \"cánh cửa và ổ khóa\" đặc hiệu."
+  },
+
+  "bai-2-50": {
+    "explain": "Ty thể và lục lạp đều có màng kép, trong chất nền chứa DNA vòng và ribosom riêng, nên tự tổng hợp được một phần protein của mình — đây là bằng chứng cho thuyết nội cộng sinh (chúng vốn là vi khuẩn bị nuốt vào). Nhân có DNA nhưng không có ribosom riêng (ribosom chỉ được lắp ráp ở hạch nhân rồi chuyển ra bào tương); lưới nội chất nhám chỉ có ribosom bám bên ngoài chứ không có DNA.",
+    "tip": "Hai bào quan \"bán tự trị\": ty thể và lục lạp — đều có màng kép + DNA + ribosom."
+  },
+
+  "bai-2-51": {
+    "explain": "Tên gọi \"khảm lỏng\" gồm hai vế: LỎNG là do phospholipid luôn chuyển động tạo tính dòng lỏng hai chiều, KHẢM là do các protein xuyên màng và cài màng nằm rải rác như những mảnh khảm. Cholesterol chỉ điều chỉnh độ cứng của màng chứ không phải yếu tố tạo nên mô hình.",
+    "tip": "Khảm = protein, Lỏng = phospholipid. Tên mô hình đã gói đủ hai thành phần."
+  },
+
+  "bai-2-52": {
+    "explain": "Penicilin ức chế enzym transpeptidase, chặn việc nối chéo các chuỗi peptidoglycan khi vi khuẩn xây vách. Vi khuẩn Gram dương có lớp peptidoglycan rất dày và nằm lộ ra ngoài cùng nên thuốc tiếp cận dễ và tác dụng mạnh. Gram âm có thêm màng ngoài lipopolysaccharid che chắn, peptidoglycan lại mỏng, nên penicilin cổ điển kém hiệu quả. Virus không có vách nên hoàn toàn không chịu tác dụng.",
+    "tip": "Penicilin đánh vách → vách càng dày càng trúng đòn → Gram dương."
+  },
+
+  "bai-2-53": {
+    "explain": "Nguyên sinh chất chia thành hai lớp: ngoại chất nằm ở ngoại vi, là lớp mỏng, đồng nhất, ở trạng thái gel nên có độ nhớt cao; nội chất nằm phía trong, lỏng hơn (sol) và chứa các bào quan. Các phương án nói ngoại chất \"bao quanh nhân\" hay \"nằm trong\" đều mô tả nội chất chứ không phải ngoại chất.",
+    "tip": "NGOẠI chất ở NGOÀI, mỏng và đặc (gel); NỘI chất ở trong, lỏng (sol)."
+  },
+
+  "bai-2-54": {
+    "explain": "Phép nhuộm Gram phân biệt vi khuẩn dựa trên cấu trúc và thành phần hóa học của THÀNH tế bào: Gram dương có lớp peptidoglycan dày giữ được phức hợp tím tinh thể – iod nên bắt màu tím; Gram âm có peptidoglycan mỏng kèm màng ngoài lipopolysaccharid, bị cồn tẩy mất màu tím rồi bắt màu đỏ của thuốc nhuộm phụ. Nhân, tế bào chất và màng sinh chất của hai nhóm không khác nhau đủ để phân loại.",
+    "tip": "Gram ăn thua ở VÁCH (thành tế bào), không phải ở màng hay nhân."
+  },
+
+  "bai-2-55": {
+    "explain": "Lipid (chủ yếu là phospholipid) tạo nên lớp kép — bộ khung nền tảng của mọi màng sinh học: màng tế bào, màng nhân, màng ty thể, màng lysosom… Không có lớp lipid kép thì không có màng, nên nó là thành phần quan trọng của TẤT CẢ các loại màng. Các phương án D, E thu hẹp phạm vi (chỉ vi khuẩn, chỉ bào quan) nên sai; B bỏ mất chữ \"quan trọng\"; C phủ định hẳn vai trò.",
+    "tip": "Không lipid thì không có màng — đúng cho mọi màng sinh học, không trừ cái nào."
+  },
+
+  "bai-2-56": {
+    "explain": "Ribosom bám trên lưới nội chất hạt tổng hợp protein rồi đẩy chuỗi polypeptid vào LÒNG lưới nội chất, để từ đó protein đi tiếp sang Golgi và được tiết ra ngoài — chứ không đổ vào bào tương. Vì vậy phát biểu E là sai. Các phát biểu A–D đều đúng: ribosom là thành phần của lưới nội bào có hạt, gồm rRNA và protein, và là nơi tổng hợp protein.",
+    "tip": "Ribosom bám lưới → protein vào LÒNG lưới (để đi tiết). Ribosom tự do mới thả protein vào bào tương."
+  },
+
+  "bai-2-57": {
+    "explain": "Tế bào ung thư có khả năng sống MẠNH hơn tế bào thường: chúng tăng sinh vô hạn, thoát khỏi chết theo chương trình, tiết yếu tố sinh mạch để tự kéo mạch máu nuôi mình, cạnh tranh dinh dưỡng và còn tách rời để di căn. Vì vậy câu E mô tả ngược hoàn toàn và là phát biểu sai.",
+    "tip": "Ung thư nguy hiểm chính vì tế bào của nó SỐNG DAI hơn tế bào lành."
+  },
+
+  "bai-2-58": {
+    "explain": "Trung tử có cấu trúc 9(3) + 0: chín bộ BA vi ống xếp thành vòng tròn và KHÔNG có vi ống ở trung tâm. Cấu trúc 9(2) + 1(2) — chín bộ đôi quanh một cặp vi ống trung tâm — là của sợi trục roi và lông, không phải trung tử.",
+    "tip": "Trung tử: 9 bộ BA, rỗng giữa — 9(3)+0. Roi: 9 bộ ĐÔI, đặc giữa — 9(2)+1(2)."
+  },
+
+  "bai-2-59": {
+    "explain": "Bộ máy Golgi nhận sản phẩm từ lưới nội chất ở mặt cis, chế biến tiếp (gắn đường, cắt gọt), rồi đóng gói thành túi và xuất ra ở mặt trans để vận chuyển tới đích — đồng thời sinh ra lysosom. Tổng hợp lipid/phospholipid và dự trữ calci là việc của lưới nội chất trơn; tiêu hóa và phân hủy bào quan già là việc của lysosom.",
+    "tip": "Golgi = bưu điện của tế bào: nhận – đóng gói – gửi đi."
+  },
+
+  "bai-2-60": {
+    "explain": "Sợi trục của roi và lông eukaryota có cấu trúc 9(2) + 1(2): chín bộ ĐÔI vi ống xếp vòng tròn bao quanh một cặp vi ống ở trung tâm. Riêng thể gốc của roi thì lại là 9(3), giống trung tử. Cấu trúc 9(3) + 0 trong phương án A chính là trung tử chứ không phải roi.",
+    "tip": "Roi có \"lõi\" ở giữa (9+2); trung tử rỗng giữa (9×3+0). Nhớ cặp câu 58 – 60."
+  },
+
+  "bai-2-61": {
+    "explain": "Vi khuẩn Gram âm có cấu trúc vỏ phức tạp gồm hai lớp màng — màng sinh chất bên trong và màng ngoài lipopolysaccharid — kẹp giữa là lớp peptidoglycan mỏng. Gram dương ngược lại: chỉ một màng sinh chất nhưng lớp peptidoglycan rất dày. Các phương án về màu nhuộm cũng sai chiều: Gram dương mới bắt màu tím, Gram âm bắt màu đỏ.",
+    "tip": "Gram ÂM: 2 màng + peptidoglycan mỏng + màu đỏ. Gram DƯƠNG: 1 màng + peptidoglycan dày + màu tím."
+  },
+
+  "bai-2-62": {
+    "explain": "Tổng hợp protein tiết là chức năng của lưới nội chất HẠT (nhám) vì nó có ribosom bám; lưới nội chất nhẵn không có ribosom nên không làm được việc này — do đó D là điều lưới nhẵn KHÔNG có. Ba phát biểu còn lại đều đúng với lưới nhẵn: màng có bơm Ca²⁺-ATPase, bơm Ca²⁺ vào lòng lưới làm cơ duỗi, và lưới này phát triển mạnh ở tế bào cơ.",
+    "tip": "Nhẵn = không ribosom = không làm protein. Nhẵn lo lipid, khử độc và calci."
+  },
+
+  "bai-2-63": {
+    "explain": "Hô hấp tế bào diễn ra ở ty thể (chu trình Krebs ở chất nền, chuỗi truyền điện tử trên màng trong), không phải ở màng sinh chất — nên E là đặc điểm không đúng. Bốn ý còn lại đúng theo slide: màng bao bọc bào quan, ngăn tách tế bào với môi trường và với tế bào khác, là màng bán thấm chọn lọc, thực hiện và kiểm soát trao đổi chất.",
+    "tip": "Hô hấp là của TY THỂ. (Riêng vi khuẩn mới hô hấp ở màng vì chúng không có ty thể.)"
+  },
+
+  "bai-2-64": {
+    "explain": "Slide nêu đúng ba tầm quan trọng của các nối liên bào: giúp các tế bào kết nối lại với nhau, giao lưu thông tin, và kiểm soát sự định hướng của các cấu trúc nội bào. Phương án D (trao đổi chất và năng lượng) không nằm trong danh sách — đó là chức năng của màng sinh chất, nên đáp án chỉ gồm A, B và C.",
+    "tip": "Ba vai trò của nối: KẾT NỐI – THÔNG TIN – ĐỊNH HƯỚNG. Không có \"trao đổi chất\"."
+  }
+}

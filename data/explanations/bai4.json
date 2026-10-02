@@ -1,0 +1,188 @@
+{
+  "_doc": "Giải thích + mẹo ghi nhớ — Bài 4: Cơ sở phân tử của di truyền học. Bám theo slide 04-co-so-phan-tu-cua-di-truyen-hoc.pdf (và slide 9 của bài 5 cho các số đo cấu trúc NST).",
+
+  "bai-4-90": {
+    "explain": "Thang cấu trúc siêu hiển vi của NST nhân thực: DNA xoắn kép 2 nm → sợi cơ bản (chuỗi nucleosom) 11 nm → sợi nhiễm sắc 30 nm → vùng xếp cuộn 300 nm → chromatid 700 nm → NST kỳ giữa 1400 nm. Sợi cơ bản là mức DNA đã quấn quanh các khối histon tạo chuỗi hạt, đường kính 11 nm.",
+    "tip": "Dãy số phải thuộc: 2 – 11 – 30 – 300 – 700 – 1400 (nm)."
+  },
+
+  "bai-4-91": {
+    "explain": "Ở cấp độ PHÂN TỬ, vật chất di truyền là DNA (acid deoxyribonucleic) — nơi trình tự nucleotid mã hóa toàn bộ thông tin di truyền. Nhiễm sắc thể là vật chất di truyền ở cấp độ TẾ BÀO (xem câu 112), còn protein và acid amin là sản phẩm biểu hiện của gen chứ không phải vật chất di truyền.",
+    "tip": "Phân tử → DNA. Tế bào → NST. Hai câu 91 và 112 là một cặp."
+  },
+
+  "bai-4-92": {
+    "explain": "ATP = Adenosin TriPhosphat: adenin gắn với đường ribose tạo thành adenosin, rồi adenosin mang ba gốc phosphat. Lưu ý đề gốc in trùng hai phương án A và C (\"Adenin TriPhosphat\"); dù vậy cả hai đều sai vì thiếu phần đường ribose trong tên gọi.",
+    "tip": "Adenin + ribose = adenoSIN. Thiếu chữ \"sin\" là thiếu đường."
+  },
+
+  "bai-4-93": {
+    "explain": "Base nitơ + đường pentose (ribose hoặc deoxyribose) = nucleosid. Chỉ khi gắn thêm gốc phosphat mới thành nucleotid — đơn phân của acid nucleic. Nói cách khác: nucleotid = nucleosid + phosphat.",
+    "tip": "Nucleosid = base + đường (chưa có phosphat). Thêm P mới thành nucleoTID."
+  },
+
+  "bai-4-94": {
+    "explain": "DNA dùng bốn base A, T, G, C; RNA dùng A, U, G, C. Ba base chung cho cả hai là adenin, guanin và cytosin. Thymin chỉ có ở DNA, còn uracil chỉ có ở RNA — hễ phương án nào chứa T hoặc U thì đã không còn là \"chung cho cả hai\".",
+    "tip": "Chung = A, G, C. Khác nhau đúng một cặp: T (DNA) ⇄ U (RNA)."
+  },
+
+  "bai-4-95": {
+    "explain": "Purin có nhân đôi vòng, gồm adenin và guanin. Pyrimidin có nhân một vòng, gồm cytosin, thymin và uracil. Trong DNA, một purin luôn bắt cặp với một pyrimidin (A–T, G–C) nên đường kính chuỗi xoắn kép mới đều 2 nm.",
+    "tip": "Purin = A, G (\"Ai Giàu\" — hai chữ, hai vòng). Còn lại ba base là pyrimidin."
+  },
+
+  "bai-4-96": {
+    "explain": "Pyrimidin là các base nhân một vòng: uracil, thymin và cytosin. Adenin và guanin thuộc nhóm purin (hai vòng), nên mọi phương án có A hoặc G đều bị loại.",
+    "tip": "Pyrimidin = U, T, C — nhớ \"CUT\" (Cytosin, Uracil, Thymin)."
+  },
+
+  "bai-4-97": {
+    "explain": "Theo mô hình Watson – Crick: chuỗi xoắn kép DNA có đường kính trong 2 nm, mỗi cặp base cách nhau 0,34 nm, mỗi vòng xoắn gồm 10 cặp base và dài 3,4 nm. Đường kính luôn không đổi vì mỗi cặp base đều là một purin ghép với một pyrimidin.",
+    "tip": "Bộ ba số của DNA: 0,34 nm – 3,4 nm – 2 nm (một cặp base – một vòng xoắn – đường kính)."
+  },
+
+  "bai-4-98": {
+    "explain": "Một vòng xoắn của DNA gồm 10 cặp base, mỗi cặp cách nhau 0,34 nm nên chiều dài vòng xoắn = 10 × 0,34 = 3,4 nm. Lưu ý các bẫy đơn vị: 34 nm hay 0,34 µm đều lệch đúng 10 lần hoặc 100 lần.",
+    "tip": "0,34 nm × 10 cặp = 3,4 nm. Nhầm dấu phẩy là mất điểm."
+  },
+
+  "bai-4-99": {
+    "explain": "Cặp A–T có 2 liên kết hydro, cặp G–C có 3 liên kết. Mất 3 cặp nucleotid thì tùy thành phần: 3 cặp A–T mất 6 liên kết; 2 A–T + 1 G–C mất 7; 1 A–T + 2 G–C mất 8; 3 cặp G–C mất 9. Vì không biết đoạn mất gồm những cặp nào nên đáp án phải liệt kê đủ bốn khả năng 6, 7, 8, 9.",
+    "tip": "A–T = 2 H, G–C = 3 H. Mất 3 cặp → mất từ 3×2 = 6 đến 3×3 = 9, đủ mọi giá trị ở giữa."
+  },
+
+  "bai-4-100": {
+    "explain": "AUG vừa là bộ ba mở đầu dịch mã, vừa mã hóa acid amin methionin — nên mọi chuỗi polypeptid mới tổng hợp đều bắt đầu bằng methionin (ở vi khuẩn là formyl-methionin). UAA, UAG, UGA là ba bộ ba kết thúc; UGG mã hóa tryptophan.",
+    "tip": "AUG = \"Ấn Út Go\" — nút khởi động, và luôn là methionin."
+  },
+
+  "bai-4-101": {
+    "explain": "Có đúng ba bộ ba kết thúc: UAA, UAG và UGA. Chúng không mã hóa acid amin nào; khi ribosom gặp chúng, yếu tố giải phóng sẽ cắt chuỗi polypeptid ra khỏi tRNA và kết thúc dịch mã.",
+    "tip": "Ba mã kết thúc: UAA – UAG – UGA. Mẹo: đều bắt đầu bằng U, và không có A ở cuối cùng nào là bộ ba mã hóa."
+  },
+
+  "bai-4-102": {
+    "explain": "RNA polymerase luôn kéo dài chuỗi RNA theo chiều 5' → 3', nghĩa là nó phải đọc mạch khuôn DNA theo chiều ngược lại, tức 3' → 5'. Mạch khuôn ở đây là DNA chứ không phải RNA, vì đây là phiên mã.",
+    "tip": "Tổng hợp luôn 5'→3'; vì vậy đọc khuôn luôn 3'→5'. Phiên mã: khuôn là DNA."
+  },
+
+  "bai-4-103": {
+    "explain": "mRNA được sao chép từ mạch khuôn DNA trong nhân rồi mang thông tin đó ra bào tương — slide ghi chức năng của nó là \"mang thông tin di truyền từ trong nhân ra ngoài để tổng hợp protein\", tức chức năng truyền thông tin. Việc sinh tổng hợp protein là của ribosom, vận chuyển acid amin là của tRNA, cấu tạo ribosom là của rRNA.",
+    "tip": "m = messenger = người đưa tin. Ba câu 103, 118, 119 chia nhau ba loại RNA."
+  },
+
+  "bai-4-104": {
+    "explain": "DNA polymerase là enzym chính của tái bản: nó gắn các nucleotid vào đầu 3'-OH để tổng hợp cả mạch liên tục lẫn mạch gián đoạn (các đoạn Okazaki) tại chạc tái bản. Helicase chỉ tháo xoắn, topoisomerase gỡ xoắn căng phía trước, ligase nối các đoạn Okazaki lại, còn RNA polymerase dùng cho phiên mã (và tạo đoạn mồi).",
+    "tip": "Helicase mở khóa – polymerase xây – ligase hàn. Người \"xây\" là polymerase."
+  },
+
+  "bai-4-105": {
+    "explain": "Slide trình bày cơ chế tái bản DNA theo Okazaki gồm ĐÚNG BA giai đoạn: duỗi xoắn, kéo dài và kết thúc. \"Giai đoạn khởi đầu\" không nằm trong cách chia này (việc nhận biết điểm ori đã được xếp vào phần duỗi xoắn), nên phương án A bị loại và đáp án là B, C, D.",
+    "tip": "Ba giai đoạn theo slide: DUỖI XOẮN – KÉO DÀI – KẾT THÚC. Không có \"khởi đầu\"."
+  },
+
+  "bai-4-106": {
+    "explain": "Theo slide, cấu trúc bậc 4 là protein gồm NHIỀU HƠN MỘT chuỗi polypeptid, được bình ổn bằng liên kết hydro, ion, disulfide và tương tác kỵ nước. Vì đề nhắc tới \"nhiều chuỗi polypeptid\" và \"vị trí của liên kết disulfide\" nên phải chọn bậc IV. Lưu ý: nếu đề chỉ nói \"thứ tự sắp xếp acid amin trong MỘT chuỗi\" thì đó mới là cấu trúc bậc I.",
+    "tip": "Nghe thấy NHIỀU CHUỖI polypeptid là nghĩ ngay bậc IV (vd hemoglobin 4 chuỗi)."
+  },
+
+  "bai-4-107": {
+    "explain": "Sợi nhiễm sắc có đường kính 30 nm — đó là mức sợi cơ bản 11 nm xoắn tiếp lên một bậc nữa. 2 nm là DNA trần, 11 nm là sợi cơ bản, 300 nm là vùng xếp cuộn, 700 nm là chromatid.",
+    "tip": "Nhớ thang 2 – 11 – 30 – 300 – 700. \"Sợi nhiễm sắc\" nằm ở nấc 30."
+  },
+
+  "bai-4-108": {
+    "explain": "Sợi cơ bản (chuỗi nucleosom) có đường kính 11 nm: DNA 2 nm quấn quanh các khối 8 histon tạo thành chuỗi \"hạt trên dây\". Đây là câu lặp lại của câu 90.",
+    "tip": "Câu 90 và 108 giống hệt nhau: 11 nm."
+  },
+
+  "bai-4-109": {
+    "explain": "Thoi phân bào (thoi vô sắc) được hình thành từ trung thể: hai trung thể tách về hai cực, tổ chức các vi ống tỏa ra tạo thành thoi để kéo nhiễm sắc thể. Dây sao cũng là sản phẩm của trung thể, còn khung xương tế bào là hệ sợi chung chứ không chuyên trách phân bào.",
+    "tip": "Trung thể là \"nhà máy\" dựng thoi vô sắc (xem lại câu 28, 34 của bài 2)."
+  },
+
+  "bai-4-110": {
+    "explain": "Mức xoắn có đường kính 30 nm chính là sợi nhiễm sắc. Sợi DNA là 2 nm, sợi cơ bản 11 nm, vùng xếp cuộn (sợi siêu xoắn) 300 nm, chromatid 700 nm. Đây là câu hỏi ngược của câu 107.",
+    "tip": "Câu 107 hỏi \"sợi nhiễm sắc bao nhiêu nm?\", câu 110 hỏi \"30 nm là sợi gì?\" — cùng một cặp."
+  },
+
+  "bai-4-111": {
+    "explain": "Đề chọn nucleotid: xét về mặt hóa học, NST được cấu tạo từ DNA mà DNA là chuỗi các nucleotid, nên nucleotid là đơn vị cơ bản nhất. Cần phân biệt với nucleosom — đó là đơn vị CẤU TRÚC (DNA quấn quanh 8 histon) của NST, nhiều tài liệu khác lại lấy nucleosom làm đáp án cho cách hỏi tương tự. Khi gặp câu này theo đề của lớp, chọn nucleotid.",
+    "tip": "Đơn vị HÓA HỌC = nucleotid; đơn vị CẤU TRÚC = nucleosom. Đề này hỏi \"cơ bản\" → nucleotid."
+  },
+
+  "bai-4-112": {
+    "explain": "Ở cấp độ TẾ BÀO, vật chất di truyền là nhiễm sắc thể — hình thái mà DNA mang lấy để phân chia đều về các tế bào con. DNA là câu trả lời cho cấp độ phân tử (câu 91), còn protein và acid amin chỉ là sản phẩm của gen.",
+    "tip": "Nhìn bằng kính hiển vi thấy NST → đó là cấp tế bào. Nhìn bằng trình tự thấy DNA → cấp phân tử."
+  },
+
+  "bai-4-113": {
+    "explain": "Mã di truyền (bộ ba mã hóa, codon) nằm trên DNA dưới dạng trình tự gốc và được sao sang mRNA để ribosom đọc. tRNA mang bộ ba ĐỐI MÃ (anticodon) — bổ sung với codon chứ không phải bản thân mã; rRNA chỉ tham gia cấu tạo ribosom.",
+    "tip": "Mã (codon): DNA và mRNA. Đối mã (anticodon): tRNA."
+  },
+
+  "bai-4-114": {
+    "explain": "tRNA có hình lá chẻ ba: một đầu gắn acid amin, thùy đối diện mang bộ ba đối mã để bắt cặp bổ sung với codon trên mRNA. Nhờ vậy đúng acid amin được đưa tới đúng vị trí trong chuỗi polypeptid.",
+    "tip": "tRNA một tay cầm acid amin, một tay cầm ĐỐI MÃ để \"soi\" vào mRNA."
+  },
+
+  "bai-4-115": {
+    "explain": "Cả ba chức năng nêu ra — lưu trữ, bảo quản thông tin di truyền và điều hòa hoạt động gen — đều ĐÚNG là chức năng của nhiễm sắc thể. Vì câu hỏi tìm chức năng KHÔNG CÓ, mà không phương án nào trong A, B, C sai, nên đáp án phải là \"A, B và C sai\" (hiểu theo nghĩa: ba phương án đó đều không phải là điều cần tìm).",
+    "tip": "Câu phủ định + cả ba ý đều đúng → chọn \"A, B và C sai\"."
+  },
+
+  "bai-4-116": {
+    "explain": "Một nucleotid gồm ba phần: base nitơ + đường pentose + acid phosphoric (H₃PO₄). Đường là deoxyribose nếu ở DNA, là ribose nếu ở RNA — nên cả B và C đều đúng. Phương án A sai vì dùng H₂SO₄ (acid sulfuric) thay cho H₃PO₄; do A sai nên không chọn được D.",
+    "tip": "Phosphat là H₃PO₄, không bao giờ là H₂SO₄. Đường thì cả ribose lẫn deoxyribose đều hợp lệ."
+  },
+
+  "bai-4-117": {
+    "explain": "Ở cơ chế kết thúc phiên mã không phụ thuộc rho, RNA polymerase gặp một đoạn trình tự lặp đảo (trình tự bổ sung với chính nó) nên RNA mới tự bắt cặp tạo cấu trúc kẹp tóc, ngay sau đó là một đoạn poly-U bám yếu với khuôn — hai yếu tố này cùng làm RNA tách ra và ngừng tổng hợp. Vậy cả C và D đều cần, nên chọn E. Intron và exon chỉ liên quan đến cắt nối RNA sau phiên mã.",
+    "tip": "Dừng phiên mã = kẹp tóc (trình tự bổ sung) + đuôi poly-U. Phải đủ cả hai."
+  },
+
+  "bai-4-118": {
+    "explain": "tRNA (RNA vận chuyển) có nhiệm vụ mang acid amin đã được hoạt hóa tới ribosom và đặt đúng vị trí nhờ bộ ba đối mã. Việc xúc tác tạo liên kết peptid là của rRNA trong tiểu đơn vị lớn; truyền thông tin là của mRNA.",
+    "tip": "t = transfer = vận chuyển acid amin."
+  },
+
+  "bai-4-119": {
+    "explain": "rRNA kết hợp với protein tạo nên hai tiểu đơn vị của ribosom, đồng thời chính rRNA của tiểu đơn vị lớn mang hoạt tính peptidyl transferase. Trong đề, đáp án được chọn là \"cấu tạo nên ribosom\" — chức năng đặc trưng nhất. Lưu ý đề gốc in trùng hai phương án A và D (\"vận chuyển acid amin\"), cả hai đều là việc của tRNA.",
+    "tip": "r = ribosomal = thành phần cấu tạo ribosom."
+  },
+
+  "bai-4-120": {
+    "explain": "Dịch mã dùng mRNA làm khuôn; ribosom trượt trên mRNA theo chiều 5' → 3', bắt đầu từ codon AUG. Khuôn ở đây là RNA (không phải DNA — đó là phiên mã), và chiều đọc là 5' → 3'. So sánh với câu 102: phiên mã đọc khuôn DNA theo chiều 3' → 5'.",
+    "tip": "Phiên mã: khuôn DNA 3'→5'. Dịch mã: khuôn mRNA 5'→3'. Nhớ cặp câu 102 – 120."
+  },
+
+  "bai-4-121": {
+    "explain": "Nguyên phân có bốn kỳ: đầu, giữa, sau, cuối. NST đã nhân đôi từ pha S nên ở kỳ đầu và kỳ giữa nó tồn tại ở trạng thái kép (hai chromatid dính nhau ở tâm động). Sang kỳ sau, tâm động tách ra, hai chromatid đi về hai cực nên NST trở thành đơn. Phương án D tuy có vẻ đầy đủ hơn nhưng \"cuối kỳ trung gian\" không thuộc nguyên phân.",
+    "tip": "Kép ở ĐẦU – GIỮA; tách thành đơn từ kỳ SAU."
+  },
+
+  "bai-4-122": {
+    "explain": "NST của tế bào nhân chuẩn cấu tạo từ DNA kết hợp với protein — chủ yếu là histon (tạo lõi nucleosom) cùng các protein phi histon. Phương án D mô tả chi tiết hơn nhưng đáp án được chọn trong đề là A (cách diễn đạt khái quát). DNA vòng là của vi khuẩn, còn RNA hay protein đơn thuần đều không phải thành phần của NST.",
+    "tip": "NST nhân thực = DNA + protein (histon). DNA vòng trần = vi khuẩn."
+  },
+
+  "bai-4-123": {
+    "explain": "AUG nằm trên mRNA và đánh dấu điểm mở đầu của quá trình DỊCH MÃ (không phải phiên mã), đồng thời mã hóa methionin. Ba bộ ba kết thúc dịch mã là UAA, UAG, UGA — khác hẳn AUG; còn kết thúc phiên mã lại do cấu trúc kẹp tóc và đoạn poly-U quyết định chứ không do bộ ba nào.",
+    "tip": "AUG là nút START của DỊCH MÃ. Đừng lẫn phiên mã với dịch mã."
+  },
+
+  "bai-4-124": {
+    "explain": "Mỗi nucleosom gồm lõi 8 phân tử histon (hai bản sao của H2A, H2B, H3, H4) với đoạn DNA khoảng 146 cặp base quấn quanh 1¾ vòng — tức 7/4 vòng. Các nucleosom nối nhau bằng DNA liên kết tạo chuỗi \"hạt trên dây\" đường kính 11 nm.",
+    "tip": "7/4 vòng quanh 8 histon — nhớ \"bảy phần tư, tám histon\"."
+  },
+
+  "bai-4-125": {
+    "explain": "Nucleotid = nucleosid + phosphat. Khi thủy phân nucleotid KHÔNG hoàn toàn, ta mới cắt được gốc phosphat và thu lấy nucleosid. Nếu thủy phân hoàn toàn thì nucleosid cũng vỡ tiếp thành base nitơ và đường. Còn thủy phân acid nucleic ở mức không hoàn toàn thì sản phẩm là nucleotid chứ chưa phải nucleosid.",
+    "tip": "Acid nucleic → (cắt) nucleotid → (cắt tiếp) nucleosid → (cắt nữa) base + đường."
+  },
+
+  "bai-4-126": {
+    "explain": "Acid nucleic (DNA và RNA) là những hợp chất CAO phân tử — polymer của hàng nghìn tới hàng triệu nucleotid — nên ba phương án nói \"đơn phân tử\" đều sai ngay. Chúng tham gia các quá trình CƠ BẢN nhất của sự sống: lưu giữ, bảo quản, truyền đạt thông tin di truyền và sinh tổng hợp protein. Lưu ý: câu này không được tô đáp án trong đề gốc; đáp án B được chốt theo cách diễn đạt chuẩn của giáo trình, phương án A chỉ khác đúng một từ (\"phức tạp\") — xem data/review_needed.md.",
+    "tip": "Acid nucleic là POLYMER (cao phân tử) → loại ngay mọi phương án \"đơn phân tử\"."
+  }
+}

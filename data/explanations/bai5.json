@@ -1,0 +1,43 @@
+{
+  "_doc": "Giải thích + mẹo ghi nhớ — Bài 5: Sự phân chia tế bào. Bám theo slide 05-su-phan-chia-te-bao.pdf.",
+
+  "bai-5-127": {
+    "explain": "Tâm động là eo thắt sơ cấp của nhiễm sắc thể, nơi gắn thể động (kinetochore) để các sợi thoi phân bào bám vào và kéo nhiễm sắc thể về hai cực. Cánh ngắn, cánh dài chỉ là hai phần của nhiễm sắc thể do tâm động chia ra; eo thứ cấp liên quan đến hạch nhân; đầu mút (telomere) bảo vệ hai đầu nhiễm sắc thể khỏi bị cắt ngắn.",
+    "tip": "Thoi phân bào chỉ bám được vào TÂM ĐỘNG — như sợi dây buộc vào đúng một điểm."
+  },
+
+  "bai-5-128": {
+    "explain": "Ở kỳ sau giảm phân I, tâm động KHÔNG phân chia; hai nhiễm sắc thể kép của mỗi cặp tương đồng bị kéo nguyên vẹn về hai cực — đó chính là bước làm giảm số lượng nhiễm sắc thể từ 2n xuống n. Phải sang kỳ sau giảm phân II thì tâm động mới tách để hai nhiễm sắc tử rời nhau.",
+    "tip": "Sau I: tách CẶP tương đồng (NST vẫn kép). Sau II: tách hai CHROMATID."
+  },
+
+  "bai-5-129": {
+    "explain": "Kỳ trung gian chiếm khoảng 95% thời gian chu kỳ tế bào và gồm đủ ba pha: G1 (ribosom và các bào quan bắt đầu nhân đôi, tế bào lớn lên), S (DNA nhân đôi) và G2 (tổng hợp các chất cần cho phân chia nhân). Vì cả ba đều đúng nên chọn D.",
+    "tip": "G1 – S – G2: Lớn lên → Sao chép DNA → Chuẩn bị phân chia."
+  },
+
+  "bai-5-130": {
+    "explain": "Nhiễm sắc thể bắt đầu co xoắn từ kỳ đầu và đạt mức đóng xoắn cực đại ở kỳ giữa, khi chúng xếp thành hàng trên mặt phẳng xích đạo — đây cũng là lúc quan sát hình thái nhiễm sắc thể rõ nhất, nên người ta lập bộ nhiễm sắc thể đồ (karyotype) ở kỳ giữa. Sang kỳ sau và kỳ cuối, nhiễm sắc thể bắt đầu duỗi xoắn trở lại.",
+    "tip": "Muốn chụp ảnh NST thì chụp ở KỲ GIỮA — lúc nó \"gọn\" nhất."
+  },
+
+  "bai-5-131": {
+    "explain": "Nguyên phân (phân bào nguyên nhiễm) gồm một lần phân chia, tạo ra từ một tế bào lưỡng bội 2n hai tế bào con cũng 2n, giống hệt nhau và giống hệt tế bào mẹ về mặt di truyền. Giảm phân thì ngược lại — giảm số nhiễm sắc thể một nửa và tạo biến dị; còn kỳ trung gian, kỳ sau chỉ là các giai đoạn, không phải một kiểu phân bào.",
+    "tip": "NGUYÊN phân = giữ NGUYÊN bộ NST (2n → 2n)."
+  },
+
+  "bai-5-132": {
+    "explain": "Giảm phân (phân bào giảm nhiễm) gồm hai lần phân chia liên tiếp mà chỉ nhân đôi DNA một lần, nên một tế bào 2n cho ra bốn tế bào đơn bội n — cơ sở để tạo giao tử. Lần phân chia I làm giảm số lượng nhiễm sắc thể, lần II phân ly các nhiễm sắc tử; giữa hai lần không có kỳ trung gian.",
+    "tip": "GIẢM phân = GIẢM một nửa (2n → n), 1 lần nhân đôi nhưng 2 lần chia."
+  },
+
+  "bai-5-133": {
+    "explain": "Kỳ trước (kỳ đầu) là lúc sợi DNA và protein co đặc lại thành nhiễm sắc thể nhìn thấy được, màng nhân bắt đầu bị bẻ gãy và thoi vô sắc hình thành. Ở kỳ trung gian nhiễm sắc thể còn ở dạng sợi mảnh; sang kỳ giữa nó đã co ngắn tối đa chứ không còn \"bắt đầu\" nữa.",
+    "tip": "BẮT ĐẦU co ngắn → kỳ ĐẦU. CO NGẮN NHẤT → kỳ giữa."
+  },
+
+  "bai-5-134": {
+    "explain": "Dấu hiệu \"các nhiễm sắc thể nằm trên mặt phẳng xích đạo của thoi phân bào\" luôn là đặc trưng của kỳ giữa — ở đây là kỳ giữa II. Khác với kỳ giữa I (xếp thành hai hàng, từng cặp tương đồng), kỳ giữa II chỉ còn các nhiễm sắc thể kép đơn lẻ xếp thành một hàng vì không còn cặp tương đồng.",
+    "tip": "Thấy chữ \"xích đạo\" là nghĩ ngay KỲ GIỮA."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_doc": "Giải thích + mẹo ghi nhớ — Bài 1: Sinh học, khoa học của sự sống. Bám theo slide bài giảng 01-sinh-hoc-khoa-hoc-cua-su-song.pdf.",
+
+  "bai-1-1": {
+    "explain": "Các cấp tổ chức sống được chia làm hai nhóm: cấp trung gian (nguyên tử → phân tử → bào quan → mô → cơ quan → hệ cơ quan) và cấp cơ bản (tế bào → cơ thể → quần thể → quần xã → hệ sinh thái – sinh quyển). Tế bào là bậc thấp nhất trong nhóm cơ bản, tức là cấu trúc nhỏ nhất đã biểu hiện đầy đủ các đặc tính của sự sống. Mô, cơ quan, cơ thể đều nằm trên tế bào; quần thể còn cao hơn nữa.",
+    "tip": "Nhỏ hơn tế bào thì chỉ còn là \"vật chất\", chưa phải \"sự sống\"."
+  },
+
+  "bai-1-2": {
+    "explain": "Dãy cấp tổ chức cơ bản kết thúc ở sinh quyển: tế bào → cơ thể → quần thể → quần xã → hệ sinh thái → sinh quyển. Sinh quyển bao gồm toàn bộ sinh vật trên Trái Đất cùng mọi mối quan hệ của chúng, nên rộng hơn cả hệ sinh thái (vốn chỉ là một môi trường cụ thể cộng với sinh vật trong đó).",
+    "tip": "Sinh quyển = tất cả các hệ sinh thái cộng lại → đứng đầu bảng."
+  },
+
+  "bai-1-3": {
+    "explain": "Slide định nghĩa tế bào là \"đơn vị cấu trúc và chức năng của sự sống\": mọi cơ thể sống đều cấu tạo từ tế bào, và mọi hoạt động sống (trao đổi chất, sinh sản, di truyền) đều diễn ra ở mức tế bào. Vì vậy tế bào vừa là đơn vị tổ chức thấp nhất có sự sống, vừa là đơn vị cơ sở để nghiên cứu sinh học.",
+    "tip": "Câu 1 và câu 3 cùng một đáp án: tế bào."
+  },
+
+  "bai-1-4": {
+    "explain": "Nguyên sinh chất mang bốn tính chất: là một hệ keo, có độ nhớt cao, là hỗn dịch không bền, và chuyển đổi được sol ↔ gel theo hai chiều. Về mặt nhũ tương thì nguyên sinh chất là nhũ tương BỀN — nhờ vậy các giọt lipid mới phân tán ổn định trong bào tương mà không tách lớp. Do đó \"nhũ tương không bền\" là tính chất duy nhất không đúng.",
+    "tip": "Hỗn dịch thì KHÔNG bền, nhưng nhũ tương thì BỀN — đảo đúng một chữ là sai cả câu."
+  },
+
+  "bai-1-5": {
+    "explain": "Glucose là đường đơn 6 carbon đi thẳng vào đường phân mà không cần bước chuyển hóa trung gian nào, nên tế bào dùng được ngay. Galactose và fructose phải được gan chuyển thành dẫn xuất của glucose trước; còn ribose và deoxyribose là đường 5 carbon dùng để xây acid nucleic chứ không phải nguồn năng lượng chính.",
+    "tip": "Chỉ glucose mới \"vào thẳng\" đường phân — các đường khác đều phải đi vòng."
+  },
+
+  "bai-1-6": {
+    "explain": "Khi mất máu cần bù lại THỂ TÍCH tuần hoàn, tức là cần một dung dịch cao phân tử giữ được nước trong lòng mạch. Dextran là polymer của glucose, phân tử lớn nên nằm lại trong mạch và kéo nước vào, thay thế được vai trò của huyết tương. Các dung dịch glucose 5–20% chỉ là đường đơn, khuếch tán nhanh ra khỏi lòng mạch nên chỉ bù năng lượng và nước, không bù được thể tích.",
+    "tip": "Bù thể tích phải dùng phân tử TO (dextran); glucose phân tử nhỏ nên \"chạy\" mất."
+  },
+
+  "bai-1-7": {
+    "explain": "ATP (adenosin triphosphat) được gọi là \"đồng tiền năng lượng\" của tế bào: năng lượng từ dị hóa được tích vào liên kết cao năng của ATP, rồi mọi hoạt động sống đều rút từ đó ra dùng. GTP, CTP cũng là nucleotid triphosphat và cũng mang năng lượng, nhưng chúng chỉ phục vụ một số phản ứng chuyên biệt (GTP cho dịch mã, tín hiệu G-protein; CTP cho tổng hợp lipid), không phải đồng tiền chung của cả tế bào.",
+    "tip": "\"Tiền tệ\" thì phải tiêu được ở mọi nơi → chỉ ATP."
+  },
+
+  "bai-1-8": {
+    "explain": "Lactose (đường sữa) là disaccharid gồm glucose + galactose, chỉ có trong sữa của động vật có vú nên là đường đặc trưng của sữa bò. Saccarose là đường mía, fructose là đường trái cây, còn glucose và galactose là đường đơn, trong sữa chúng chỉ xuất hiện sau khi lactose bị thủy phân.",
+    "tip": "Lac- = sữa (lactic, lactose, lactation)."
+  },
+
+  "bai-1-9": {
+    "explain": "Glucose là đường lưu hành trong máu và là chỉ số được đo khi xét nghiệm \"đường huyết\"; mọi đường khác hấp thu từ ruột đều được gan chuyển thành glucose trước khi đưa vào máu. Lactose đặc trưng cho sữa, saccarose cho mía, fructose cho trái cây, galactose chỉ là sản phẩm thủy phân của lactose.",
+    "tip": "Đường huyết = glucose; sữa = lactose; mía = saccarose; trái cây = fructose."
+  },
+
+  "bai-1-10": {
+    "explain": "Theo slide, các cấp tổ chức sống có ba tính chất đặc trưng: cấu trúc phức tạp và tổ chức tinh vi, chuyển hóa năng lượng phức tạp, và thông tin được ổn định – chính xác – liên tục. Sinh trưởng tuy không nằm trong ba tính chất này nhưng vẫn là một biểu hiện của sự sống. Riêng \"sự sống\" không phải là một tính chất — nó chính là cái mà ba tính chất kia mô tả, nên đây là phương án duy nhất không thuộc nhóm.",
+    "tip": "Ba tính chất đặc trưng = Cấu trúc – Năng lượng – Thông tin. \"Sự sống\" là kết quả, không phải tính chất."
+  },
+
+  "bai-1-11": {
+    "explain": "Chuyển đổi sol ↔ gel theo hai chiều là khả năng nguyên sinh chất hóa lỏng rồi đông đặc trở lại một cách thuận nghịch. Chính sự chuyển đổi này tạo ra dòng chảy bào tương và chân giả, giúp tế bào di chuyển (như amip) và giúp cơ thể vận động. Độ nhớt cao hay trạng thái hệ keo, nhũ tương chỉ mô tả cấu trúc tĩnh của nguyên sinh chất, tự chúng không sinh ra chuyển động.",
+    "tip": "Muốn \"động\" thì phải đổi trạng thái: sol ⇄ gel."
+  },
+
+  "bai-1-12": {
+    "explain": "Dấu hiệu nhận ra một sinh vật đã có cấu trúc tế bào là đủ ba thành phần cơ bản: màng sinh chất, tế bào chất và vật chất di truyền (vùng nhân hoặc nhân). Virus thiếu bộ ba này nên chưa có cấu trúc tế bào. Lưu ý \"có màng nhân\" chỉ phân biệt nhân thực với nhân sơ, không phân biệt có tế bào hay chưa — vi khuẩn không có màng nhân nhưng vẫn là tế bào.",
+    "tip": "Đủ 3 phần: màng – bào tương – vật chất di truyền thì mới gọi là tế bào."
+  },
+
+  "bai-1-13": {
+    "explain": "Vi khuẩn là sinh vật prokaryota (nhân sơ): vật chất di truyền là một phân tử DNA vòng nằm trần trong vùng nhân, không được bao bọc bởi màng nhân, nên gọi là \"chưa có nhân chuẩn\". Vi khuẩn vẫn có đủ màng tế bào, tế bào chất và nhiễm sắc thể (dạng vòng), nên các phương án còn lại đều sai.",
+    "tip": "Vi khuẩn = có tế bào, nhưng nhân chưa có màng → nhân sơ."
+  },
+
+  "bai-1-14": {
+    "explain": "Virus chỉ gồm lõi acid nucleic bọc trong vỏ protein, không có màng sinh chất, không có bào tương, không có bộ máy chuyển hóa riêng — tức là chưa có cấu trúc tế bào, phải ký sinh nội bào bắt buộc mới nhân lên được. Virus vẫn có vật chất di truyền (DNA hoặc RNA) nên phương án C sai; còn nói \"chưa có nhân chuẩn\" thì đúng nhưng chưa phải điểm phân biệt căn bản nhất, vì vi khuẩn cũng vậy.",
+    "tip": "Vi khuẩn chưa có NHÂN chuẩn; virus thì chưa có cả TẾ BÀO."
+  },
+
+  "bai-1-15": {
+    "explain": "Sự sống được định nghĩa qua một đơn vị tổ chức di truyền (tế bào) có đủ ba khả năng: trao đổi chất với môi trường, sinh sản để truyền thông tin di truyền, và tiến hóa để thích nghi. Các phương án còn lại hoặc đổi \"một\" thành \"nhiều\" (sai, vì chỉ cần một tế bào đã là sự sống), hoặc phủ định ba khả năng trên (sai hoàn toàn).",
+    "tip": "Sự sống = MỘT đơn vị di truyền + trao đổi chất + sinh sản + tiến hóa."
+  },
+
+  "bai-1-16": {
+    "explain": "Slide liệt kê bảy biểu hiện của sự sống: trao đổi chất, nội cân bằng, tăng trưởng, vận động, đáp lại kích thích, sinh sản và thích nghi. Mỗi phương án nhiễu đều thiếu một hoặc hai mục: B và D thiếu nội cân bằng, C thiếu đáp lại kích thích, E thiếu hẳn bốn mục và thêm \"thông tin\" (vốn là tính chất đặc trưng chứ không phải biểu hiện).",
+    "tip": "7 biểu hiện: Trao đổi – Nội cân bằng – Tăng trưởng – Vận động – Đáp lại – Sinh sản – Thích nghi. Đếm đủ 7, thiếu một là loại."
+  }
+}

@@ -1,0 +1,2566 @@
+{
+ "chapters": [
+  {
+   "num": 1,
+   "title": "Sinh học, Khoa học của sự sống",
+   "questions": [
+    {
+     "num": 1,
+     "text": "Mức tổ chức thấp nhất có sự sống là:",
+     "options": [
+      "A. Cơ quan",
+      "B. Quần thể",
+      "C. Tế bào",
+      "D. Cơ thể",
+      "E. Mô"
+     ],
+     "correct": "C. Tế bào"
+    },
+    {
+     "num": 2,
+     "text": "Mức độ tổ chức cao nhất của sự sống là:",
+     "options": [
+      "A. Hệ sinh thái",
+      "B. Quần thể",
+      "C. Cơ thể",
+      "D. Sinh quyển",
+      "E. Quần xã"
+     ],
+     "correct": "D. Sinh quyển"
+    },
+    {
+     "num": 3,
+     "text": "Đơn vị cơ sở để nghiên cứu sự sống là:",
+     "options": [
+      "A. Tế bào",
+      "B. Cơ quan",
+      "C. Cơ thể",
+      "D. Mô",
+      "E. Chất hóa học"
+     ],
+     "correct": "A. Tế bào"
+    },
+    {
+     "num": 4,
+     "text": "Nguyên sinh chất có các tính chất, ngoại trừ:",
+     "options": [
+      "A. Là một hệ keo",
+      "B. Độ nhớt cao",
+      "C. Hỗn dịch không bền",
+      "D. Chuyển đổi sol-gel",
+      "E. Nhũ tương không bền"
+     ],
+     "correct": "E. Nhũ tương không bền"
+    },
+    {
+     "num": 5,
+     "text": "Nguồn năng lượng dễ sử dụng nhất của tế bào là:",
+     "options": [
+      "A. Glucose",
+      "B. Galactose",
+      "C. Fructose",
+      "D. Ribose",
+      "E. Deoxyribose"
+     ],
+     "correct": "A. Glucose"
+    },
+    {
+     "num": 6,
+     "text": "Trong điều trị mất máu người ta thường thay thế huyết tương bằng:",
+     "options": [
+      "A. Glucose 5%",
+      "B. Glucose 10%",
+      "C. Glucose 15%",
+      "D. Glucose 20%",
+      "E. Dextran"
+     ],
+     "correct": "E. Dextran"
+    },
+    {
+     "num": 7,
+     "text": "Loại mononucleotid nào sau đây là \"tiền tệ\" của tế bào có vai trò dự trữ năng lượng cho mọi hoạt động của tế bào",
+     "options": [
+      "A. ATP",
+      "B. GTP",
+      "C. CTP",
+      "D. A, B và C đúng",
+      "E. A và B đúng"
+     ],
+     "correct": "A. ATP"
+    },
+    {
+     "num": 8,
+     "text": "Đường đặc trưng của sữa bò là:",
+     "options": [
+      "A. Glucose",
+      "B. Galactose",
+      "C. Lactose",
+      "D. Saccarose",
+      "E. Fructose"
+     ],
+     "correct": "C. Lactose"
+    },
+    {
+     "num": 9,
+     "text": "Loại đường đặc trưng trong máu là:",
+     "options": [
+      "A. Glucose",
+      "B. Galactose",
+      "C. Saccarose",
+      "D. Lactose",
+      "E. Fructose"
+     ],
+     "correct": "A. Glucose"
+    },
+    {
+     "num": 10,
+     "text": "Tính chất đặc trưng KHÔNG CÓ của các cấp tổ chức sống là:",
+     "options": [
+      "A. Cấu trúc phức tạp",
+      "B. Năng lượng",
+      "C. Sự sống",
+      "D. Thông tin",
+      "E. Sinh trưởng"
+     ],
+     "correct": "C. Sự sống"
+    },
+    {
+     "num": 11,
+     "text": "Tính chất cơ bản của nguyên sinh chất để giúp tế bào cơ thể vận động là:",
+     "options": [
+      "A. Chuyển đổi Soll-Gel 2 chiều",
+      "B. Độ nhớt cao",
+      "C. Hệ keo",
+      "D. Nhũ tương không bền",
+      "E. Nhũ tương bền"
+     ],
+     "correct": "A. Chuyển đổi Soll-Gel 2 chiều"
+    },
+    {
+     "num": 12,
+     "text": "Sinh vật có cấu trúc tế bào được phân biệt với sinh vật chưa có cấu trúc tế bào là:",
+     "options": [
+      "A. Chưa có màng nhân",
+      "B. Có cấu trúc ba thành phần",
+      "C. Có màng nhân",
+      "D. Có màng tế bào",
+      "E. Có cấu trúc màng tế bào"
+     ],
+     "correct": "B. Có cấu trúc ba thành phần"
+    },
+    {
+     "num": 13,
+     "text": "Vi khuẩn là loại sinh vật có cấu trúc nào sau đây:",
+     "options": [
+      "A. Có nhân chuẩn",
+      "B. Chưa có cấu trúc tế bào",
+      "C. Chưa có nhiễm sắc thể",
+      "D. Chưa có cấu trúc màng tb",
+      "E. Chưa có nhân chuẩn"
+     ],
+     "correct": "E. Chưa có nhân chuẩn"
+    },
+    {
+     "num": 14,
+     "text": "Virus là loại sinh vật có cấu trúc nào sau đây:",
+     "options": [
+      "A. Chưa có nhân chuẩn",
+      "B. Chưa có cấu trúc tế bào",
+      "C. Chưa có vật chất di truyền",
+      "D. Chưa có cấu trúc màng tb",
+      "E. Có nhân chuẩn"
+     ],
+     "correct": "B. Chưa có cấu trúc tế bào"
+    },
+    {
+     "num": 15,
+     "text": "Sự sống là:",
+     "options": [
+      "A. Một đơn vị tổ chức di truyền có khả năng trao đổi chất, sinh sản và tiến hóa.",
+      "B. Nhiều đơn vị tổ chức di truyền có khả năng trao đổi chất, sinh sản và tiến hóa.",
+      "C. Một đơn vị tổ chức di truyền không có khả năng trao đổi chất, sinh sản và tiến hóa.",
+      "D. Nhiều đơn vị tổ chức di truyền không có khả năng trao đổi chất, sinh sản và tiến hóa",
+      "E. Không có đáp án đúng"
+     ],
+     "correct": "A. Một đơn vị tổ chức di truyền có khả năng trao đổi chất, sinh sản và tiến hóa."
+    },
+    {
+     "num": 16,
+     "text": "Các biểu hiện của các cấp tổ chức sống là:",
+     "options": [
+      "A. Trao đổi chất, nội cân bằng, tăng trưởng, vân động, đáp lại, sinh sản, thích nghi.",
+      "B. Trao đổi chất, tăng trưởng, vân động, sinh sản, thích nghi.",
+      "C. Trao đổi chất, nội cân bằng, tăng trưởng, vân động, sinh sản, thích nghi.",
+      "D. Trao đổi chất, tăng trưởng, vân động, đáp lại, sinh sản, thích nghi.",
+      "E. Trao đổi chất, nội cân bằng, tăng trưởng, thông tin"
+     ],
+     "correct": "A. Trao đổi chất, nội cân bằng, tăng trưởng, vân động, đáp lại, sinh sản, thích nghi."
+    }
+   ]
+  },
+  {
+   "num": 2,
+   "title": "Sinh học tế bào",
+   "questions": [
+    {
+     "num": 17,
+     "text": "Màng sinh chất có thành phần hóa học là:",
+     "options": [
+      "A. Protein",
+      "B. Lipid",
+      "C. Phospholipid",
+      "D. Carbohydrat",
+      "E. A, B, C và D đúng"
+     ],
+     "correct": "E. A, B, C và D đúng"
+    },
+    {
+     "num": 18,
+     "text": "Thành phần hóa học làm cho màng sinh chất, có tính linh động là:",
+     "options": [
+      "A. Protein",
+      "B. Acid phosphoric",
+      "C. Phospholipid",
+      "D. Carbohydrat",
+      "E. Chollesterol"
+     ],
+     "correct": "C. Phospholipid"
+    },
+    {
+     "num": 19,
+     "text": "Thành phần hóa học làm cho màng sinh chất, có tính bền cơ học là:",
+     "options": [
+      "A. Protein",
+      "B. Acid phosphoric",
+      "C. Carbohydrat",
+      "D. Chollesterol",
+      "E. Phospholipid"
+     ],
+     "correct": "D. Chollesterol"
+    },
+    {
+     "num": 20,
+     "text": "Tế bào chất chứa 80% là:",
+     "options": [
+      "A. Bộ máy Golgi",
+      "B. Nước",
+      "C. Perixysome",
+      "D. Ribosome",
+      "E. Nhân"
+     ],
+     "correct": "B. Nước"
+    },
+    {
+     "num": 21,
+     "text": "Bào quan có khả năng chuyển hóa năng lượng trong tế bào:",
+     "options": [
+      "A. Lạp thể",
+      "B. Ty thể",
+      "C. Bộ máy golgi",
+      "D. B và C đúng",
+      "E. A và B đúng"
+     ],
+     "correct": "E. A và B đúng"
+    },
+    {
+     "num": 22,
+     "text": "Nucleotid cần cho quá trình truyền tín hiệu trong tế bào:",
+     "options": [
+      "A. ATP",
+      "B. GTP",
+      "C. TTP",
+      "D. CTP",
+      "E. UTP"
+     ],
+     "correct": "B. GTP"
+    },
+    {
+     "num": 23,
+     "text": "Bộ máy golgi được sinh ra từ:",
+     "options": [
+      "A. Lisosom",
+      "B. Mạng lưới nội chất trơn",
+      "C. Nhân",
+      "D. Mạng lưới nội chất hạt",
+      "E. Riboxom"
+     ],
+     "correct": "B. Mạng lưới nội chất trơn"
+    },
+    {
+     "num": 24,
+     "text": "Bào quan lisosom được sinh ra từ:",
+     "options": [
+      "A. Nhân",
+      "B. Mạng lưới nội chất trơn",
+      "C. Bộ máy golgi",
+      "D. Riboxom",
+      "E. Mạng lưới nội chất hạt"
+     ],
+     "correct": "C. Bộ máy golgi"
+    },
+    {
+     "num": 25,
+     "text": "Bào quan nào có chức năng giải độc H2O2:",
+     "options": [
+      "A. Bộ máy golgi",
+      "B. Mạng lưới nội chất trơn",
+      "C. Lisosom",
+      "D. Mạng lưới nội chất hạt",
+      "E. Peroxisom"
+     ],
+     "correct": "E. Peroxisom"
+    },
+    {
+     "num": 26,
+     "text": "Hình thức vận chuyển nào sau đây không phải là vận chuyển vật chất qua màng:",
+     "options": [
+      "A. Ẩm bào",
+      "B. Khuếch tán",
+      "C. Thẩm thấu",
+      "D. Nhược trương",
+      "E. Xuất bào"
+     ],
+     "correct": "D. Nhược trương"
+    },
+    {
+     "num": 27,
+     "text": "Bộ phận lớn nhất trong tế bào là:",
+     "options": [
+      "A. Nhân",
+      "B. Peroxysome",
+      "C. Ribosome",
+      "D. Tế bào chất",
+      "E. Bào tương"
+     ],
+     "correct": "A. Nhân"
+    },
+    {
+     "num": 28,
+     "text": "Bào quan cần cho phân bào là:",
+     "options": [
+      "A. Trung thể",
+      "B. Gốc lông",
+      "C. Trung tử",
+      "D. Ống siêu vi",
+      "E. Khung xương tế bào"
+     ],
+     "correct": "A. Trung thể"
+    },
+    {
+     "num": 29,
+     "text": "Bào quan nào sau đây có chức năng hô hấp trong tế bào:",
+     "options": [
+      "A. Lap thể",
+      "B. Ribosom",
+      "C. Ty thể",
+      "D. Bộ máy golgi",
+      "E. Lysosome"
+     ],
+     "correct": "C. Ty thể"
+    },
+    {
+     "num": 30,
+     "text": "Cấu trúc nào đảm nhân chức năng trao đổi chất với môi trường:",
+     "options": [
+      "A. Màng tế bào",
+      "B. Tế bào chất",
+      "C. Nhân",
+      "D. Màng sinh chất",
+      "E. Ty thể"
+     ],
+     "correct": null
+    },
+    {
+     "num": 31,
+     "text": "Cấu trúc nào đảm nhân chức năng trao đổi chất với môi trường:",
+     "options": [
+      "A. Màng sinh chất",
+      "B. Tế bào chất",
+      "C. Nhân",
+      "D. Ty thể",
+      "E. Bộ máy golgi"
+     ],
+     "correct": "A. Màng sinh chất"
+    },
+    {
+     "num": 32,
+     "text": "DNA nằm chủ yếu ở đâu trong tế bào:",
+     "options": [
+      "A. Ty thể",
+      "B. NST",
+      "C. Lạp thể",
+      "D. A và B",
+      "E. A và C"
+     ],
+     "correct": "B. NST"
+    },
+    {
+     "num": 33,
+     "text": "Kháng sinh nhóm cloramphenicol có tác dụng diệt khuẩn do tác động lên bào quan:",
+     "options": [
+      "A. Ty thể",
+      "B. Ribosome",
+      "C. nhân",
+      "D. Mạng lưới nội chất",
+      "E. A hoặc B"
+     ],
+     "correct": "B. Ribosome"
+    },
+    {
+     "num": 34,
+     "text": "Bào quan cần cho phân bào là:",
+     "options": [
+      "A. Trung thể",
+      "B. Gốc lông",
+      "C. Nhân",
+      "D. Trung tử",
+      "E. Thoi vô sắc"
+     ],
+     "correct": "A. Trung thể"
+    },
+    {
+     "num": 35,
+     "text": "Thành tế bào Prokaryota có thành phần chủ yếu là:",
+     "options": [
+      "A. Lipoprotein",
+      "B. Phospholipid",
+      "C. Cellulose",
+      "D. Protein",
+      "E. Peptidoglycan"
+     ],
+     "correct": "E. Peptidoglycan"
+    },
+    {
+     "num": 36,
+     "text": "Cấu trúc không màng của tế bào eukaryota là:",
+     "options": [
+      "A. Ribosom",
+      "B. Khung xương tế bào",
+      "C. Trung thể",
+      "D. A, B và C đúng",
+      "E. A và B đúng"
+     ],
+     "correct": "D. A, B và C đúng"
+    },
+    {
+     "num": 37,
+     "text": "Bào quan mang hệ enzym thuỷ phân của tế bào là:",
+     "options": [
+      "A. Peroxysom",
+      "B. Lạp thể",
+      "C. Ty thể",
+      "D. Bộ máy golgi",
+      "E. Lysosom"
+     ],
+     "correct": "E. Lysosom"
+    },
+    {
+     "num": 38,
+     "text": "Các tế bào sau đều là tế bào prokaryota TRỪ:",
+     "options": [
+      "A. E.coli",
+      "B. Vi khuẩn",
+      "C. Hồng cầu",
+      "D. Salmonela",
+      "E. Vi sinh vật đơn bào"
+     ],
+     "correct": "C. Hồng cầu"
+    },
+    {
+     "num": 39,
+     "text": "Bào quan nào sau đây là nơi tổng hợp Protein:",
+     "options": [
+      "A. Ty thể",
+      "B. Lạp thể",
+      "C. Ribosom",
+      "D. Bộ máy golgi",
+      "E. Lưới nội sinh chất"
+     ],
+     "correct": "C. Ribosom"
+    },
+    {
+     "num": 40,
+     "text": "Thành tế bào Eukaryota có thành phần chủ yếu là:",
+     "options": [
+      "A. Lipoprotein",
+      "B. Phospholipid",
+      "C. Cellulose",
+      "D. Protein",
+      "E. Peptidoglycan"
+     ],
+     "correct": "C. Cellulose"
+    },
+    {
+     "num": 41,
+     "text": "Roi của tế bào Prokaryota được cấu tạo bởi:",
+     "options": [
+      "A. Protein flagellin và histon",
+      "B. Protein dynein",
+      "C. Protein histon",
+      "D. Protein flagellin",
+      "E. Protein dynein và histon"
+     ],
+     "correct": "D. Protein flagellin"
+    },
+    {
+     "num": 42,
+     "text": "Roi của tế bào Eukaryota được cấu tạo bởi:",
+     "options": [
+      "A. Protein flagellin và histon",
+      "B. Protein dynein",
+      "C. Protein flagellin",
+      "D. Protein histon",
+      "E. Protein dynein và histon"
+     ],
+     "correct": "B. Protein dynein"
+    },
+    {
+     "num": 43,
+     "text": "Hệ số lắng của Ribosom hoàn chỉnh và các tiểu phần ribosom ở tế bào Eukaryota lần lượt là:",
+     "options": [
+      "A. 70S, 30S, 50S",
+      "B. 80S, 30S, 50S",
+      "C. 70S, 40S, 60S",
+      "D. 80S, 40S, 60S",
+      "E. 80S, 30S, 60S"
+     ],
+     "correct": "D. 80S, 40S, 60S"
+    },
+    {
+     "num": 44,
+     "text": "Hệ số lắng của Ribosom hoàn chỉnh và các tiểu phần ribosom ở tế bào Prokaryota lần lượt là:",
+     "options": [
+      "A. 70S, 40S, 60S",
+      "B. 80S, 30S, 50S",
+      "C. 70S, 30S, 50S",
+      "D. 80S, 40S, 60S",
+      "E. 80S, 30S, 60S"
+     ],
+     "correct": "C. 70S, 30S, 50S"
+    },
+    {
+     "num": 45,
+     "text": "Bào quan nào sau đây có Ribosom bám:",
+     "options": [
+      "A. Lưới nội chất hạt",
+      "B. Lạp thể",
+      "C. Lisosom",
+      "D. Lưới nội chất nhẵn",
+      "E. Ribosom"
+     ],
+     "correct": "A. Lưới nội chất hạt"
+    },
+    {
+     "num": 46,
+     "text": "Nước di chuyển từ nơi có nồng độ chất tan thấp sang nơi có nồng độ chất tan cao qua màng bán thấm là kiểu vận chuyển:",
+     "options": [
+      "A. Đồng vận chuyển",
+      "B. Khuếch tán",
+      "C. Vận chuyển thụ động",
+      "D. Thẩm thấu",
+      "E. Vận chuyển chủ động"
+     ],
+     "correct": "D. Thẩm thấu"
+    },
+    {
+     "num": 47,
+     "text": "Các loại nối liên bào:",
+     "options": [
+      "A. Nối khít",
+      "B. Nối neo",
+      "C. Nối khe",
+      "D. A và B đúng",
+      "E. A, B và C đúng"
+     ],
+     "correct": "E. A, B và C đúng"
+    },
+    {
+     "num": 48,
+     "text": "Ung thư di căn là do các tế bào ung thư từ một cứ điểm nào đó đã được phát tán và truyền thông tin từ chúng cho các tế bào ở các nơi khác trong cơ thể, thuộc chức năng nào của tế bào:",
+     "options": [
+      "A. Chức năng vận chuyển các chất qua màng",
+      "B. Chức năng tiếp nhận",
+      "C. Chức năng thực bào",
+      "D. Chức năng thông tin",
+      "E. Chức năng phân chia"
+     ],
+     "correct": "D. Chức năng thông tin"
+    },
+    {
+     "num": 49,
+     "text": "Chức năng đặc hiệu của màng do:",
+     "options": [
+      "A. Lipid màng đảm nhiệm",
+      "B. Protein màng đảm nhiệm",
+      "C. Carbohydat màng đảm nhiệm",
+      "D. A và B đúng",
+      "E. A, B và C đúng"
+     ],
+     "correct": "B. Protein màng đảm nhiệm"
+    },
+    {
+     "num": 50,
+     "text": "Các bào quan nào sau đây có DNA và ribosom riêng:",
+     "options": [
+      "A. Lục lạp, mạng lưới nội chất nhám",
+      "B. Ty thể, mạng lưới nội chất nhám",
+      "C. Lục lạp, ty thể",
+      "D. Ty thể, lục lạp, nhân",
+      "E. Nhân, lục lạp, ty thể"
+     ],
+     "correct": "C. Lục lạp, ty thể"
+    },
+    {
+     "num": 51,
+     "text": "Mô hình khảm lỏng của màng sinh chất là do tính chất của các thành phần nào:",
+     "options": [
+      "A. Protein, cholesterol",
+      "B. Cholesterol, phospholipid",
+      "C. Phospholipid, protein",
+      "D. Phospholipid, protein, cholesterol",
+      "E. Phospholipid, lipid, cholesterol"
+     ],
+     "correct": "C. Phospholipid, protein"
+    },
+    {
+     "num": 52,
+     "text": "Kháng sinh penicilin tác động ức chế sự tổng hợp vách tế bào vi khuẩn nên có tác dụng diệt loại vi khuẩn nào:",
+     "options": [
+      "A. Gram dương",
+      "B. Gram âm",
+      "C. Cả 2 loại gram dương và gram âm",
+      "D. Virus",
+      "E. A, B, C và D sai"
+     ],
+     "correct": "A. Gram dương"
+    },
+    {
+     "num": 53,
+     "text": "Lớp ngoại chất là:",
+     "options": [
+      "A. Nằm trong màng tế bào, bao quanh nhân",
+      "B. Lớp ngoài bao quanh ribosom",
+      "C. Ở ngoại vi, lớp mỏng và có độ nhớt cao",
+      "D. Lớp trong bao quanh nhân",
+      "E. Ở ngoại vi, có nhiều lipid"
+     ],
+     "correct": "C. Ở ngoại vi, lớp mỏng và có độ nhớt cao"
+    },
+    {
+     "num": 54,
+     "text": "Vi khuẩn được chia làm 2 loại gram âm và gram dương dựa vào:",
+     "options": [
+      "A. Cấu trúc và thành phần hóa học của nhân",
+      "B. Cấu trúc và thành phần hóa học của tế bào chất",
+      "C. Cấu trúc và thành phần hóa học của thành tế bào",
+      "D. Cấu trúc và thành phần hóa học của nhân, tế bào chất, thành tế bào",
+      "E. Cấu trúc và thành phần hóa học của màng sinh chất"
+     ],
+     "correct": "C. Cấu trúc và thành phần hóa học của thành tế bào"
+    },
+    {
+     "num": 55,
+     "text": "Lipid màng là:",
+     "options": [
+      "A. Thành phần quan trọng của tất cả các loại màng sinh học, kể cả màng tế bào.",
+      "B. Thành phần của tất cả các loại màng sinh học, kể cả màng tế bào.",
+      "C. Thành phần không quan trọng của tất cả các loại màng sinh học, kể cả màng tế bào.",
+      "D. Thành phần quan trọng của màng tế bào vi khuẩn",
+      "E. Thành phần quan trọng của màng các bào quan"
+     ],
+     "correct": "A. Thành phần quan trọng của tất cả các loại màng sinh học, kể cả màng tế bào."
+    },
+    {
+     "num": 56,
+     "text": "Câu nào sau đây không đúng đối với hạt ribosom:",
+     "options": [
+      "A. Là một thành phần của lưới nội bào có hạt",
+      "B. Có vai trò quan trọng trong sinh tổng hợp protein",
+      "C. Thành phần gồm một hỗn hợp acid ribonucleic và protein",
+      "D. Các phân tử protein được tổng hợp trong cấu trúc ribosom",
+      "E. Ribosom đưa phân tử protein được tổng hợp vào trong bào tương của tế bào"
+     ],
+     "correct": "E. Ribosom đưa phân tử protein được tổng hợp vào trong bào tương của tế bào"
+    },
+    {
+     "num": 57,
+     "text": "Đặc điểm nào không đúng của tế bào ung thư:",
+     "options": [
+      "A. Tế bào ung thư thường phát triển quá mức",
+      "B. Các tế bào ung thư có khả năng tách rời và trôi theo dòng máu nên tạo ra hiện tượng di căn",
+      "C. Tế bào ung thư tạo ra yếu tố sinh mạch",
+      "D. Tổ chức ung thư cạnh tranh chất dinh dưỡng với các tế bào bình thường",
+      "E. Tế bào ung thư có khả năng sống kém hơn tế bào thường"
+     ],
+     "correct": "E. Tế bào ung thư có khả năng sống kém hơn tế bào thường"
+    },
+    {
+     "num": 58,
+     "text": "Trung tử của tế bào Eukaryota được cấu tạo bởi:",
+     "options": [
+      "A. 9 bộ ba vi ống thành vòng tròn, không có vi ống trung tâm",
+      "B. 9 bộ đôi vi ống xếp thành vòng tròn quanh một cặp vi ống trung tâm",
+      "C. 9 bộ đôi vi ống thành vòng tròn, không có vi ống trung tâm",
+      "D. 9 bộ ba vi ống xếp thành vòng tròn quanh một cặp vi ống trung tâm",
+      "E. 9 bộ ba ống xếp thành vòng tròn quanh một cặp vi ống trung tâm"
+     ],
+     "correct": "A. 9 bộ ba vi ống thành vòng tròn, không có vi ống trung tâm"
+    },
+    {
+     "num": 59,
+     "text": "Bộ máy golgi thực hiện vai trò:",
+     "options": [
+      "A. Chế biến, đóng gói, vận chuyển các chất",
+      "B. Tổng hợp phospholipid hình thành màng sinh chất",
+      "C. Dự trữ calci",
+      "D. Tiêu hóa thức ăn, phân hủy các bào quan già cỗi",
+      "E. Tổng hợp lipid"
+     ],
+     "correct": "A. Chế biến, đóng gói, vận chuyển các chất"
+    },
+    {
+     "num": 60,
+     "text": "Roi của tế bào Eukaryota được cấu tạo bởi:",
+     "options": [
+      "A. 9 bộ ba vi ống thành vòng tròn, không có vi ống trung tâm",
+      "B. 9 bộ đôi vi ống xếp thành vòng tròn quanh một cặp vi ống trung tâm",
+      "C. 9 bộ đôi vi ống thành vòng tròn, không có vi ống trung tâm",
+      "D. 9 bộ ba vi ống xếp thành vòng tròn quanh một cặp vi ống trung tâm",
+      "E. 9 bộ ba ống xếp thành vòng tròn quanh một cặp vi ống trung tâm"
+     ],
+     "correct": "B. 9 bộ đôi vi ống xếp thành vòng tròn quanh một cặp vi ống trung tâm"
+    },
+    {
+     "num": 61,
+     "text": "Vi khuẩn Gram âm được phân biệt với vi khuẩn Gram dương bởi cấu trúc:",
+     "options": [
+      "A. Có 1 lớp màng dày",
+      "B. Có 2 lớp màng mỏng phức tạp",
+      "C. Bắt màu phẩm nhuộm Gram nên có màu xanh tím",
+      "D. Không bắt màu phẩm nhuộm Gram nên có màu đỏ tía",
+      "E. Có lớp peptidoglycan dày"
+     ],
+     "correct": "B. Có 2 lớp màng mỏng phức tạp"
+    },
+    {
+     "num": 62,
+     "text": "Lưới nội sinh chất nhẵn không có:",
+     "options": [
+      "A. Trên màng lưới có bơm Ca++ ATPase",
+      "B. Khi Ca++ được đưa vào lòng lưới thì cơ duỗi",
+      "C. Lưới phát triển tế bào cơ",
+      "D. Thực hiện chức năng tổng hợp các protein tiết",
+      "E. A, B, C và D đúng"
+     ],
+     "correct": "D. Thực hiện chức năng tổng hợp các protein tiết"
+    },
+    {
+     "num": 63,
+     "text": "Đặc điểm nào không phải của màng sinh chất:",
+     "options": [
+      "A. Bao bọc các bào quan bên trong tế bào",
+      "B. Ngăn tách tế bào với môi trường, tế bào với tế bào",
+      "C. Là màng bán thấm có tính chọn lọc",
+      "D. Thực hiện và kiểm soát quá trình trao đổi chất",
+      "E. Là nơi xảy ra quá trình hô hấp"
+     ],
+     "correct": "E. Là nơi xảy ra quá trình hô hấp"
+    },
+    {
+     "num": 64,
+     "text": "Tầm quan trọng của các nối, điều nào sau đây đúng:",
+     "options": [
+      "A. Giúp các tb kết nối lại với nhau",
+      "B. Giao lưu thông tin",
+      "C. Kiểm soát sự định hướng của các cấu trúc nội bào",
+      "D. Giúp các tế bào trao đổi chất và năng lượng",
+      "E. A, B và C đúng"
+     ],
+     "correct": "E. A, B và C đúng"
+    }
+   ]
+  },
+  {
+   "num": 3,
+   "title": "Năng lượng sinh học",
+   "questions": [
+    {
+     "num": 65,
+     "text": "Năng lượng dùng để khơi mào phản ứng gọi là:",
+     "options": [
+      "A. Năng lượng ATP",
+      "B. Năng lượng hoạt hóa",
+      "C. Năng lượng nhiệt",
+      "D. Năng lượng enzym",
+      "E. A, B, C và D sai"
+     ],
+     "correct": "B. Năng lượng hoạt hóa"
+    },
+    {
+     "num": 66,
+     "text": "ATP là viết tắc của:",
+     "options": [
+      "A. Adenin TriPhosphat",
+      "B. Adenosyl TriPhosphat",
+      "C. Adesino TriPhosphat",
+      "D. Adenosin TriPhosphat",
+      "E. Adenylate TriPhosphat"
+     ],
+     "correct": "D. Adenosin TriPhosphat"
+    },
+    {
+     "num": 67,
+     "text": "Chu trình Krebs xảy ra ở:",
+     "options": [
+      "A. Bào tương",
+      "B. Chất nền ty thể",
+      "C. Màng ngoài ty thể",
+      "D. Màng trong ty thể",
+      "E. Tế bào chất"
+     ],
+     "correct": "B. Chất nền ty thể"
+    },
+    {
+     "num": 68,
+     "text": "Chuỗi truyền điện tử xảy ra ở đâu:",
+     "options": [
+      "A. Bào tương",
+      "B. Chất nền ty thể",
+      "C. Màng ngoài ty thể",
+      "D. Màng trong ty thể",
+      "E. Màng tế bào"
+     ],
+     "correct": "D. Màng trong ty thể"
+    },
+    {
+     "num": 69,
+     "text": "Qua chuỗi truyền điện tử ở màng trong ty thể, 8NADH và 4 FADH2 sinh ra bao nhiêu ATP:",
+     "options": [
+      "A. 32 hoặc 34",
+      "B. 34",
+      "C. 32",
+      "D. 36",
+      "E. 34 hoặc 36"
+     ],
+     "correct": "C. 32"
+    },
+    {
+     "num": 70,
+     "text": "Quá trình đường phân xảy ra ở đâu:",
+     "options": [
+      "A. Bào tương",
+      "B. Chất nền ty thể",
+      "C. Màng ngoài ty thể",
+      "D. Màng trong ty thể",
+      "E. Nhân"
+     ],
+     "correct": "A. Bào tương"
+    },
+    {
+     "num": 71,
+     "text": "Sản phẩm của quá trình đường phân là:",
+     "options": [
+      "A. Acetyl CoA",
+      "B. Acid pyruvic",
+      "C. Lactat",
+      "D. A, B và C đúng",
+      "E. A và B đúng"
+     ],
+     "correct": "B. Acid pyruvic"
+    },
+    {
+     "num": 72,
+     "text": "Acid pyruvic muốn đi vào chu trình krebs phải được oxy hóa thành:",
+     "options": [
+      "A. Lactat",
+      "B. Oxaloacetic",
+      "C. Acetyl CoA",
+      "D. A, B và C đúng",
+      "E. A và B đúng"
+     ],
+     "correct": "C. Acetyl CoA"
+    },
+    {
+     "num": 73,
+     "text": "Một phân tử glucose sau khi trải qua quá trình hô hấp tế bào sinh ra bao nhiêu phân tử CO2:",
+     "options": [
+      "A. 3",
+      "B. 4",
+      "C. 7",
+      "D. 5",
+      "E. 6"
+     ],
+     "correct": "E. 6"
+    },
+    {
+     "num": 74,
+     "text": "Trong quá trình hô hấp tế bào, phân tử nhận điện tử cuối cùng là:",
+     "options": [
+      "A. H2O",
+      "B. NADH và FADH2",
+      "C. Oxi",
+      "D. Oxi và acid pyruvat",
+      "E. Acid pyruvic"
+     ],
+     "correct": "C. Oxi"
+    },
+    {
+     "num": 75,
+     "text": "Chất nhận điện tử cuối cùng trong chuỗi truyền điện tử là:",
+     "options": [
+      "A. O2",
+      "B. O2-",
+      "C. CO2",
+      "D. H+",
+      "E. H2"
+     ],
+     "correct": "A. O2"
+    },
+    {
+     "num": 76,
+     "text": "Chuỗi truyền điện tử diễn ra ở đâu trong tế bào:",
+     "options": [
+      "A. Tế bào chất",
+      "B. Màng trong ty thể",
+      "C. Màng ngoài ty thể",
+      "D. Ty thể",
+      "E. Chất nền ty thể"
+     ],
+     "correct": "B. Màng trong ty thể"
+    },
+    {
+     "num": 77,
+     "text": "Quá trình lên men xảy ra ở:",
+     "options": [
+      "A. Ty thể",
+      "B. Chất nền ty thể",
+      "C. Màng trong ty thể",
+      "D. Tế bào chất",
+      "E. Màng tế bào"
+     ],
+     "correct": "D. Tế bào chất"
+    },
+    {
+     "num": 78,
+     "text": "Quá trình lên men nhận điện tử và H+ từ:",
+     "options": [
+      "A. NAD+",
+      "B. FAD",
+      "C. FMNH2",
+      "D. FADH2",
+      "E. NADH"
+     ],
+     "correct": "E. NADH"
+    },
+    {
+     "num": 79,
+     "text": "Chất đầu tiên tham gia phản ứng với acetyl CoA trong chu trình Krebs là:",
+     "options": [
+      "A. Succinat",
+      "B. Oxaloacetat",
+      "C. Citrat",
+      "D. Fumarat",
+      "E. Anpha ketoglutarat"
+     ],
+     "correct": "B. Oxaloacetat"
+    },
+    {
+     "num": 80,
+     "text": "Sản phẩm đầu tiên trong chu trình Krebs là:",
+     "options": [
+      "A. Succinat",
+      "B. Anpha ketoglutarat",
+      "C. Citrat",
+      "D. Fumarat",
+      "E. Oxaloacetat"
+     ],
+     "correct": "C. Citrat"
+    },
+    {
+     "num": 81,
+     "text": "Liên kết sinh năng lượng nhiều nhất trong phân tử ATP là liên kết:",
+     "options": [
+      "A. Giữa nhóm phosphat và đường ribose",
+      "B. Giữa đường ribose và gốc adenin",
+      "C. Giữa gốc adenin và nhóm phosphat",
+      "D. Giữa 2 nhóm phosphat ngoài cùng",
+      "E. Giữa các nhóm phosphat"
+     ],
+     "correct": "D. Giữa 2 nhóm phosphat ngoài cùng"
+    },
+    {
+     "num": 82,
+     "text": "Phương thức tổng hợp ATP trong cơ thể cho hiệu quả cao là:",
+     "options": [
+      "A. Phosphoryl hóa mức cơ chất",
+      "B. Tổng hợp hóa thẩm",
+      "C. Phosphoryl hóa mức tế bào",
+      "D. A và B đúng",
+      "E. A, B và C đúng"
+     ],
+     "correct": "B. Tổng hợp hóa thẩm"
+    },
+    {
+     "num": 83,
+     "text": "Phương thức tổng hợp ATP thông qua sự thẩm thấu ion H+ qua màng các bào quan ty thể, lục lạp là:",
+     "options": [
+      "A. Tổng hợp lý thẩm",
+      "B. Phosphoryl hóa mức tế bào",
+      "C. Phosphoryl hóa – oxi hóa",
+      "D. Phosphoryl hóa mức cơ chất",
+      "E. Tổng hợp hóa thẩm"
+     ],
+     "correct": "E. Tổng hợp hóa thẩm"
+    },
+    {
+     "num": 84,
+     "text": "Trong chu trình Krebs, điều nào sau đây đúng:",
+     "options": [
+      "A. Tạo ra ATP",
+      "B. Tạo ra nhiều chất khử NADH, FADH2",
+      "C. Tạo ra H2O và CO2",
+      "D. A, B và C đúng",
+      "E. A và B đúng"
+     ],
+     "correct": "E. A và B đúng"
+    },
+    {
+     "num": 85,
+     "text": "Quá trình đường phân phân hủy glucose tạo ra:",
+     "options": [
+      "A. 2 Pyruvat, 2ATP và 1FADH2",
+      "B. 2 Pyruvat, 4ATP và 1NADH",
+      "C. 2 Pyruvat, 4ATP và 1FADH2",
+      "D. 2 Pyruvat, 2ATP và 2NADH",
+      "E. 2 Pyruvat, 2ATP và 2FADH2"
+     ],
+     "correct": "D. 2 Pyruvat, 2ATP và 2NADH"
+    },
+    {
+     "num": 86,
+     "text": "Vị trí và điều kiện xảy ra đường phân:",
+     "options": [
+      "A. Tế bào chất, có oxy",
+      "B. Tế bào chất, không phụ thuộc oxy",
+      "C. Chất nền ty thể, không oxy",
+      "D. Chất nền ty thể, có oxy",
+      "E. Chất nền ty thể, không có oxy"
+     ],
+     "correct": null
+    },
+    {
+     "num": 87,
+     "text": "Lên men lactic có tác dụng bất lợi gì cho động vật:",
+     "options": [
+      "A. Gây đau cơ, mõi cơ",
+      "B. Gây chảy máu cơ, mõi cơ",
+      "C. Gây chảy máu tế bào",
+      "D. Làm cho tế bào thừa năng lượng",
+      "E. Gây rối loạn dẫn truyền"
+     ],
+     "correct": "B. Gây chảy máu cơ, mõi cơ"
+    },
+    {
+     "num": 88,
+     "text": "Các yếu tố tham gia vào chuỗi truyền điện tử trong hô hấp tế bào:",
+     "options": [
+      "A. PSII, Ubiquinon, Cyt C, PSI",
+      "B. Phức hệ I, Ubiquinon, Cyt C, phức hệ II",
+      "C. Phức hệ I, II, III, Ubiquinon, Cyt C",
+      "D. Phức hệ I, II, III và IV, Ubiquinon, Cyt C",
+      "E. PS I, PS II, phức hệ I, phức hệ III"
+     ],
+     "correct": "D. Phức hệ I, II, III và IV, Ubiquinon, Cyt C"
+    },
+    {
+     "num": 89,
+     "text": "Các chất khử NADH, FADH2 đi vào chuỗi truyền điện tử để tạo ra ATP theo:",
+     "options": [
+      "A. Phương thức tái tổng hợp",
+      "B. Phương thức phosphoryl hóa",
+      "C. Phương thức tự tổng hợp",
+      "D. Phương thức trao đổi ion",
+      "E. Phương thức hóa thẩm"
+     ],
+     "correct": "E. Phương thức hóa thẩm"
+    }
+   ]
+  },
+  {
+   "num": 4,
+   "title": "Cơ sở phân tử của di truyền học",
+   "questions": [
+    {
+     "num": 90,
+     "text": "Trong cấu trúc siêu hiển vi của NST nhân thực, sợi cơ bản có đường kính bằng:",
+     "options": [
+      "A. 2nm",
+      "B. 20nm",
+      "C. 300nm",
+      "D. 11nm",
+      "E. 30nm"
+     ],
+     "correct": "D. 11nm"
+    },
+    {
+     "num": 91,
+     "text": "Quan điểm hiện đại về vật chất di truyền ở cấp độ phân tử là:",
+     "options": [
+      "A. Protein",
+      "B. Nhiễm sắc thể",
+      "C. Acid amin",
+      "D. Acid deoxyribose nucleic",
+      "E. Acid ribose nucleic"
+     ],
+     "correct": "D. Acid deoxyribose nucleic"
+    },
+    {
+     "num": 92,
+     "text": "ATP là viết tắc của:",
+     "options": [
+      "A. Adenin TriPhosphat",
+      "B. Adenosin TriPhosphat",
+      "C. Adenin TriPhosphat",
+      "D. Adenosyl TriPhosphat",
+      "E. Adenylate TriPhosphat"
+     ],
+     "correct": "B. Adenosin TriPhosphat"
+    },
+    {
+     "num": 93,
+     "text": "Base nitơ liên kết với đường deoxyribose tạo nên cấu trúc:",
+     "options": [
+      "A. Nucleotid",
+      "B. DNA",
+      "C. Cromatid",
+      "D. Nucleosid",
+      "E. RNA"
+     ],
+     "correct": "D. Nucleosid"
+    },
+    {
+     "num": 94,
+     "text": "Loại nucleotid nào có ở cả DNA và RNA:",
+     "options": [
+      "A. Adenin, thymin, cytocin",
+      "B. Cytocin, uracin, adenin",
+      "C. Adenin, guanin, thymin",
+      "D. Uracin, thymin, guanin",
+      "E. Guanin, cytocin, adenin"
+     ],
+     "correct": "E. Guanin, cytocin, adenin"
+    },
+    {
+     "num": 95,
+     "text": "Base chứa nhân purin gồm những loại nào:",
+     "options": [
+      "A. Adenin, thymin,",
+      "B. Cytocin, uracin",
+      "C. Adenin, guanin",
+      "D. Uracin, guanin",
+      "E. Cytocin, adenin"
+     ],
+     "correct": "C. Adenin, guanin"
+    },
+    {
+     "num": 96,
+     "text": "Base chứa nhân pyrimidin gồm những loại nào:",
+     "options": [
+      "A. Adenin, thymin, cytocin",
+      "B. Cytocin, uracin, adenin",
+      "C. Adenin, guanin, thymin",
+      "D. Uracin, thymin, cytocin",
+      "E. Guanin, cytocin, adenin"
+     ],
+     "correct": "D. Uracin, thymin, cytocin"
+    },
+    {
+     "num": 97,
+     "text": "Phân tử DNA có đường kính của 2 mạch xoắn kép bằng:",
+     "options": [
+      "A. 2nm",
+      "B. 20nm",
+      "C. 300nm",
+      "D. 11nm",
+      "E. 30nm"
+     ],
+     "correct": "A. 2nm"
+    },
+    {
+     "num": 98,
+     "text": "Chiều dài 1 vòng xoắn của phân tử DNA là:",
+     "options": [
+      "A. 0,34 µm",
+      "B. 34 nm",
+      "C. 11 nm",
+      "D. 3,4 nm",
+      "E. 2 nm"
+     ],
+     "correct": "D. 3,4 nm"
+    },
+    {
+     "num": 99,
+     "text": "Một đoạn DNA khi mất 3 cặp nucleotid, số liên kết hydro sẽ thay đổi:",
+     "options": [
+      "A. Giảm 6 hoặc 7 hoặc 8 hoặc 9",
+      "B. Giảm 7 hoặc 9",
+      "C. Giảm 6 hoặc 9",
+      "D. Giảm 6 hoặc 7 hoặc 9",
+      "E. Giảm 6 hoặc 8 hoặc 9"
+     ],
+     "correct": "A. Giảm 6 hoặc 7 hoặc 8 hoặc 9"
+    },
+    {
+     "num": 100,
+     "text": "Mã mở đầu tổng hợp protein, đồng thời mã hóa methionin là:",
+     "options": [
+      "A. UAA",
+      "B. AUG",
+      "C. UAG",
+      "D. UGA",
+      "E. UGG"
+     ],
+     "correct": "B. AUG"
+    },
+    {
+     "num": 101,
+     "text": "Mã kết thúc tổng hợp protein là:",
+     "options": [
+      "A. UAA",
+      "B. UAG",
+      "C. UGA",
+      "D. A, B và C đúng",
+      "E. A và B đúng"
+     ],
+     "correct": "D. A, B và C đúng"
+    },
+    {
+     "num": 102,
+     "text": "RNA được tổng hợp từ mạch khuôn là:",
+     "options": [
+      "A. RNA theo chiều 5’ – 3’",
+      "B. DNA theo chiều 5’ – 3’",
+      "C. DNA theo chiều 3’ – 5’",
+      "D. RNA theo chiều 3’ – 5’",
+      "E. A hoặc D"
+     ],
+     "correct": "C. DNA theo chiều 3’ – 5’"
+    },
+    {
+     "num": 103,
+     "text": "Chức năng của mRNA là:",
+     "options": [
+      "A. Sinh tổng hợp protein",
+      "B. Khuôn dịch mã protein",
+      "C. Cấu tạo nên ribosom",
+      "D. Truyền thông tin",
+      "E. Vận chuyển acid amin"
+     ],
+     "correct": "D. Truyền thông tin"
+    },
+    {
+     "num": 104,
+     "text": "Enzyme chủ yếu của sự tái bản, chịu trách nhiệm tổng hợp hai chuỗi DNA ở chạc tái bản là enzyme:",
+     "options": [
+      "A. DNA polymerase",
+      "B. Helicase",
+      "C. DNA ligase",
+      "D. DNA topoisomerase",
+      "E. RNA polymerase"
+     ],
+     "correct": "A. DNA polymerase"
+    },
+    {
+     "num": 105,
+     "text": "Tái bản DNA bao gồm giai đoạn nào sau đây:",
+     "options": [
+      "A. Giai đoạn khởi đầu",
+      "B. Giai đoạn kết thúc",
+      "C. Giai đoạn duỗi xoắn",
+      "D. Giai đoạn kéo dài",
+      "E. B, C và D đúng"
+     ],
+     "correct": "E. B, C và D đúng"
+    },
+    {
+     "num": 106,
+     "text": "Biểu thị thứ tự sắp xếp các acid amin trong chuỗi polypeptid, hoặc nhiều chuỗi polypeptide và vị trí của liên kết disulfide là cấu trúc bậc mấy của protein:",
+     "options": [
+      "A. Cấu trúc bâc I",
+      "B. Cấu trúc bâc II",
+      "C. Cấu trúc bâc IV",
+      "D. Cấu trúc bâc III",
+      "E. A, B, C và D sai"
+     ],
+     "correct": "C. Cấu trúc bâc IV"
+    },
+    {
+     "num": 107,
+     "text": "Sợi nhiễm sắc có đường kính:",
+     "options": [
+      "A. 2 nm",
+      "B. 11 nm",
+      "C. 30 nm",
+      "D. 700 nm",
+      "E. 300 nm"
+     ],
+     "correct": "C. 30 nm"
+    },
+    {
+     "num": 108,
+     "text": "Trong cấu trúc siêu hiển vi của NST nhân thực, sợi cơ bản có đường kính bằng:",
+     "options": [
+      "A. 2nm",
+      "B. 20nm",
+      "C. 300nm",
+      "D. 11nm",
+      "E. 30nm"
+     ],
+     "correct": "D. 11nm"
+    },
+    {
+     "num": 109,
+     "text": "Thoi phân bào trong giai đoạn tế bào thực hiện quá trình phân bào có nguồn gốc từ:",
+     "options": [
+      "A. Tế bào chất",
+      "B. Trung thể",
+      "C. Dây sao",
+      "D. Sợi trung vi",
+      "E. Bộ khung xương tế bào"
+     ],
+     "correct": "B. Trung thể"
+    },
+    {
+     "num": 110,
+     "text": "Mức cấu trúc xoắn của NST có đường kính 30 nm là:",
+     "options": [
+      "A. Sợi nhiễm sắc",
+      "B. Sợi DNA",
+      "C. Sợi cơ bản",
+      "D. Chromatid",
+      "E. Sợi siêu xoắn"
+     ],
+     "correct": "A. Sợi nhiễm sắc"
+    },
+    {
+     "num": 111,
+     "text": "Đơn vị cơ bản cấu tạo nên nhiễm sắc thể ở tế bào nhân chuẩn là:",
+     "options": [
+      "A. Nucleotid",
+      "B. Ribonucleotid",
+      "C. Nucleosid",
+      "D. Chromatid",
+      "E. Nucleosom"
+     ],
+     "correct": "A. Nucleotid"
+    },
+    {
+     "num": 112,
+     "text": "Quan điểm hiện đại về vật chất di truyền ở cấp độ tế bào là:",
+     "options": [
+      "A. Protein",
+      "B. Acid amin",
+      "C. Nhiễm sắc thể",
+      "D. Acid deoxyribose nucleic",
+      "E. Acid ribose nucleic"
+     ],
+     "correct": "C. Nhiễm sắc thể"
+    },
+    {
+     "num": 113,
+     "text": "Mã di truyền có ở trong:",
+     "options": [
+      "A. DNA, mARN",
+      "B. DNA, mARN, tARN",
+      "C. mARN, rARN",
+      "D. DNA, rARN",
+      "E. mARN, tARN"
+     ],
+     "correct": "A. DNA, mARN"
+    },
+    {
+     "num": 114,
+     "text": "Đối mã có trong cấu trúc:",
+     "options": [
+      "A. mARN",
+      "B. tARN",
+      "C. rARN",
+      "D. DNA",
+      "E. Protein"
+     ],
+     "correct": "B. tARN"
+    },
+    {
+     "num": 115,
+     "text": "Chức năng nào KHÔNG CÓ trong NST:",
+     "options": [
+      "A. Lưu trữ thông tin di truyền",
+      "B. Bảo quản thông tin di truyền",
+      "C. Điều hòa hoạt động gen",
+      "D. A, B và C đúng",
+      "E. A, B và C sai"
+     ],
+     "correct": "E. A, B và C sai"
+    },
+    {
+     "num": 116,
+     "text": "Thành phần của một nucleotid gồm:",
+     "options": [
+      "A. Base nitơ, đường ribose, acid H2SO4",
+      "B. Base nitơ, đường deoxyribose, acid H3PO4",
+      "C. Base nitơ, đường ribose, acid H3PO4",
+      "D. A, B và C đúng",
+      "E. B và C đúng"
+     ],
+     "correct": "E. B và C đúng"
+    },
+    {
+     "num": 117,
+     "text": "RNA mới sẽ ngừng tổng hợp khi gặp:",
+     "options": [
+      "A. Đoạn intron",
+      "B. Đoạn exon",
+      "C. Tổng hợp được một đoạn poly U",
+      "D. Một trình tự Nu có trình tự bổ sung",
+      "E. C và D đúng"
+     ],
+     "correct": "E. C và D đúng"
+    },
+    {
+     "num": 118,
+     "text": "Chức năng của tRNA là:",
+     "options": [
+      "A. Tổng hợp protein",
+      "B. Xúc tác hình thành liên kết peptid",
+      "C. Truyền thông tin di truyền",
+      "D. Vận chuyển acid amin",
+      "E. Cấu tạo nên ribosom"
+     ],
+     "correct": "D. Vận chuyển acid amin"
+    },
+    {
+     "num": 119,
+     "text": "Chức năng của rRNA là:",
+     "options": [
+      "A. Vận chuyển acid amin",
+      "B. Xúc tác hình thành liên kết peptid",
+      "C. Truyền thông tin di truyền",
+      "D. Vận chuyển acid amin",
+      "E. Cấu tạo nên ribosom"
+     ],
+     "correct": "E. Cấu tạo nên ribosom"
+    },
+    {
+     "num": 120,
+     "text": "Protein được tổng hợp từ mạch khuôn là:",
+     "options": [
+      "A. DNA theo chiều 3’ – 5’",
+      "B. DNA theo chiều 5’ – 3’",
+      "C. RNA theo chiều 3’ – 5’",
+      "D. RNA theo chiều 5’ – 3’",
+      "E. A hoặc D"
+     ],
+     "correct": "D. RNA theo chiều 5’ – 3’"
+    },
+    {
+     "num": 121,
+     "text": "Các kì nào của nguyên phân, NST ở trạng thái kép:",
+     "options": [
+      "A. Kì giữa, kì sau",
+      "B. Kì sau, kì cuối",
+      "C. Kì đầu, kì giữa",
+      "D. Cuối kì trung gian, kì đầu, kì giữa",
+      "E. Kì giữa, kì sau"
+     ],
+     "correct": "C. Kì đầu, kì giữa"
+    },
+    {
+     "num": 122,
+     "text": "Thành phần hoá học của NST ở tế bào có nhân chuẩn là:",
+     "options": [
+      "A. DNA và Protein",
+      "B. DNA vòng",
+      "C. ARN",
+      "D. DNA và protein loại histon và không histon",
+      "E. Protein"
+     ],
+     "correct": "A. DNA và Protein"
+    },
+    {
+     "num": 123,
+     "text": "AUG là:",
+     "options": [
+      "A. Mã di truyền trên phân tử RNA xác định điểm kết thúc quá trình phiên mã",
+      "B. Mã di truyền xác định điểm mở đầu quá trình dịch mã trên phân tử mRNA",
+      "C. Một trong ba bộ ba mã di truyền xác định điểm kết thúc phiên mã",
+      "D. Một trong ba bộ ba mã di truyền xác định điểm kết thúc dịch mã",
+      "E. A, C và D đúng"
+     ],
+     "correct": "B. Mã di truyền xác định điểm mở đầu quá trình dịch mã trên phân tử mRNA"
+    },
+    {
+     "num": 124,
+     "text": "Nucleosom được cấu tạo từ:",
+     "options": [
+      "A. Sợi DNA quấn 3/4 vòng quanh 6 phân tử protein histon",
+      "B. Sợi DNA quấn 3/4 vòng quanh 8 phân tử protein histon",
+      "C. Sợi DNA quấn 5/4 vòng quanh 8 phân tử protein histon",
+      "D. Sợi DNA quấn 7/4 vòng quanh 6 phân tử protein histon",
+      "E. Sợi DNA quấn 7/4 vòng quanh 8 phân tử protein histon"
+     ],
+     "correct": "E. Sợi DNA quấn 7/4 vòng quanh 8 phân tử protein histon"
+    },
+    {
+     "num": 125,
+     "text": "Nucleosid là:",
+     "options": [
+      "A. Sản phẩm thuỷ phân hoàn toàn của acid nucleic",
+      "B. Sản phẩm thuỷ phân không hoàn toàn của acid nucleic",
+      "C. Sản phẩm thuỷ phân không hoàn toàn của nucleotid",
+      "D. Sản phẩm thuỷ phân hoàn toàn của nucleotid",
+      "E. Sản phẩm thủy phân không hoàn toàn của nucleosom"
+     ],
+     "correct": "C. Sản phẩm thuỷ phân không hoàn toàn của nucleotid"
+    },
+    {
+     "num": 126,
+     "text": "Acid nucleic là:",
+     "options": [
+      "A. Những hợp chất cao phân tử, tham gia vào các quá trình phức tạp của sự sống",
+      "B. Những hợp chất cao phân tử, tham gia vào các quá trình cơ bản của sự sống",
+      "C. Những hợp chất đơn phân tử, tham gia vào các quá trình cơ bản của sự sống",
+      "D. Những hợp chất đơn phân tử, tham gia vào các quá trình phức tạp của sự sống",
+      "E. Những hợp chất đơn phân tử, tham gia vào các quá trình phức tạp của tế bào"
+     ],
+     "correct": null
+    }
+   ]
+  },
+  {
+   "num": 5,
+   "title": "Sự phân chia tế bào",
+   "questions": [
+    {
+     "num": 127,
+     "text": "Đặc điểm “Gắn với thoi phân bào trong quá trình phân chia tế bào” trong nhiễm sắc thể kép thuộc về:",
+     "options": [
+      "A. Cánh ngắn",
+      "B. Eo thứ cấp",
+      "C. Cánh dài",
+      "D. Tâm động",
+      "E. Hai đầu mút"
+     ],
+     "correct": "D. Tâm động"
+    },
+    {
+     "num": 128,
+     "text": "Đặc điểm “Tách cặp nhiễm sắc thể tương đồng kép” xảy ra vào thời kỳ nào trong quá trình giảm phân:",
+     "options": [
+      "A. Kỳ giữa giảm phân I và II",
+      "B. Kỳ sau giảm phân II",
+      "C. Kỳ sau giảm phân I",
+      "D. Kỳ giữa giảm phân I",
+      "E. Kỳ giữa giảm phân II"
+     ],
+     "correct": "C. Kỳ sau giảm phân I"
+    },
+    {
+     "num": 129,
+     "text": "Kỳ trung gian trong chu kỳ tế bào gồm có các pha:",
+     "options": [
+      "A. Pha G1",
+      "B. Pha S",
+      "C. Pha G2",
+      "D. A, B và C đúng",
+      "E. A, B đúng"
+     ],
+     "correct": "D. A, B và C đúng"
+    },
+    {
+     "num": 130,
+     "text": "Nhiễm sắc thể sẽ đóng xoắn cực đại trong kỳ nào của nguyên phân:",
+     "options": [
+      "A. Kỳ đầu",
+      "B. Kỳ giữa",
+      "C. Pha S",
+      "D. Kỳ sau",
+      "E. Kỳ cuối"
+     ],
+     "correct": "B. Kỳ giữa"
+    },
+    {
+     "num": 131,
+     "text": "Sự phân chia tế bào thành hai tế bào con giống hệt nhau về mặt di truyền là:",
+     "options": [
+      "A. Chu kì phân bào",
+      "B. Kỳ trung gian",
+      "C. Kỳ sau",
+      "D. Nguyên phân",
+      "E. Giảm phân"
+     ],
+     "correct": "D. Nguyên phân"
+    },
+    {
+     "num": 132,
+     "text": "Sự phân chia tế bào thành các tế bào con, mỗi tế bào con có số lượng nhiễm sắc thể giảm đi một nửa là:",
+     "options": [
+      "A. Chu kì phân bào",
+      "B. Kỳ trung gian",
+      "C. Kỳ sau",
+      "D. Nguyên phân",
+      "E. Giảm phân"
+     ],
+     "correct": "E. Giảm phân"
+    },
+    {
+     "num": 133,
+     "text": "Trong quá trình nguyên phân, các nhiễm sắc thể bắt đầu co ngắn lại là thuộc kì:",
+     "options": [
+      "A. Kỳ trung gian",
+      "B. Kỳ sau",
+      "C. Kỳ trước",
+      "D. Kỳ giữa",
+      "E. Kỳ cuối"
+     ],
+     "correct": "C. Kỳ trước"
+    },
+    {
+     "num": 134,
+     "text": "Trong quá trình giảm phân II, khi các nhiễm sắc thể đã nằm ở xích đạo của tế bào là thuộc kì nào:",
+     "options": [
+      "A. Kỳ giữa II",
+      "B. Kỳ trước II",
+      "C. Kỳ trung gian",
+      "D. Kỳ sau II",
+      "E. Kỳ cuối II"
+     ],
+     "correct": "A. Kỳ giữa II"
+    }
+   ]
+  },
+  {
+   "num": 6,
+   "title": "Các quy luật di truyền",
+   "questions": [
+    {
+     "num": 135,
+     "text": "Nhờ sự phân li độc lập , tổ hợp tự do của các NST, hiện tượng trao đổi đoạn và hoán vị gen đã tạo ra tính đa dạng và phong phú cho giao tử , từ đó xuất hiện các biến dị tổ hợp ở thế hệ sau là thuộc:",
+     "options": [
+      "A. Kỳ trung gian",
+      "B. Kỳ trước I",
+      "C. Kỳ sau II",
+      "D. Kỳ trước II",
+      "E. Kỳ cuối II"
+     ],
+     "correct": "B. Kỳ trước I"
+    },
+    {
+     "num": 136,
+     "text": "Sau khi đưa ra giả thuyết về sự phân li đồng đều, Menđen đã kiểm tra giả thuyết của minh bằng cách nào:",
+     "options": [
+      "A. Cho tạp giao",
+      "B. Lai thuận",
+      "C. Lai phân tích",
+      "D. Lai nghịch",
+      "E. Cho tự thụ"
+     ],
+     "correct": "C. Lai phân tích"
+    },
+    {
+     "num": 137,
+     "text": "Thể AA và Aa có cùng kiểu hình trong trường hợp di truyền:",
+     "options": [
+      "A. Trội không hoàn toàn",
+      "B. Đồng trội",
+      "C. Di truyền 2 alen",
+      "D. Phân ly độc lập",
+      "E. Trội hoàn toàn"
+     ],
+     "correct": "E. Trội hoàn toàn"
+    },
+    {
+     "num": 138,
+     "text": "Theo Menđen, trong phép lai về một cặp tính trạng tương phản, chỉ một tính trạng biểu hiện ở F1. Tính trạng biểu hiện ở F1 gọi là:",
+     "options": [
+      "A. Tính trạng ưu việt",
+      "B. Tính trạng trội",
+      "C. Tính trạng lặn",
+      "D. Tính trạng trung gian",
+      "E. Trội hoàn toàn"
+     ],
+     "correct": "B. Tính trạng trội"
+    },
+    {
+     "num": 139,
+     "text": "Thể AA và Aa có cùng kiểu hình trong trường hợp di truyền:",
+     "options": [
+      "A. Trội không hoàn toàn",
+      "B. Trội hoàn toàn",
+      "C. Đồng trội",
+      "D. Di truyền 2 alen",
+      "E. Tương tác gen"
+     ],
+     "correct": "B. Trội hoàn toàn"
+    },
+    {
+     "num": 140,
+     "text": "Trong trường hợp các gen phân li độc lập, tổ hợp tự do. Cá thể có kiểu gen AaBb giảm phân bình thường có thể tạo ra:",
+     "options": [
+      "A. 2 loại giao tử",
+      "B. 4 loại giao tử",
+      "C. 8 loại giao tử",
+      "D. 16 loại giao tử",
+      "E. 32 loại giao tử"
+     ],
+     "correct": "B. 4 loại giao tử"
+    },
+    {
+     "num": 141,
+     "text": "Trong trường hợp các gen phân li độc lập và tổ hợp tự do, phép lai có thể tạo ra ở đời con nhiều loại tổ hợp gen nhất là:",
+     "options": [
+      "A. aaBb × Aabb",
+      "B. AaBb × aabb",
+      "C. AaBb × AABb",
+      "D. Aabb × AaBB",
+      "E. AABB x AaBb"
+     ],
+     "correct": "C. AaBb × AABb"
+    },
+    {
+     "num": 142,
+     "text": "Cho lai hai con ruồi giấm có kiểu gen AABbCc và aaBBCc. Kiểu gen nào sau đây có khả năng nhất xảy ra ở con lai:",
+     "options": [
+      "A. AaBBcc",
+      "B. AaBbCc",
+      "C. AaBBCC",
+      "D. AAbbCc",
+      "E. AABBCc"
+     ],
+     "correct": "B. AaBbCc"
+    },
+    {
+     "num": 143,
+     "text": "Trong trường hợp mỗi gen quy định một tính trạng và tính trạng trội là trội hoàn toàn, cơ thể có kiểu gen AaBbDd tự thụ phấn sẽ thu được đời con có số kiểu gen và kiểu hình tối đa là:",
+     "options": [
+      "A. 4 kiểu hình,12 kiểu gen",
+      "B. 8 kiểu hình, 12 kiểu gen",
+      "C. 4 kiểu hình, 9 kiểu gen",
+      "D. 8 kiểu hình, 27 kiểu gen",
+      "E. 9 kiểu hình, 27 kiểu gen"
+     ],
+     "correct": "D. 8 kiểu hình, 27 kiểu gen"
+    },
+    {
+     "num": 144,
+     "text": "Kết quả phép lai thuận, nghịch giống nhau trong quy luật di truyền:",
+     "options": [
+      "A. Hoán vị gen",
+      "B. Phân li độc lập",
+      "C. Trội không hoàn toàn",
+      "D. Liên kết với giới tính",
+      "E. Di truyền ngoài nhân"
+     ],
+     "correct": "B. Phân li độc lập"
+    },
+    {
+     "num": 145,
+     "text": "Ở người, nhóm máu ABO do gen có 3 alen IA, IB, IO quy định. Mẹ có nhóm máu AB, sinh con có nhóm máu AB, nhóm máu nào dưới đây chắc chắn không phải nhóm máu của người bố:",
+     "options": [
+      "A. Nhóm máu B",
+      "B. Nhóm máu A",
+      "C. Nhóm máu O",
+      "D. Nhóm máu Rh",
+      "E. Nhóm máu AB"
+     ],
+     "correct": "C. Nhóm máu O"
+    },
+    {
+     "num": 146,
+     "text": "Trong trường hợp các gen phân li độc lập, tác động riêng rẽ và các gen trội là trội hoàn toàn, phép lai: AaBbCcDd x AaBbCcDd cho tỉ lệ kiểu hình A-bbC-D- ở đời con là:",
+     "options": [
+      "A. 27/256",
+      "B. 1/16",
+      "C. 81/256",
+      "D. 3/ 256",
+      "E. 9/256"
+     ],
+     "correct": "A. 27/256"
+    },
+    {
+     "num": 147,
+     "text": "Có mấy hiện tượng tương tác gen:",
+     "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 5",
+      "E. 4"
+     ],
+     "correct": "C. 3"
+    },
+    {
+     "num": 148,
+     "text": "Kiểu gen của cơ thể mang tính trạng trội có thể xác định được bằng phép lai:",
+     "options": [
+      "A. Phân tích.",
+      "B. Khác dòng.",
+      "C. Thuận nghịch.",
+      "D. Khác thứ",
+      "E. PLĐL"
+     ],
+     "correct": "A. Phân tích."
+    },
+    {
+     "num": 149,
+     "text": "Khi phân li độc lập và trội hoàn toàn thì phép lai: AaBbccDdEeFf x AabbCcddEeff có thể sinh ra đời con có số loại kiểu hình là:",
+     "options": [
+      "A. 72.",
+      "B. 64.",
+      "C. 144.",
+      "D. 256.",
+      "E. 32"
+     ],
+     "correct": "B. 64."
+    },
+    {
+     "num": 150,
+     "text": "Cơ thể nào sau đây có kiểu gen đồng hợp tử về tất cả các cặp gen:",
+     "options": [
+      "A. AaBBdd",
+      "B. aaBBdd",
+      "C. aaBBDd",
+      "D. AaBbdd",
+      "E. AaBBDD"
+     ],
+     "correct": "B. aaBBdd"
+    },
+    {
+     "num": 151,
+     "text": "Trong trường hợp gen trội hoàn toàn, tỷ lệ phân ly tính trạng 1:1 ở đời con là kết quả của phép lai nào sau đây:",
+     "options": [
+      "A. Aa × aa",
+      "B. AA ×Aa",
+      "C. Aa × Aa",
+      "D. AA × aa",
+      "E. aa x AA"
+     ],
+     "correct": "A. Aa × aa"
+    },
+    {
+     "num": 152,
+     "text": "Trong trường hợp các gen nằm trên các nhiễm sắc thể khác nhau, cơ thể có kiểu gen aaBbCcDd khi giảm phân có thể tạo ra tối đa số loại giao tử là:",
+     "options": [
+      "A. 4.",
+      "B. 2.",
+      "C. 16.",
+      "D. 8.",
+      "E. 16"
+     ],
+     "correct": "D. 8."
+    },
+    {
+     "num": 153,
+     "text": "Ở sinh vật lưỡng bội, trong trường hợp một gen qui định một tính trạng, tính trội là trội hoàn toàn, không xảy ra đột biến. Theo lí thuyết, phép lai AaBBDd × AabbDd cho đời con có bao nhiêu loại kiểu hình:",
+     "options": [
+      "A. 2",
+      "B. 4",
+      "C. 6",
+      "D. 9",
+      "E. 12"
+     ],
+     "correct": "B. 4"
+    },
+    {
+     "num": 154,
+     "text": "Ở một loài thực vật, các gen quy định các tính trạng phân ly độc lập và tổ hợp tự do. Cho cơ thể có kiểu gen AaBb tự thụ phấn thì tỷ lệ kiểu gen aabb ở đời con là:",
+     "options": [
+      "A. 2/16",
+      "B. 1/16",
+      "C. 9/16",
+      "D. 3/16",
+      "E. 1/4"
+     ],
+     "correct": "B. 1/16"
+    },
+    {
+     "num": 155,
+     "text": "Theo quy luật phân ly độc lập của Menđen với các gen trội là trội hoàn toàn. Nếu P thuần chủng khác nhau bởi n cặp tính trạng tương phản thì tỷ lệ kiểu hình ở đời con khi bố mẹ dị hợp là:",
+     "options": [
+      "A. (3:1)n",
+      "B. (1:1)n",
+      "C. 9:3:3:1",
+      "D. (1:2:1)n",
+      "E. 9:6:1"
+     ],
+     "correct": "A. (3:1)n"
+    },
+    {
+     "num": 156,
+     "text": "Cho biết mỗi gen quy định một tính trạng, alen trội là trội hoàn toàn. Phép lai P; AabbDd × AaBbDd tạo ra F1 có số cá thể mang kiểu hình khác P chiếm tỉ lệ:",
+     "options": [
+      "A. 7/16",
+      "B. 9/32",
+      "C. 18/32",
+      "D. 23/32",
+      "E. 12/32"
+     ],
+     "correct": "A. 7/16"
+    },
+    {
+     "num": 157,
+     "text": "Theo Menđen, với n cặp gen dị hợp phân li độc lập thì số lượng các loại kiểu gen được xác định theo công thức nào:",
+     "options": [
+      "A. 2n",
+      "B. 3n",
+      "C. 4n",
+      "D. 5n",
+      "E. 6n"
+     ],
+     "correct": "B. 3n"
+    },
+    {
+     "num": 158,
+     "text": "Trong trường hợp mỗi gen qui định một tính trạng, gen nằm trong nhân và không xét đến yếu tố giới tính, các gen đều có 2 alen và trội lặn hoàn toàn. Nếu bố mẹ thuần chủng khác nhau bởi n cặp tính trạng tương phản, F1 tự thu phấn, thì số loại kiểu hình có thể có ở F2 là:",
+     "options": [
+      "A. 3n",
+      "B. 4n",
+      "C. n2",
+      "D. 2n",
+      "E. n3"
+     ],
+     "correct": "D. 2n"
+    },
+    {
+     "num": 159,
+     "text": "Ở một loài thực vật, cho biết mỗi gen quy định một tính trạng, alen trội là trội hoàn toàn. Theo lí thuyết, có bao nhiêu phép lai sau đây cho đời con có 4 loại kiểu gen và 4 loại kiểu hình:",
+     "options": [
+      "A. 2",
+      "B. 4",
+      "C. 3",
+      "D. 5",
+      "E. 9"
+     ],
+     "correct": "A. 2"
+    },
+    {
+     "num": 160,
+     "text": "Ở một loài thực vật, tính trạng màu sắc hoa do hai gen không alen phân li độc lập quy định. Trong kiểu gen, khi có đồng thời cả hai loại alen trội A và B thì cho hoa đỏ, khi chỉ có một alen trội A hoặc B thì cho hoa hồng, còn khi không có alen trội nào thì cho hoa trắng. Cho cây hoa hồng thuần chủng giao phối với cây hoa đỏ (P), thu được F1 gồm 50% cây hoa đỏ và 50% cây hoa hồng. Cho các phép lai dưới đây: I. AAbb × AaBb II. aaBB × AaBb III. AAbb × AaBB IV. AAbb × AABb V. aaBb × AaBB VI. Aabb × AABb Biết rằng không xảy ra đột biến, theo lí thuyết, trong các phép lai sau đây, có bao nhiêu phép lai phù hợp với tất cả các thông tin trên:",
+     "options": [
+      "A. 2",
+      "B. 4",
+      "C. 5",
+      "D. 3",
+      "E. 6"
+     ],
+     "correct": null
+    },
+    {
+     "num": 161,
+     "text": "Hiện tượng chứng tỏ mỗi gen có thể biến dị đa dạng, ảnh hưởng rất khác nhau đến sự phát triển các tính trạng là hiện tượng:",
+     "options": [
+      "A. Tình trạng trội hoàn toàn",
+      "B. Tình trạng trội không hoàn toàn",
+      "C. Hiện tượng một alen",
+      "D. Hiện tượng đa alen",
+      "E. A và D đúng"
+     ],
+     "correct": "D. Hiện tượng đa alen"
+    },
+    {
+     "num": 162,
+     "text": "Trong phép lai giữa hai cá thế có kiểu gen AaBBDd × aaBbDd (mỗi gen quy định một tính trang, các gen trội hoàn toàn) thu được kết quả:",
+     "options": [
+      "A. 4 loại kiểu hình : 12 loại kiểu gen",
+      "B. 8 loại kiểu hình : 12 loại kiểu gen",
+      "C. 8 loại kiểu hình : 27 loại kiểu gen",
+      "D. 4 loại kiểu hình : 8 loại kiểu gen",
+      "E. 4 loại kiểu hình : 16 loại kiểu gen"
+     ],
+     "correct": "B. 8 loại kiểu hình : 12 loại kiểu gen"
+    },
+    {
+     "num": 163,
+     "text": "Cặp phép lai nào sau đây là phép lai thuận nghịch:",
+     "options": [
+      "A. ♀AaBb × ♂AaBb và ♀AABb × ♂aabb",
+      "B. ♀AA × ♂aa và ♀Aa × ♂aa",
+      "C. ♀aabb×♂AABB và ♀AABB × ♂aabb",
+      "D. ♀Aa × ♂aa và ♀aa × ♂AA",
+      "E. ♀Aa × ♂Aa và ♀aa × ♂AA"
+     ],
+     "correct": "C. ♀aabb×♂AABB và ♀AABB × ♂aabb"
+    },
+    {
+     "num": 164,
+     "text": "Biết rằng mỗi gen quy định một tính trạng, alen trội là trội không hoàn toàn. Theo lí thuyết, phép lai Aa × Aa cho đời con có:",
+     "options": [
+      "A. 3 loại kiểu gen, 2 loại kiểu hình",
+      "B. 3 loại kiểu gen, 3 loại kiểu hình",
+      "C. 2 loại kiểu gen, 2 loại kiểu hình",
+      "D. 4 loại kiểu gen, 3 loại kiểu hình",
+      "E. 4 loại kiểu hình : 9 loại kiểu gen"
+     ],
+     "correct": "B. 3 loại kiểu gen, 3 loại kiểu hình"
+    },
+    {
+     "num": 165,
+     "text": "Trong trường hợp bố mẹ đều mang n căp gen dị hợp phân li độc lập, mỗi gen quy định một tính trạng, trội lặn hoàn toàn thì số lượng các loại kiểu gen và kiểu hình ở thế hệ sau theo lí thuyết là:",
+     "options": [
+      "A. 3n kiểu gen; 2n kiểu hình",
+      "B. 2n kiểu gen; 3n kiểu hình",
+      "C. 2n kiểu gen; 2n kiểu hình",
+      "D. 3n kiểu gen; 3n kiểu hình",
+      "E. 4 loại kiểu hình : 9 loại kiểu gen"
+     ],
+     "correct": "A. 3n kiểu gen; 2n kiểu hình"
+    },
+    {
+     "num": 166,
+     "text": "Trong phép lai phân tích, nếu thế hệ con thu được đều biểu hiện kiểu hình trội thì có thể kết luận gì?",
+     "options": [
+      "A. Kiểu gen của thế hệ con là đồng hợp",
+      "B. Cá thể trội đem lai dị hợp",
+      "C. Thế hệ P thuần chủng",
+      "D. Thế hệ P dị hợp cặp gen quy định tính trạng",
+      "E. Cá thể trội đem lai không xác định"
+     ],
+     "correct": "C. Thế hệ P thuần chủng"
+    },
+    {
+     "num": 167,
+     "text": "Định luật phân li tính trạng của Mendel là:",
+     "options": [
+      "A. Các giao tử thuần khiết chúng chỉ mang một trong hai alen mỗi gen. Các giao tử tách biệt nhau và thế hệ mới được sinh ra do sự tổ hợp ngẫu nhiên của các giao tử bắt nguồn từ cha, mẹ.",
+      "B. Các giao tử thuần khiết chúng mang alen mỗi gen. Các giao tử tách biệt nhau và thế hệ mới được sinh ra do sự tổ hợp ngẫu nhiên của các giao tử bắt nguồn từ cha, mẹ.",
+      "C. Các giao tử thuần khiết chúng chỉ mang một trong hai alen mỗi gen. Các giao tử không tách biệt nhau và thế hệ mới được sinh ra do sự tổ hợp ngẫu nhiên của các giao tử bắt nguồn từ cha, mẹ.",
+      "D. Các giao tử thuần khiết mang một trong hai alen mỗi gen. Các giao tử không tách biệt nhau và thế hệ mới được sinh ra do sự tổ hợp ngẫu nhiên của các giao tử bắt nguồn từ cha, mẹ.",
+      "E. Không có phát biểu đúng"
+     ],
+     "correct": "A. Các giao tử thuần khiết chúng chỉ mang một trong hai alen mỗi gen. Các giao tử tách biệt nhau và thế hệ mới được sinh ra do sự tổ hợp ngẫu nhiên của các giao tử bắt nguồn từ cha, mẹ."
+    },
+    {
+     "num": 168,
+     "text": "Ưu điểm trong phương pháp nghiên cứu di truyền đã giúp Menđen phát hiện ra các qui luật di truyền:",
+     "options": [
+      "A. Trước khi lai, tạo các dòng thuần.",
+      "B. Lai các dòng thuần khác nhau về một hoặc vài tính trạng rồi phân tích kết quả ở F1, F2, F3.",
+      "C. Sử dung toán học để phân tích kết quả lai.",
+      "D. Đưa giả thuyết và chứng minh giả thuyết",
+      "E. A. B, C và D đúng"
+     ],
+     "correct": "E. A. B, C và D đúng"
+    },
+    {
+     "num": 169,
+     "text": "Mendel đã giải thích quy luật phân ly bằng:",
+     "options": [
+      "A. Hiện tượng phân ly của các cặp NST trong nguyên phân",
+      "B. Hiện tượng tương tác gen",
+      "C. Hiện tượng trội hoàn toàn",
+      "D. Giả thuyết giao tử thuần khiết",
+      "E. Sự phân ly ngẫu nhiên của các cặp NST tương đồng trong giảm phân"
+     ],
+     "correct": "E. Sự phân ly ngẫu nhiên của các cặp NST tương đồng trong giảm phân"
+    },
+    {
+     "num": 170,
+     "text": "Điều kiện quan trọng nhất của quy luật phân li độc lập là:",
+     "options": [
+      "A. Tính trạng trội phải trội hoàn toàn.",
+      "B. Bố mẹ phải thuần chủng về tính trạng đem lai.",
+      "C. Các cặp gen quy định các cặp tính trạng phải nằm trên các cặp NST khác nhau.",
+      "D. Số lượng cá thể phải đủ lớn",
+      "E. Các gen quy định tính trạng phải nằm trên cùng NST"
+     ],
+     "correct": "C. Các cặp gen quy định các cặp tính trạng phải nằm trên các cặp NST khác nhau."
+    },
+    {
+     "num": 171,
+     "text": "Cơ sở tế bào học của quy luật phân ly theo quan điểm di truyền học hiện đại:",
+     "options": [
+      "A. Sự phân ly và tái tổ hợp của cặp nhân tố di truyền trong giảm phân và thụ tinh",
+      "B. Sự tổ hợp của cặp NST tương đồng trong thụ tinh",
+      "C. Sự phân ly đồng đều của NST trong mỗi cặp tương đồng khi giảm phân",
+      "D. Sự phân ly của cặp NST tương đồng trong nguyên phân",
+      "E. Không có phát biểu đúng"
+     ],
+     "correct": "C. Sự phân ly đồng đều của NST trong mỗi cặp tương đồng khi giảm phân"
+    },
+    {
+     "num": 172,
+     "text": "Trong trường hợp không xảy ra đột biến, nếu các cặp alen nằm trên các cặp NST tương đồng khác nhau thì chúng:",
+     "options": [
+      "A. Sẽ phân ly cùng nhau trong quá trình giảm phân",
+      "B. Di truyền cùng nhau tạo thành nhóm gen liên kết",
+      "C. Luôn có số lượng, thành phần và trật tự các nucleotid giống nhau",
+      "D. Luôn tương tác với nhau cùng quy định 1 tính trạng",
+      "E. Sẽ phân ly độc lập trong quá trình giảm phân hình thành giao tử"
+     ],
+     "correct": "E. Sẽ phân ly độc lập trong quá trình giảm phân hình thành giao tử"
+    },
+    {
+     "num": 173,
+     "text": "Mỗi alen trong cặp gen phân li đồng đều về các giao tử khi:",
+     "options": [
+      "A. Bố mẹ phải thuần chủng",
+      "B. Số lượng cá thể con lai phải lớn",
+      "C. Các NST trong cặp NST tương đồng phân li đồng đều về hai cực của tế bào trong giảm phân",
+      "D. Alen trội phải trội hoàn toàn",
+      "E. C và D đúng"
+     ],
+     "correct": "C. Các NST trong cặp NST tương đồng phân li đồng đều về hai cực của tế bào trong giảm phân"
+    },
+    {
+     "num": 174,
+     "text": "Quy luật phân ly độc lập góp phần giải thích hiện tượng:",
+     "options": [
+      "A. Biến dị vô cùng phong phú ở các loài giao phối",
+      "B. Hoán vị gen",
+      "C. Đột biến gen",
+      "D. Các gen phân ly ngẫu nhiên trong giảm phân và tổ hợp tự do trong thụ tinh",
+      "E. A, B, C và D đúng"
+     ],
+     "correct": "A. Biến dị vô cùng phong phú ở các loài giao phối"
+    },
+    {
+     "num": 175,
+     "text": "Quy luật phân li độc lập thực chất nói về:",
+     "options": [
+      "A. Sự phân li kiểu hình theo tỉ lệ 9:3:3:1.",
+      "B. Sự tổ hợp các alen trong quá trình thụ tinh",
+      "C. Sự phân li độc lập của các tính trạng",
+      "D. Sự phân li độc lập của các cặp alen trong quá trình giảm phân",
+      "E. Sự phân li kiểu hình theo tỉ lệ 9:6:1"
+     ],
+     "correct": "B. Sự tổ hợp các alen trong quá trình thụ tinh"
+    },
+    {
+     "num": 176,
+     "text": "Đặc điểm nào có trong vận chuyển ẩm thực bào qua màng tế bào:",
+     "options": [
+      "A. Cần tiêu tốn năng lượng",
+      "B. Màng tế bào không tạo túi",
+      "C. Màng tế bào tạo túi",
+      "D. Vận chuyển các chất hoà tan, phân tử nhỏ",
+      "E. A, B, C và D sai"
+     ],
+     "correct": "D. Vận chuyển các chất hoà tan, phân tử nhỏ"
+    },
+    {
+     "num": 177,
+     "text": "Câu nào sau đây là sai khi nói về phép lai thuận, nghịch:",
+     "options": [
+      "A. Phép lai thuận, nghịch đối với tính trạng do gen trong tế bào chất quy định thường cho kết quả khác nhau.",
+      "B. Phép lai thuận, nghịch đối với tính trạng do gen liên kết giới tính quy định thường cho kết quả khác nhau.",
+      "C. Phép lai thuận, nghịch có thể sử dụng để xác định các gen liên kết hoàn toàn hay không hoàn toàn (xảy ra hoán vị gen) ở mọi loài sinh vật.",
+      "D. Trong một số phép lai tạo ưu thế lai, phép lai thuận có thể không cho ưu thế lai, nhưng phép lai nghịch cho ưu thế lai, và ngược lại.",
+      "E. A, B, C và D đúng"
+     ],
+     "correct": "C. Phép lai thuận, nghịch có thể sử dụng để xác định các gen liên kết hoàn toàn hay không hoàn toàn (xảy ra hoán vị gen) ở mọi loài sinh vật."
+    }
+   ]
+  },
+  {
+   "num": 7,
+   "title": "Sự phát sinh giao tử và sự phát triển của phôi",
+   "questions": [
+    {
+     "num": 178,
+     "text": "Cấu trúc glycoprotein của màng tinh trùng thay đổi để dễ nhân diện trứng và xúc tiến các phản ứng khi gặp trứng là:",
+     "options": [
+      "A. Về hình thái",
+      "B. Về sinh hóa",
+      "C. Về sinh lý",
+      "D. Về chuyển hóa",
+      "E. Về cấu tạo"
+     ],
+     "correct": "B. Về sinh hóa"
+    },
+    {
+     "num": 179,
+     "text": "Bào quan nào tạo thể đỉnh của đầu tinh trùng người:",
+     "options": [
+      "A. Ty thể",
+      "B. Sợi actin",
+      "C. Bộ golgi",
+      "D. Trung thể",
+      "E. Lisosom"
+     ],
+     "correct": "C. Bộ golgi"
+    },
+    {
+     "num": 180,
+     "text": "Bào quan nào tham gia tạo cổ của tinh trùng người:",
+     "options": [
+      "A. Ty thể",
+      "B. Sợi actin",
+      "C. Bộ golgi",
+      "D. Trung thể",
+      "E. Lisosom"
+     ],
+     "correct": "D. Trung thể"
+    },
+    {
+     "num": 181,
+     "text": "Bào quan nào tham gia tạo đuôi của tinh trùng người:",
+     "options": [
+      "A. Ty thể",
+      "B. Sợi actin",
+      "C. Bộ golgi",
+      "D. Trung thể",
+      "E. Lisosom"
+     ],
+     "correct": "D. Trung thể"
+    },
+    {
+     "num": 182,
+     "text": "Trứng và tinh trùng gặp nhau để tạo thành hợp tử ở đoạn nào:",
+     "options": [
+      "A. Đoạn kẽ",
+      "B. Đoạn eo",
+      "C. Đoạn bóng",
+      "D. Đoạn loa vòi",
+      "E. Tử cung"
+     ],
+     "correct": "C. Đoạn bóng"
+    },
+    {
+     "num": 183,
+     "text": "Đoạn hẹp nhất của vòi trứng là:",
+     "options": [
+      "A. Đoạn kẽ",
+      "B. Đoạn eo",
+      "C. Đoạn bóng",
+      "D. Đoạn loa vòi",
+      "E. Tử cung"
+     ],
+     "correct": "B. Đoạn eo"
+    },
+    {
+     "num": 184,
+     "text": "Trong thời kì hình thành bào thai, vùng nào dần dần phình ra để tạo hình chi trên và chi dưới:",
+     "options": [
+      "A. Vùng trước và giữa",
+      "B. Vùng trước và sau",
+      "C. Vùng trước và cuối",
+      "D. Vùng giữa và sau",
+      "E. Vùng sau và cuối"
+     ],
+     "correct": "B. Vùng trước và sau"
+    },
+    {
+     "num": 185,
+     "text": "Tế bào sertoli gồm mấy chức năng chính:",
+     "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4",
+      "E. 5"
+     ],
+     "correct": "C. 3"
+    },
+    {
+     "num": 186,
+     "text": "Nội tiết tố kích thích phát triển ống sinh tinh là:",
+     "options": [
+      "A. GnRH",
+      "B. LH",
+      "C. FSH",
+      "D. Testosterone",
+      "E. GCH"
+     ],
+     "correct": "C. FSH"
+    },
+    {
+     "num": 187,
+     "text": "Noãn hình thành từ đâu:",
+     "options": [
+      "A. Thể vàng",
+      "B. Tử cung",
+      "C. Nang trứng",
+      "D. Vòi trứng",
+      "E. Buồng trứng"
+     ],
+     "correct": "C. Nang trứng"
+    },
+    {
+     "num": 188,
+     "text": "Quá trình thụ tinh gồm mấy bước:",
+     "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5",
+      "E. 1"
+     ],
+     "correct": "C. 4"
+    },
+    {
+     "num": 189,
+     "text": "Ngoại sản mạc tử cung chỉ liên quan:",
+     "options": [
+      "A. Trứng",
+      "B. Nang",
+      "C. Tinh trùng",
+      "D. Hợp tử",
+      "E. Tử cung"
+     ],
+     "correct": "E. Tử cung"
+    },
+    {
+     "num": 190,
+     "text": "Trên thiết diện cắt ngang buồng trứng cho thấy buồng trứng được chia thành:",
+     "options": [
+      "A. Vùng tủy và vùng vỏ",
+      "B. Vùng xoang và vùng vỏ",
+      "C. Vùng tủy và vùng xoang",
+      "D. Vùng tủy, vùng xoang và vùng vỏ",
+      "E. Vùng tủy và vùng thùy"
+     ],
+     "correct": "A. Vùng tủy và vùng vỏ"
+    },
+    {
+     "num": 191,
+     "text": "Mỗi chu kỳ có khoảng 20 nang noãn nguyên thủy được huy động phát triển là:",
+     "options": [
+      "A. Sự chiêu mộ của nang noãn",
+      "B. Sự chọn lọc nang noãn",
+      "C. Sự thoái hóa nang noãn",
+      "D. Sự thoái hóa trứng",
+      "E. Sự rụng trứng"
+     ],
+     "correct": "A. Sự chiêu mộ của nang noãn"
+    },
+    {
+     "num": 192,
+     "text": "Quá trình ngay sau khi tinh trùng hòa nhập vào trứng gọi là quá trình:",
+     "options": [
+      "A. Sự hoạt hóa tinh trùng",
+      "B. Sự kết dính tinh trùng và trứng",
+      "C. Sự hoạt hóa trứng",
+      "D. Tinh trùng gắn vào màng noãn hoàn",
+      "E. Sự rụng trứng"
+     ],
+     "correct": "C. Sự hoạt hóa trứng"
+    },
+    {
+     "num": 193,
+     "text": "Ngoại sản mạc KHÔNG gồm phần nào sau đây:",
+     "options": [
+      "A. Ngoại sản mạc tử cung",
+      "B. Ngoại sản mạc trứng",
+      "C. Ngoại sản mạc tử cung – rau",
+      "D. Ngoại sản mạc rau",
+      "E. Không có câu đúng"
+     ],
+     "correct": "D. Ngoại sản mạc rau"
+    },
+    {
+     "num": 194,
+     "text": "Buồng ối ngày càng phát triển rộng ra và bao quanh thai nhi là quá trình:",
+     "options": [
+      "A. Nội sản mạc thời kì sắp xếp tổ chức",
+      "B. Nội sản mạc thời kì hoàn chỉnh tổ chức",
+      "C. Ngoại sản mạc thời kỳ ổn định",
+      "D. Ngoại sản mạc thời kì sắp xếp tổ chức",
+      "E. Ngoại sản mạc thời kì hoàn chỉnh tổ chức"
+     ],
+     "correct": "B. Nội sản mạc thời kì hoàn chỉnh tổ chức"
+    },
+    {
+     "num": 195,
+     "text": "“Phần phụ” - các bộ phận dính vào của tử cung gồm:",
+     "options": [
+      "A. Vòi trứng với noãn",
+      "B. Noãn với buồng trứng",
+      "C. Vòi trứng với buồng trứng",
+      "D. Noãn, vòi trứng với buồng trứng",
+      "E. A, B, C và D sai"
+     ],
+     "correct": "C. Vòi trứng với buồng trứng"
+    },
+    {
+     "num": 196,
+     "text": "Sự thoái hóa của giai đoạn nào dẫn đến kinh nguyệt:",
+     "options": [
+      "A. Giai đoạn nang trứng",
+      "B. Giai đoạn hoàng thể",
+      "C. Giai đoạn thoái hóa trứng",
+      "D. Giai đoạn hình thành noãn",
+      "E. Giai đoạn thoái hóa nang noãn"
+     ],
+     "correct": "B. Giai đoạn hoàng thể"
+    },
+    {
+     "num": 197,
+     "text": "Tinh trùng ngăn chặn sự xâm nhập của các tinh trùng khác loài và sự thụ tinh đa tinh trùng thông qua:",
+     "options": [
+      "A. Quá trình phá vỡ trứng",
+      "B. Phản ứng vỏ của noãn",
+      "C. Sự kết dính chuyên biệt tinh trùng và trứng",
+      "D. Quá trình hoạt hóa trứng",
+      "E. Sự hoạt hóa tinh trùng"
+     ],
+     "correct": "B. Phản ứng vỏ của noãn"
+    },
+    {
+     "num": 198,
+     "text": "Phản ứng cực đầu xảy ra khi:",
+     "options": [
+      "A. Tinh trùng gắn vào trứng",
+      "B. Tinh trùng gắn vào màng ngoài",
+      "C. Tinh trùng gắn vào màng bên",
+      "D. Tinh trùng gắn vào màng trong suốt",
+      "E. Tinh trùng gắn vào màng trứng"
+     ],
+     "correct": "A. Tinh trùng gắn vào trứng"
+    },
+    {
+     "num": 199,
+     "text": "Ngoại sản mạc tử cung – rau là phần ngoại sản mạc nằm ở:",
+     "options": [
+      "A. Giữa lớp cơ tử cung và trứng",
+      "B. Giữa lớp cơ noãn và trứng",
+      "C. Giữa lớp cơ tử cung và noãn",
+      "D. Giữa lớp cơ tử cung noãn và trứng",
+      "E. Giữa lớp cơ tử cung và hợp tử"
+     ],
+     "correct": "A. Giữa lớp cơ tử cung và trứng"
+    },
+    {
+     "num": 200,
+     "text": "Thời kỳ rau toàn diện là thời kỳ:",
+     "options": [
+      "A. Nội sản mạc",
+      "B. Trung sản mạc",
+      "C. Ngoại sản mạc",
+      "D. Nội sản mạc và ngoại sản mạc",
+      "E. Nội sản mạc và trung sản mạc"
+     ],
+     "correct": "B. Trung sản mạc"
+    },
+    {
+     "num": 201,
+     "text": "Thụ tinh là:",
+     "options": [
+      "A. Sự thoái hóa giữa một tế bào đực (tinh trùng) và một tế bào cái (noãn) để hình thành một tế bào mới là trứng",
+      "B. Sự chuyển giao giữa một tế bào đực (tinh trùng) và một tế bào cái (noãn) để hình thành một tế bào mới là trứng",
+      "C. Sự phân hủy giữa một tế bào đực (tinh trùng) và một tế bào cái (noãn) để hình thành một tế bào mới là trứng",
+      "D. Sự đào thải giữa một tế bào đực (tinh trùng) và một tế bào cái (noãn) để hình thành một tế bào mới là trứng",
+      "E. Sự kết hợp giữa một tế bào đực (tinh trùng) và một tế bào cái (noãn) để hình thành một tế bào mới là trứng"
+     ],
+     "correct": "E. Sự kết hợp giữa một tế bào đực (tinh trùng) và một tế bào cái (noãn) để hình thành một tế bào mới là trứng"
+    },
+    {
+     "num": 202,
+     "text": "Giai đoạn sinh tinh bào là:",
+     "options": [
+      "A. Các tinh nguyên bào phân chia gián đoạn để tạo ra nhiều thế hệ tế bào và cuối cùng tạo thành tinh bào",
+      "B. Các tinh nguyên bào phân chia liên tiếp để tạo ra nhiều thế hệ tế bào và cuối cùng tạo thành tinh bào",
+      "C. Các tinh nguyên bào phân chia liên tiếp để tạo ra nhiều thế hệ tế bào và cuối cùng tạo thành tinh trùng",
+      "D. Các tinh nguyên bào phân chia gián đoạn để tạo ra một thế hệ tế bào và cuối cùng tạo thành tinh bào",
+      "E. Các tinh nguyên bào phân chia gián đoạn để tạo ra nhiều thế hệ tế bào và cuối cùng tạo thành tinh trùng"
+     ],
+     "correct": "B. Các tinh nguyên bào phân chia liên tiếp để tạo ra nhiều thế hệ tế bào và cuối cùng tạo thành tinh bào"
+    },
+    {
+     "num": 203,
+     "text": "Tinh hoàn có 2 chức năng quan hệ chặt chẽ với nhau là:",
+     "options": [
+      "A. Sinh tinh trùng và sản xuất ra các nội tiết tố sinh dục nam",
+      "B. Sinh tinh trùng và sản xuất ra các ngoại tiết tố sinh dục nam",
+      "C. Chuyển tinh trùng và sản xuất ra các nội tiết tố sinh dục nam",
+      "D. Chuyển tinh trùng và sản xuất ra các ngoại tiết tố sinh dục nam",
+      "E. Sản xuất hormon testosteron"
+     ],
+     "correct": "A. Sinh tinh trùng và sản xuất ra các nội tiết tố sinh dục nam"
+    },
+    {
+     "num": 204,
+     "text": "Chức năng của hàng rào máu – tinh hoàn là:",
+     "options": [
+      "A. Cho tinh trùng và các sản phẩm thoái hóa của nó tiếp xúc với máu của cơ thể, tách biệt môi trường của ống sinh tinh và máu.",
+      "B. Ngăn cản không cho tinh trùng nhưng cho các sản phẩm thoái hóa của nó tiếp xúc với máu của cơ thể, tách biệt môi trường của ống sinh tinh và máu.",
+      "C. Cho tinh trùng nhưng không cho các sản phẩm thoái hóa của nó tiếp xúc với máu của cơ thể, tách biệt môi trường của ống sinh tinh và máu.",
+      "D. Ngăn cản không cho tinh trùng và các sản phẩm thoái hóa của nó tiếp xúc với máu của cơ thể, tách biệt môi trường của ống sinh tinh và máu.",
+      "E. A và B đúng"
+     ],
+     "correct": "D. Ngăn cản không cho tinh trùng và các sản phẩm thoái hóa của nó tiếp xúc với máu của cơ thể, tách biệt môi trường của ống sinh tinh và máu."
+    },
+    {
+     "num": 205,
+     "text": "Các cơ chế tham gia vào sự di chuyển của trứng KHÔNG CÓ:",
+     "options": [
+      "A. Nhu động của vòi tử cung",
+      "B. Hoạt động của nhung mao niêm mạc vòi tử cung",
+      "C. Luồng dịch chảy từ phía loa vòi tử cung vào buồng tử cung",
+      "D. A và B đúng",
+      "E. A, B và C đúng"
+     ],
+     "correct": "E. A, B và C đúng"
+    },
+    {
+     "num": 206,
+     "text": "Sự làm tổ diễn ra ở đâu trong tử cung:",
+     "options": [
+      "A. Phôi làm tổ ở mặt trước và mặt sau thân tử cung",
+      "B. Phôi làm tổ ở mặt trước và mặt sau cổ tử cung",
+      "C. Phôi làm tổ ở mặt trước thân tử cung",
+      "D. Phôi làm tổ ở mặt sau cổ tử cung",
+      "E. Phôi làm tổ ở đáy tử cung"
+     ],
+     "correct": "E. Phôi làm tổ ở đáy tử cung"
+    },
+    {
+     "num": 207,
+     "text": "Ở phôi thai mới thành lập KHÔNG gồm vùng nào sau đây:",
+     "options": [
+      "A. Vùng trước là đầu",
+      "B. Vùng giữa nhô ra trở thành bụng lưng và có rãnh thần kinh",
+      "C. Vùng sau là phần đuôi và có mạng lưới thần kinh",
+      "D. Vùng cuối là phần chân",
+      "E. Vùng giữa là nơi hình thành tay"
+     ],
+     "correct": null
+    },
+    {
+     "num": 208,
+     "text": "Sự thụ thai là:",
+     "options": [
+      "A. Sự thụ tinh kèm theo sự thoái hóa của trứng",
+      "B. Sự thụ tinh hình thành sự làm tổ của trứng",
+      "C. Sự thụ tinh phá bỏ sự làm tổ của trứng",
+      "D. Sự thụ tinh liên kết sự làm tổ của trứng",
+      "E. Sự thụ tinh kèm theo sau đó là sự làm tổ của trứng"
+     ],
+     "correct": "E. Sự thụ tinh kèm theo sau đó là sự làm tổ của trứng"
+    },
+    {
+     "num": 209,
+     "text": "Sau khi làm tổ trứng phát triển thành:",
+     "options": [
+      "A. Hợp tử và phần phụ của thai ((bánh rau, màng rau, dây rau và nước ối).",
+      "B. Hợp tử và phần chính của thai",
+      "C. Thai và các phần phụ của thai (bánh rau, màng rau, dây rau và nước ối)",
+      "D. Thai và các phần chính của thai",
+      "E. Hợp tử và phần phụ lẫn phần chính của thai"
+     ],
+     "correct": "C. Thai và các phần phụ của thai (bánh rau, màng rau, dây rau và nước ối)"
+    },
+    {
+     "num": 210,
+     "text": "Quá trình hoạt hóa trứng được thực hiện:",
+     "options": [
+      "A. Ngay sau khi tinh trùng tiếp xúc màng trứng",
+      "B. Ngay sau khi tinh trùng bất hoạt trứng",
+      "C. Ngay sau khi tinh trùng hòa nhập vào trứng",
+      "D. Ngay sau khi tinh trùng kết dính trứng",
+      "E. Ngay sau khi tinh trùng gặp trứng"
+     ],
+     "correct": "C. Ngay sau khi tinh trùng hòa nhập vào trứng"
+    }
+   ]
+  }
+ ]
+}

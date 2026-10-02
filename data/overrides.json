@@ -1,0 +1,42 @@
+{
+  "_doc": [
+    "Chỉnh tay đè lên dữ liệu máy trích từ PDF (questions.base.json).",
+    "Khoá = id câu hỏi. Các trường dùng được:",
+    "  correct : chữ cái 'A'..'E' của đáp án đúng, hoặc null nếu không chấm điểm",
+    "  flag    : 'dropped' = đề gốc đã ghi 'bỏ', chỉ xem tham khảo",
+    "  options : { 'chỉ số': 'nội dung mới' } — sửa lỗi gõ trong đáp án",
+    "  text    : sửa lỗi gõ trong đề bài",
+    "Căn cứ của từng chỉnh sửa được ghi trong data/review_needed.md."
+  ],
+
+  "bai-2-30": {
+    "correct": "A",
+    "_why": "File gốc tô vàng cả A (Màng tế bào) và D (Màng sinh chất) — hai cách gọi của cùng một cấu trúc. Chốt A (đáp án đầu tiên); phần giải thích nói rõ D cũng đúng."
+  },
+
+  "bai-3-86": {
+    "correct": "B",
+    "_why": "Không được tô. Slide bài 3 (Quá trình đường phân): 'Là giai đoạn chung, không phụ thuộc oxy — Xảy ra ở bào tương' → B. Tế bào chất, không phụ thuộc oxy."
+  },
+
+  "bai-4-126": {
+    "correct": "B",
+    "_why": "Không được tô và slide bài 4 không có câu định nghĩa này. Chốt theo cách diễn đạt chuẩn trong giáo trình: acid nucleic là hợp chất CAO phân tử (loại C, D, E) tham gia các quá trình CƠ BẢN của sự sống. A chỉ khác B đúng một từ ('phức tạp') — xem review_needed.md."
+  },
+
+  "bai-6-160": {
+    "correct": "D",
+    "_why": "Không được tô. Đã giải bằng tay và kiểm tra lại bằng chương trình: chỉ 3 phép lai I, II, IV thoả 'hoa hồng thuần chủng × hoa đỏ → F1 50% đỏ : 50% hồng' (III cho 100% đỏ; V và VI có cây hồng không thuần chủng)."
+  },
+
+  "bai-6-168": {
+    "options": { "4": "E. A, B, C và D đúng" },
+    "_why": "File gốc gõ nhầm dấu chấm thành dấu phẩy: 'E. A. B, C và D đúng'. Sửa lại cho dễ đọc, không đổi nghĩa."
+  },
+
+  "bai-7-207": {
+    "correct": null,
+    "flag": "dropped",
+    "_why": "File gốc có ghi chú viết tay 'bỏ'. Lý do: cả D ('vùng cuối là phần chân') và E ('vùng giữa là nơi hình thành tay') đều KHÔNG đúng với slide bài 7 (phôi chỉ có vùng trước = đầu, vùng giữa = bụng/lưng có rãnh thần kinh, vùng sau = đuôi; chi do vùng trước và vùng sau phình ra) → câu có 2 đáp án, không chấm điểm được."
+  }
+}
