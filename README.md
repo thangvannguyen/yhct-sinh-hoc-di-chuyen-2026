@@ -15,6 +15,9 @@ slide bài giảng. Xây bằng **React + Vite + TailwindCSS**.
 | 7 | Sự phát sinh giao tử, thụ tinh và phát triển của phôi ở người | 33 |
 
 ## Tính năng
+- **Tối ưu cho điện thoại** — thanh "Câu trước / Câu sau" dính đáy màn hình nên không
+  phải cuộn xuống sau mỗi câu, vuốt ngang để chuyển câu, chừa chỗ cho tai thỏ và thanh
+  home của iPhone; tài liệu PDF mở bằng trình đọc của máy thay vì khung nhúng trống trơn
 - **Kiểm tra thử** — làm bài có chấm điểm, chọn bài & số câu, xáo trộn câu và đáp án
 - **Học tuần tự** — học theo bài, có nút *Trộn câu hỏi* để tránh học vẹt theo thứ tự
 - **Ôn tập câu sai** — tự gom lại các câu từng trả lời sai
@@ -44,7 +47,7 @@ npm run preview   # xem thử bản đã build
 `main` sẽ tự build và deploy lên GitHub Pages.
 
 GitHub Pages đã được bật sẵn (Source = GitHub Actions), nên từ giờ chỉ cần `git push` là
-site tự cập nhật: <https://thangvannguyen.github.io/yhct-sinh-hoc-di-chuyen-2026/>
+site tự cập nhật: <https://thangvannguyen.github.io/yhct-sinh-hoc-di-truyen-2026/>
 
 ## Dữ liệu câu hỏi
 

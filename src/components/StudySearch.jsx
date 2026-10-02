@@ -101,7 +101,9 @@ export default function StudySearch({ chapterId, onScopeFilterChange }) {
             </button>
           )}
         </div>
-        {chapterId !== 'all' && (
+        {/* Nút phạm vi chỉ hiện khi đã gõ — trên điện thoại nó chiếm mất 1/3 chiều
+            ngang của hàng tìm kiếm trong khi phần lớn thời gian không dùng tới. */}
+        {chapterId !== 'all' && query.trim().length >= 2 && (
           <div className="flex flex-shrink-0 rounded-[11px] border border-border bg-surface p-0.5 text-[0.76rem] font-semibold">
             <button
               type="button"

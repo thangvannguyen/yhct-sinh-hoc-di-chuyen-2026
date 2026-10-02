@@ -3,7 +3,7 @@ import { Navigate, useNavigate } from 'react-router-dom'
 import { QUESTION_INDEX } from '../lib/data.js'
 import { pushHistory, recordAnswer } from '../lib/storage.js'
 import { useApp } from '../lib/store.jsx'
-import { BackLink, Button, Card, Container, ProgressBar } from '../components/ui.jsx'
+import { BackLink, Button, Card, Container, ProgressBar, StickyBar, useSwipe } from '../components/ui.jsx'
 import QuizNav from '../components/QuizNav.jsx'
 import { ChapterTag, DocOption, SimpleOption } from '../components/Question.jsx'
 
@@ -70,6 +70,10 @@ function QuizPlaySimple() {
     state: it.picked !== null ? 'answered' : 'idle',
     current: idx === i,
   }))
+  const swipe = useSwipe(
+    () => (isLast ? null : goto(i + 1)),
+    () => (i === 0 ? null : goto(i - 1))
+  )
 
   return (
     <Container wide>
@@ -85,7 +89,7 @@ function QuizPlaySimple() {
         <QuizNav items={navItems} onJump={goto} />
 
         <div className="min-w-0 flex-1">
-          <Card className="mb-[18px] px-[22px] py-[22px]">
+          <Card className="mb-[18px] px-4 py-5 sm:px-[22px] sm:py-[22px]" {...swipe}>
             <ChapterTag>{chapterShort}</ChapterTag>
             <div className="mb-4 text-[1.05rem] font-semibold leading-relaxed">{q.text}</div>
             <div className="flex flex-col gap-2.5">
@@ -101,33 +105,40 @@ function QuizPlaySimple() {
             </div>
           </Card>
 
-          <div className="flex gap-2.5">
-            <Button className="flex-1" disabled={i === 0} onClick={() => goto(i - 1)}>
-              ← Câu trước
-            </Button>
-            {isLast ? (
-              <Button variant="primary" className="flex-1" onClick={finish}>
-                Nộp bài
-              </Button>
-            ) : (
-              <Button variant="primary" className="flex-1" onClick={() => goto(i + 1)}>
-                Câu sau →
-              </Button>
-            )}
-          </div>
-          {!isLast && (
-            <div className="mt-3 text-center">
+          <StickyBar>
+            <div className="flex items-center gap-2.5">
               <Button
-                variant="ghost"
-                className="text-[0.85rem]"
-                onClick={() => {
-                  if (confirm(`Nộp bài với ${answeredCount}/${total} câu đã trả lời?`)) finish()
-                }}
+                className="flex-1 px-3"
+                disabled={i === 0}
+                onClick={() => goto(i - 1)}
+                aria-label="Câu trước"
               >
-                Nộp bài sớm
+                ← <span className="max-[380px]:hidden">Câu trước</span>
               </Button>
+              {isLast ? (
+                <Button variant="primary" className="flex-[1.4] px-3" onClick={finish}>
+                  Nộp bài
+                </Button>
+              ) : (
+                <Button variant="primary" className="flex-[1.4] px-3" onClick={() => goto(i + 1)}>
+                  Câu sau →
+                </Button>
+              )}
             </div>
-          )}
+            {!isLast && (
+              <div className="mt-1.5 text-center">
+                <Button
+                  variant="ghost"
+                  className="!py-1.5 text-[0.82rem]"
+                  onClick={() => {
+                    if (confirm(`Nộp bài với ${answeredCount}/${total} câu đã trả lời?`)) finish()
+                  }}
+                >
+                  Nộp bài sớm ({answeredCount}/{total})
+                </Button>
+              </div>
+            )}
+          </StickyBar>
         </div>
       </div>
     </Container>

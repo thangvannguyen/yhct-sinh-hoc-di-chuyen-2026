@@ -1,3 +1,4 @@
+import { useRef } from 'react'
 import { Link } from 'react-router-dom'
 
 function cx(...parts) {
@@ -92,3 +93,53 @@ export function BackLink({ to, onClick, children = '← Quay lại' }) {
 }
 
 export { cx }
+
+/**
+ * Thanh điều hướng dính đáy màn hình. Trên điện thoại, câu hỏi dài + 5 đáp án +
+ * phần giải thích thường vượt quá một màn, nên nút "Câu sau" nếu nằm cuối trang
+ * sẽ buộc người học cuộn xuống sau mỗi câu. Dính đáy thì luôn với tới được.
+ *
+ * Dùng `sticky` chứ không `fixed`: nó vẫn nằm trong luồng tài liệu nên không cần
+ * chừa padding giả ở dưới, và trên màn hình rộng nó tự nằm ở cuối nội dung.
+ */
+export function StickyBar({ children, className }) {
+  return (
+    <div
+      className={cx(
+        'sticky bottom-0 z-20 -mx-3 mt-4 border-t border-border px-3 pt-3 backdrop-blur-md backdrop-saturate-150 sm:-mx-[18px] sm:px-[18px]',
+        className
+      )}
+      style={{
+        background: 'color-mix(in srgb, var(--bg) 85%, transparent)',
+        // chừa chỗ cho thanh home indicator của iPhone
+        paddingBottom: 'calc(0.75rem + env(safe-area-inset-bottom, 0px))',
+      }}
+    >
+      {children}
+    </div>
+  )
+}
+
+/**
+ * Vuốt ngang để sang câu trước / câu sau — thao tác tự nhiên nhất trên điện thoại.
+ * Bỏ qua khi người dùng đang cuộn dọc hoặc khi vuốt quá ngắn.
+ */
+export function useSwipe(onLeft, onRight) {
+  const start = useRef(null)
+  return {
+    onTouchStart: (e) => {
+      const t = e.touches[0]
+      start.current = { x: t.clientX, y: t.clientY }
+    },
+    onTouchEnd: (e) => {
+      if (!start.current) return
+      const t = e.changedTouches[0]
+      const dx = t.clientX - start.current.x
+      const dy = t.clientY - start.current.y
+      start.current = null
+      // phải đi ngang rõ rệt và ngang nhiều hơn dọc, nếu không là đang cuộn trang
+      if (Math.abs(dx) < 60 || Math.abs(dx) < Math.abs(dy) * 1.5) return
+      dx < 0 ? onLeft?.() : onRight?.()
+    },
+  }
+}

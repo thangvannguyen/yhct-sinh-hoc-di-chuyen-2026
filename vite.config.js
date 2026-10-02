@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 // base: './' keeps every asset path relative so the built site works both when
-// served from a GitHub Pages project subpath (/yhct-sinh-hoc-di-chuyen-2026/)
+// served from a GitHub Pages project subpath (/yhct-sinh-hoc-di-truyen-2026/)
 // and locally.
 export default defineConfig({
   base: './',

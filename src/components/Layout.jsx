@@ -12,11 +12,31 @@ function ModeToggle() {
     { id: 'simple', label: 'Đơn giản' },
     { id: 'full', label: 'Đầy đủ' },
   ]
+  const other = mode === 'simple' ? 'full' : 'simple'
   return (
+    <>
+      {/* Điện thoại: một nút đổi qua lại. Hai ô "Đơn giản / Đầy đủ" chiếm mất
+          khoảng 90px — đúng phần chỗ cần để hiện tên môn trên thanh đầu trang. */}
+      <button
+        onClick={() => setMode(other)}
+        title={`Đang ở chế độ ${mode === 'simple' ? 'Đơn giản' : 'Đầy đủ'} — bấm để đổi`}
+        aria-label="Đổi chế độ hiển thị"
+        className="flex h-[38px] w-[38px] items-center justify-center rounded-[11px] border border-border bg-surface text-text-muted transition-colors hover:bg-primary-soft cursor-pointer min-[470px]:hidden"
+      >
+        {mode === 'simple' ? (
+          <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
+            <rect x="3" y="5" width="18" height="14" rx="2" />
+          </svg>
+        ) : (
+          <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
+            <path d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        )}
+      </button>
     <div
       role="tablist"
       aria-label="Chế độ hiển thị"
-      className="flex gap-0.5 rounded-[11px] border border-border bg-bg p-[3px]"
+      className="hidden gap-0.5 rounded-[11px] border border-border bg-bg p-[3px] min-[470px]:flex"
     >
       {opts.map((o) => (
         <button
@@ -35,6 +55,7 @@ function ModeToggle() {
         </button>
       ))}
     </div>
+    </>
   )
 }
 
@@ -90,7 +111,7 @@ function ScrollTopButton() {
       aria-label="Lên đầu trang"
       title="Lên đầu trang"
       className={cx(
-        'fixed right-5 bottom-5 z-30 flex h-[46px] w-[46px] items-center justify-center rounded-full border-0 bg-primary-grad text-white shadow-primary cursor-pointer transition-all duration-200 hover:brightness-110 active:scale-95 max-[470px]:right-3.5 max-[470px]:bottom-3.5',
+        'fixed right-5 bottom-[calc(72px+env(safe-area-inset-bottom,0px))] z-10 flex h-[46px] w-[46px] items-center justify-center rounded-full border-0 bg-primary-grad text-white shadow-primary cursor-pointer transition-all duration-200 hover:brightness-110 active:scale-95 max-[470px]:right-3',
         show ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible translate-y-3.5 scale-90'
       )}
     >
@@ -145,14 +166,20 @@ export default function Layout() {
 
   return (
     <>
-      <header className="sticky top-0 z-10 flex items-center justify-between border-b border-border px-5 py-[13px] backdrop-blur-md backdrop-saturate-150 max-[470px]:px-3.5 max-[470px]:py-2.5" style={{ background: 'color-mix(in srgb, var(--surface) 78%, transparent)' }}>
-        <Link to="/" className="inline-flex shrink-0 items-center gap-2.5 whitespace-nowrap font-extrabold text-[1.05rem] tracking-[-0.01em] text-text no-underline">
+      <header
+        className="sticky top-0 z-30 flex items-center justify-between gap-2 border-b border-border px-5 py-[13px] backdrop-blur-md backdrop-saturate-150 max-[470px]:px-3 max-[470px]:py-2.5"
+        style={{
+          background: 'color-mix(in srgb, var(--surface) 78%, transparent)',
+          paddingTop: 'max(13px, env(safe-area-inset-top, 0px))',
+        }}
+      >
+        <Link to="/" className="inline-flex min-w-0 items-center gap-2.5 whitespace-nowrap font-extrabold text-[0.98rem] tracking-[-0.01em] text-text no-underline sm:text-[1.05rem]">
           <span
             className="h-[30px] w-[30px] flex-shrink-0 rounded-[9px] bg-center bg-cover max-[470px]:h-[27px] max-[470px]:w-[27px]"
             style={{ backgroundImage: 'url(./favicon.svg)', boxShadow: '0 3px 8px -3px rgba(37,99,235,0.55)' }}
           />
-          <span className="max-[470px]:hidden">Sinh Học Di Truyền </span>
-          <span className="text-primary">10-2026</span>
+          <span className="truncate">Sinh Học Di Truyền</span>
+          <span className="text-primary max-[470px]:hidden"> 10-2026</span>
         </Link>
         <div className="flex items-center gap-2.5 max-[470px]:gap-1.5">
           <ModeToggle />
@@ -161,7 +188,7 @@ export default function Layout() {
         </div>
       </header>
 
-      <main className="px-[18px] pt-6 pb-16">
+      <main className="px-3 pt-5 pb-10 sm:px-[18px] sm:pt-6 sm:pb-16">
         <Outlet />
       </main>
 
