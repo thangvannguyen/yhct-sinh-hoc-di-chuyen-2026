@@ -2,18 +2,7 @@ import { Link } from 'react-router-dom'
 import { CHAPTERS, CHAPTER_QUESTIONS, TOTAL_QUESTIONS } from '../lib/data.js'
 import { getHistory, getProgress } from '../lib/storage.js'
 import { Card, Container, Pill, ProgressBar, SectionTitle } from '../components/ui.jsx'
-
-function StatBox({ num, label }) {
-  return (
-    <div className="relative overflow-hidden rounded-[13px] border border-border bg-surface px-2 py-4 text-center shadow-soft-sm">
-      <span className="absolute inset-x-0 top-0 h-[3px] bg-primary-grad opacity-85" />
-      <span className="block text-[1.5rem] font-extrabold tracking-[-0.02em] text-primary leading-none">
-        {num}
-      </span>
-      <span className="text-[0.74rem] font-medium text-text-muted">{label}</span>
-    </div>
-  )
-}
+import { ProgressMeter, ScoreTrend } from '../components/charts.jsx'
 
 function ModeCard({ to, emoji, title, desc }) {
   return (
@@ -38,7 +27,6 @@ function ModeCard({ to, emoji, title, desc }) {
 export default function Home() {
   const progress = getProgress()
   const answeredIds = Object.keys(progress)
-  const answeredCount = answeredIds.length
 
   let totalCorrect = 0
   let totalAttempts = 0
@@ -48,8 +36,10 @@ export default function Home() {
   })
   const accuracy = totalAttempts ? Math.round((totalCorrect / totalAttempts) * 100) : 0
   const wrongCount = answeredIds.filter((id) => progress[id].lastResult === 'wrong').length
+  const masteredCount = answeredIds.filter((id) => progress[id].lastResult === 'correct').length
 
-  const lastQuiz = getHistory()[0]
+  const history = getHistory()
+  const lastQuiz = history[0]
 
   return (
     <Container>
@@ -66,10 +56,13 @@ export default function Home() {
         </p>
       </div>
 
-      <div className="mt-[22px] mb-1 grid grid-cols-3 gap-3">
-        <StatBox num={`${answeredCount}/${TOTAL_QUESTIONS}`} label="Đã học" />
-        <StatBox num={`${accuracy}%`} label="Độ chính xác" />
-        <StatBox num={String(wrongCount)} label="Câu cần ôn" />
+      <div className="mt-[22px] mb-1 grid gap-3 min-[560px]:grid-cols-2">
+        <ProgressMeter
+          mastered={masteredCount}
+          review={wrongCount}
+          total={TOTAL_QUESTIONS}
+        />
+        <ScoreTrend history={history} accuracy={accuracy} />
       </div>
 
       <SectionTitle>Chế độ</SectionTitle>
