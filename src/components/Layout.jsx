@@ -149,7 +149,7 @@ export default function Layout() {
         <Link to="/" className="inline-flex shrink-0 items-center gap-2.5 whitespace-nowrap font-extrabold text-[1.05rem] tracking-[-0.01em] text-text no-underline">
           <span
             className="h-[30px] w-[30px] flex-shrink-0 rounded-[9px] bg-center bg-cover max-[470px]:h-[27px] max-[470px]:w-[27px]"
-            style={{ backgroundImage: 'url(./favicon.svg)', boxShadow: '0 3px 8px -3px rgba(14,116,144,0.5)' }}
+            style={{ backgroundImage: 'url(./favicon.svg)', boxShadow: '0 3px 8px -3px rgba(20,110,245,0.45)' }}
           />
           <span className="max-[470px]:hidden">Sinh Học Di Truyền </span>
           <span className="text-primary">10-2026</span>
