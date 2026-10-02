@@ -1,166 +1,133 @@
 {
   "_doc": "Giải thích + mẹo ghi nhớ — Bài 7: Sự phát sinh giao tử, thụ tinh và phát triển của phôi ở người. Bám theo slide 07-phat-sinh-giao-tu-thu-tinh-phoi.pdf.",
-
   "bai-7-178": {
     "explain": "Trong quá trình trưởng thành ở mào tinh, tinh trùng biến đổi theo hai mặt: về HÌNH THÁI (mất các túi bào tương thừa, đầu ổn định kích thước) và về SINH HÓA (cấu trúc glycoprotein của màng thay đổi để dễ nhận diện trứng và xúc tiến các phản ứng khi gặp trứng). Vì đề nhắc tới glycoprotein — một phân tử — nên đây là thay đổi về sinh hóa.",
     "tip": "Nói tới PHÂN TỬ (glycoprotein, enzym) là nói tới thay đổi SINH HÓA; nói tới hình dạng mới là hình thái."
   },
-
   "bai-7-179": {
     "explain": "Thể đỉnh (túi cực đầu) là một túi màng nằm chụp lên đầu tinh trùng như chiếc mũ, chứa hyaluronidase, neuraminidase và các protease dùng để phá lớp tế bào hạt và màng trong suốt của trứng. Vì bản chất là một túi chứa enzym thủy phân nên nó do bộ Golgi tạo ra — giống như cách Golgi sinh ra lysosom.",
     "tip": "Túi enzym thì luôn do GOLGI đóng gói — thể đỉnh thực chất là một \"lysosom khổng lồ\"."
   },
-
   "bai-7-180": {
     "explain": "Cổ tinh trùng chứa tiểu thể trung tâm cùng 9 cột chia đoạn xếp thành hình ống — các cấu trúc này đều có nguồn gốc từ trung thể của tiền tinh trùng. Trung thể vừa tạo cổ, vừa kéo dài thành dây trục của đuôi.",
     "tip": "Đầu (thể đỉnh) ← Golgi; Cổ và Đuôi ← Trung thể; đoạn giữa quấn Ty thể."
   },
-
   "bai-7-181": {
     "explain": "Đuôi tinh trùng có lõi là dây trục (axoneme) — bó vi ống 9(2)+1(2) mọc ra từ trung thể trong giai đoạn biệt hóa tiền tinh trùng. Ty thể tuy xếp thành bao xoắn ở đoạn giữa để cấp ATP cho đuôi đập, nhưng không phải là bào quan TẠO RA đuôi.",
     "tip": "Trung thể tạo cả cổ lẫn đuôi — hai câu 180 và 181 cùng một đáp án."
   },
-
   "bai-7-182": {
     "explain": "Thụ tinh diễn ra ở 1/3 ngoài vòi trứng, tức đoạn bóng (ampulla) — nơi rộng nhất, có nhiều nhung mao và dịch, thuận lợi cho tinh trùng gặp noãn. Hợp tử ở lại đoạn bóng khoảng 48 giờ (giai đoạn 2–4 tế bào) rồi mới vượt đoạn eo để vào buồng tử cung.",
     "tip": "Gặp nhau ở đoạn BÓNG (rộng nhất, 1/3 ngoài vòi trứng); làm tổ ở TỬ CUNG."
   },
-
   "bai-7-183": {
     "explain": "Vòi trứng đi từ tử cung ra buồng trứng gồm bốn đoạn: đoạn kẽ (xuyên thành tử cung), đoạn eo, đoạn bóng và loa vòi. Đoạn eo (isthmus) là đoạn hẹp nhất; hợp tử phải nhờ tác động của progesteron mới vượt qua được trong 10–12 giờ.",
     "tip": "EO thì phải HẸP — đúng như nghĩa đen của từ."
   },
-
   "bai-7-184": {
     "explain": "Phôi thai mới thành lập biệt hóa thành ba vùng: vùng trước là đầu, vùng giữa nhô về phía bụng và lưng có rãnh thần kinh, vùng sau là đuôi. Sau đó vùng TRƯỚC và vùng SAU phình ra tạo chi trên và chi dưới. Vùng giữa phát triển thành thân chứ không tạo chi.",
     "tip": "Chi mọc ra từ hai đầu phôi: vùng TRƯỚC → tay, vùng SAU → chân."
   },
-
   "bai-7-185": {
     "explain": "Slide nêu tế bào Sertoli có ba chức năng: tạo khung chống đỡ và bảo vệ các tế bào dòng tinh; thực bào (dọn các mảnh bào tương thừa); tạo dịch tiết giúp tinh trùng di chuyển. Ngoài ra chúng còn liên kết với nhau tạo nên hàng rào máu – tinh hoàn.",
     "tip": "Ba việc của Sertoli: CHỐNG ĐỠ – THỰC BÀO – TIẾT DỊCH. (Sertoli là \"bảo mẫu\" của dòng tinh.)"
   },
-
   "bai-7-186": {
     "explain": "FSH kích thích phát triển ống sinh tinh, kích thích tế bào Sertoli và thúc Sertoli bài tiết dịch nuôi tinh trùng. LH thì tác động lên tế bào Leydig để tiết testosteron; GnRH là hormon vùng dưới đồi điều khiển tuyến yên; hCG là hormon của rau thai.",
     "tip": "FSH → ống sinh tinh & Sertoli. LH → Leydig & testosteron. (F = \"Follicle/ống\", L = \"Leydig\".)"
   },
-
   "bai-7-187": {
     "explain": "Noãn phát triển bên trong nang trứng (nang noãn) nằm ở vùng vỏ buồng trứng; nang nuôi dưỡng noãn rồi vỡ ra khi rụng trứng. Buồng trứng tuy là cơ quan chứa các nang nhưng đơn vị trực tiếp hình thành noãn là nang trứng; thể vàng là phần còn lại của nang SAU khi rụng trứng.",
     "tip": "Nang trứng là \"cái tổ\" nuôi noãn; thể vàng là cái tổ ấy sau khi noãn đã đi."
   },
-
   "bai-7-188": {
     "explain": "Slide chia quá trình thụ tinh thành bốn bước: (1) Tiếp cận — trứng tiết chất hóa học hấp dẫn tinh trùng; (2) Xâm nhập — tinh trùng dùng hyaluronidase phá lớp tế bào hạt và màng trong suốt (phản ứng cực đầu); (3) Phản ứng vỏ trứng — ngăn các tinh trùng khác vào; (4) Kết hợp nhân — hai tiền nhân đơn bội hòa thành hợp tử 2n.",
     "tip": "4 bước: TIẾP CẬN → XÂM NHẬP → PHẢN ỨNG VỎ → KẾT HỢP NHÂN."
   },
-
   "bai-7-189": {
     "explain": "Ngoại sản mạc là niêm mạc tử cung biến đổi, gồm ba phần: ngoại sản mạc trứng (bao quanh trứng), ngoại sản mạc tử cung (phủ phần còn lại của buồng tử cung) và ngoại sản mạc tử cung – rau (nằm giữa trứng và lớp cơ tử cung). Riêng ngoại sản mạc TỬ CUNG chỉ liên quan đến tử cung, không tiếp giáp với trứng.",
     "tip": "Tên gọi đã chỉ đúng vị trí: ngoại sản mạc TỬ CUNG chỉ dính tử cung."
   },
-
   "bai-7-190": {
     "explain": "Cắt ngang buồng trứng thấy hai vùng: vùng vỏ ở ngoài chứa các nang noãn ở nhiều giai đoạn phát triển, và vùng tủy ở trong chứa mô liên kết, mạch máu và thần kinh. \"Vùng xoang\" không phải một vùng của buồng trứng — xoang là khoang chứa dịch bên trong nang noãn có hốc.",
     "tip": "Buồng trứng chỉ có 2 vùng: VỎ (chứa nang) và TỦY (chứa mạch máu)."
   },
-
   "bai-7-191": {
     "explain": "Mỗi tháng có khoảng 20 nang noãn nguyên thủy được tập hợp và khởi động phát triển — đó là giai đoạn CHIÊU MỘ, do hormon AMH từ tế bào nang điều hòa. Sau đó mới tới giai đoạn chọn lọc (khoảng ngày 7), rồi sự vượt trội của một nang duy nhất và cuối cùng là rụng trứng; các nang còn lại thoái hóa.",
     "tip": "Trình tự: CHIÊU MỘ (~20 nang) → CHỌN LỌC → VƯỢT TRỘI (1 nang) → RỤNG TRỨNG."
   },
-
   "bai-7-192": {
     "explain": "Ngay khi tinh trùng hòa nhập vào trứng, noãn đang dừng ở kỳ giữa II được \"đánh thức\": nó hoàn tất giảm phân II, tạo tiền nhân cái và cực cầu thứ hai, đồng thời khởi động hàng loạt phản ứng sinh hóa — đó là sự hoạt hóa trứng. Phản ứng vỏ trứng là một phần của chuỗi hoạt hóa này.",
     "tip": "Trứng \"ngủ\" ở kỳ giữa II, chỉ tỉnh dậy khi tinh trùng vào → hoạt hóa trứng."
   },
-
   "bai-7-193": {
     "explain": "Ngoại sản mạc chỉ có ba phần: ngoại sản mạc trứng, ngoại sản mạc tử cung và ngoại sản mạc tử cung – rau. \"Ngoại sản mạc rau\" không tồn tại — dễ nhầm vì có \"ngoại sản mạc TỬ CUNG – rau\" (thiếu mất hai chữ \"tử cung\" là thành tên sai).",
     "tip": "Ba phần: TRỨNG – TỬ CUNG – TỬ CUNG/RAU. Không có \"ngoại sản mạc rau\" đứng một mình."
   },
-
   "bai-7-194": {
     "explain": "Ở thời kỳ hoàn chỉnh tổ chức, nội sản mạc (màng ối) ngày càng phát triển, buồng ối rộng dần ra và bao quanh toàn bộ thai nhi. Còn ở thời kỳ sắp xếp tổ chức, nội sản mạc mới chỉ hình thành buồng ối nhỏ chứa dịch ở phía lưng bào thai.",
     "tip": "Buồng ối BAO QUANH được thai nhi rồi nghĩa là đã sang thời kỳ HOÀN CHỈNH."
   },
-
   "bai-7-195": {
     "explain": "\"Phần phụ\" của tử cung trong giải phẫu phụ khoa là vòi trứng và buồng trứng hai bên — những bộ phận dính vào tử cung. Noãn là tế bào sinh dục nằm trong buồng trứng chứ không phải một bộ phận giải phẫu dính vào tử cung, nên mọi phương án có \"noãn\" đều sai.",
     "tip": "Phần phụ = VÒI TRỨNG + BUỒNG TRỨNG (hai thứ, không có noãn)."
   },
-
   "bai-7-196": {
     "explain": "Sau khi rụng trứng, phần nang còn lại biến thành thể vàng (hoàng thể) tiết progesteron giữ cho niêm mạc tử cung dày lên. Nếu không có thụ tinh, thể vàng thoái hóa sau khoảng 14 ngày, progesteron và estrogen tụt xuống đột ngột làm lớp chức năng của niêm mạc tử cung bong ra — đó là kinh nguyệt.",
     "tip": "Thể vàng tàn → hormon tụt → niêm mạc bong → hành kinh."
   },
-
   "bai-7-197": {
     "explain": "Ngay sau khi một tinh trùng xâm nhập qua màng trong suốt, trứng tiết fertilisin và làm thay đổi cấu trúc lớp màng trong suốt (vỏ trứng) — gọi là phản ứng vỏ của noãn — khiến các tinh trùng khác không bám và chui vào được nữa. Nhờ vậy chỉ một tinh trùng kết hợp với trứng, giữ cho hợp tử đúng bộ nhiễm sắc thể lưỡng bội 2n.",
     "tip": "Phản ứng vỏ = \"đóng cửa\" sau khi một tinh trùng đã vào → tránh đa tinh trùng."
   },
-
   "bai-7-198": {
     "explain": "Theo slide, khi tinh trùng tiếp xúc và gắn vào trứng thì túi cực đầu vỡ ra, giải phóng hyaluronidase, neuraminidase và các protease để phá lớp tế bào hạt cùng màng trong suốt — đó là phản ứng cực đầu (phản ứng thể đỉnh), mở đường cho bước xâm nhập.",
     "tip": "Cực đầu vỡ ngay lúc tinh trùng CHẠM/GẮN vào trứng, để \"khoan\" qua các lớp vỏ."
   },
-
   "bai-7-199": {
     "explain": "Ngoại sản mạc tử cung – rau là phần niêm mạc tử cung biến đổi nằm KẸP GIỮA lớp cơ tử cung và trứng (phôi làm tổ). Chính phần này về sau phát triển mạnh, bị đục thành các hồ huyết và tham gia tạo bánh rau; hai phần ngoại sản mạc còn lại thì teo mỏng dần.",
     "tip": "Nằm giữa CƠ TỬ CUNG và TRỨNG — đúng chỗ sau này thành bánh rau."
   },
-
   "bai-7-200": {
     "explain": "Trung sản mạc do các tế bào mầm nhỏ phát triển thành, gồm lớp hội bào bên ngoài và lớp tế bào Langhans bên trong. Khi trung sản mạc tạo các chân giả bao quanh toàn bộ trứng thì gọi là thời kỳ trung sản mạc rậm, còn gọi là thời kỳ RAU TOÀN DIỆN.",
     "tip": "Rau toàn diện = trung sản mạc rậm (chân giả bao kín trứng)."
   },
-
   "bai-7-201": {
     "explain": "Thụ tinh là sự KẾT HỢP giữa một tế bào đực (tinh trùng) và một tế bào cái (noãn) để tạo thành một tế bào mới — trứng đã thụ tinh, tức hợp tử. Các phương án còn lại thay chữ \"kết hợp\" bằng thoái hóa, chuyển giao, phân hủy, đào thải nên đều sai hoàn toàn về bản chất.",
     "tip": "Chỉ cần tìm đúng động từ: KẾT HỢP."
   },
-
   "bai-7-202": {
     "explain": "Trong giai đoạn sinh tinh bào, các tinh nguyên bào ở phần nền của biểu mô sinh tinh phân chia LIÊN TIẾP (gián phân nhiều lần) tạo nhiều thế hệ tế bào, cuối cùng cho ra tinh bào. Tinh bào mới là sản phẩm của giai đoạn này; phải qua giảm phân và giai đoạn tạo tinh trùng nữa mới thành tinh trùng trưởng thành.",
     "tip": "Hai chữ phải đúng: phân chia LIÊN TIẾP, và dừng lại ở TINH BÀO (chưa phải tinh trùng)."
   },
-
   "bai-7-203": {
     "explain": "Tinh hoàn vừa là tuyến ngoại tiết (sinh tinh trùng trong ống sinh tinh) vừa là tuyến NỘI tiết (tế bào Leydig tiết testosteron đổ thẳng vào máu). Hai chức năng gắn chặt nhau vì chính testosteron lại cần cho quá trình sinh tinh. Gọi testosteron là \"ngoại tiết tố\" là sai; còn \"chuyển tinh trùng\" là việc của mào tinh và ống dẫn tinh.",
     "tip": "Tinh hoàn làm 2 việc: ra TINH TRÙNG và ra NỘI tiết tố (testosteron)."
   },
-
   "bai-7-204": {
     "explain": "Các tế bào Sertoli liên kết với nhau bằng kiểu liên kết cầu tế bào, tạo thành hàng rào máu – tinh hoàn ngăn KHÔNG cho tinh trùng VÀ các sản phẩm thoái hóa của nó tiếp xúc với máu, nhờ đó tách biệt môi trường ống sinh tinh với máu. Nếu hàng rào này tổn thương, tinh trùng lọt vào máu gặp tế bào miễn dịch, cơ thể sinh kháng thể chống tinh trùng — một nguyên nhân gây vô sinh.",
     "tip": "Hàng rào này chặn CẢ HAI: tinh trùng và sản phẩm thoái hóa. Chặn để khỏi bị miễn dịch tấn công."
   },
-
   "bai-7-205": {
     "explain": "Cả ba cơ chế nêu ra đều thật sự tham gia đưa trứng/hợp tử về buồng tử cung: nhu động của lớp cơ vòi tử cung, hoạt động của nhung mao niêm mạc vòi, và luồng dịch chảy trong lòng vòi. Vì câu hỏi tìm cơ chế KHÔNG CÓ mà không phương án nào sai, nên đáp án là \"A, B và C đúng\".",
     "tip": "Ba lực đẩy trứng: CƠ co bóp – NHUNG MAO quét – DỊCH chảy. Không thiếu cái nào."
   },
-
   "bai-7-206": {
     "explain": "Phôi nang thường làm tổ ở đáy tử cung — vùng cao nhất của thân tử cung, nơi niêm mạc dày và được tưới máu tốt nhất. Làm tổ ở cổ tử cung hoặc đoạn dưới là bất thường (rau tiền đạo), còn làm tổ ngoài tử cung là chửa ngoài tử cung.",
     "tip": "Làm tổ ở ĐÁY tử cung — chỗ \"màu mỡ\" nhất."
   },
-
   "bai-7-207": {
-    "explain": "⚠️ Câu này đã được đánh dấu BỎ trong đề gốc nên không chấm điểm. Lý do: theo slide, phôi thai mới thành lập chỉ biệt hóa thành ba vùng — vùng trước là đầu, vùng giữa nhô về phía bụng và lưng có rãnh thần kinh, vùng sau là đuôi; chi trên và chi dưới do vùng trước và vùng sau phình ra. Như vậy CẢ HAI phương án D (\"vùng cuối là phần chân\") và E (\"vùng giữa là nơi hình thành tay\") đều không đúng với bài giảng, tức câu hỏi có hai đáp án nên không dùng được.",
+    "explain": "Theo slide bài 7, phôi thai mới thành lập chỉ biệt hóa thành ba vùng: vùng trước là đầu, vùng giữa nhô về phía bụng và lưng có rãnh thần kinh, vùng sau là đuôi; chi trên và chi dưới về sau do vùng trước và vùng sau phình ra. Đối chiếu thì CẢ HAI phương án D (\"vùng cuối là phần chân\") và E (\"vùng giữa là nơi hình thành tay\") đều không đúng — câu hỏi có hai đáp án nên không chấm điểm được, và đó cũng là lý do đề gốc đánh dấu bỏ câu này.",
     "tip": "Phôi mới thành lập chỉ có 3 vùng: TRƯỚC (đầu) – GIỮA (bụng/lưng, rãnh thần kinh) – SAU (đuôi)."
   },
-
   "bai-7-208": {
     "explain": "Slide phân biệt rõ: thụ tinh là sự kết hợp giữa tinh trùng và noãn, còn THỤ THAI là sự thụ tinh KÈM THEO SAU ĐÓ là sự làm tổ của hợp tử trong tử cung. Nói cách khác, thụ tinh mà hợp tử không làm tổ được thì chưa gọi là thụ thai.",
     "tip": "Thụ thai = Thụ tinh + Làm tổ. Thiếu bước làm tổ là chưa có thai."
   },
-
   "bai-7-209": {
     "explain": "Sau khi làm tổ, phôi dâu/phôi nang phân hóa thành hai phần: đại phôi bào cho ra THAI, còn tiểu phôi bào cho ra các phần phụ của thai gồm bánh rau, màng rau, dây rau và nước ối. Các phương án dùng chữ \"hợp tử\" đều sai vì sau khi làm tổ nó không còn là hợp tử nữa.",
     "tip": "Trứng làm tổ xong → THAI + 4 phần phụ (bánh rau, màng rau, dây rau, nước ối)."
   },
-
   "bai-7-210": {
     "explain": "Sự hoạt hóa trứng chỉ diễn ra sau khi màng của tinh trùng đã HÒA NHẬP với màng trứng và nhân tinh trùng đi vào bào tương trứng. Chỉ tiếp xúc hay kết dính thôi thì chưa đủ — lúc đó mới ở bước xâm nhập. Đây là câu lặp lại ý của câu 192.",
     "tip": "Phải HÒA NHẬP (dung hợp màng) rồi trứng mới \"tỉnh dậy\". Câu 192 và 210 cùng một đáp án."

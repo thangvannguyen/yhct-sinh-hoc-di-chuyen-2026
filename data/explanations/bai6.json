@@ -1,216 +1,173 @@
 {
   "_doc": "Giải thích + mẹo ghi nhớ — Bài 6: Các quy luật di truyền. Bám theo slide 06-cac-quy-luat-di-truyen.pdf.",
-
   "bai-6-135": {
     "explain": "Kỳ trước I (kỳ đầu giảm phân I) là lúc các nhiễm sắc thể tương đồng bắt cặp tạo thể lưỡng trị và xảy ra trao đổi chéo tại các thể vắt chéo — nguồn gốc của hoán vị gen. Cộng với sự phân li độc lập, tổ hợp tự do của các cặp nhiễm sắc thể ở kỳ sau I, đây chính là giai đoạn tạo nên tính đa dạng của giao tử. Kỳ trước II không còn cặp tương đồng nên không có tiếp hợp hay trao đổi chéo.",
     "tip": "Trao đổi chéo chỉ xảy ra ở KỲ ĐẦU I — nơi duy nhất các NST tương đồng còn bắt cặp."
   },
-
   "bai-6-136": {
     "explain": "Lai phân tích là phép lai giữa cá thể mang tính trạng trội cần xác định kiểu gen với cá thể mang tính trạng lặn. Mendel dùng nó để kiểm chứng giả thuyết phân li: nếu F1 đem lai phân tích cho tỉ lệ 1:1 thì chứng tỏ F1 dị hợp và đã tạo ra hai loại giao tử ngang nhau — đúng như giả thuyết. Tự thụ phấn chỉ cho tỉ lệ 3:1 nên không tách bạch được điều này.",
     "tip": "Muốn \"soi\" kiểu gen của cá thể trội → lai với cá thể LẶN (lai phân tích)."
   },
-
   "bai-6-137": {
     "explain": "Trội hoàn toàn nghĩa là alen trội át hẳn alen lặn, nên AA và Aa biểu hiện kiểu hình giống nhau (đều là tính trạng trội) — đó cũng là lý do F2 cho tỉ lệ kiểu hình 3:1 trong khi tỉ lệ kiểu gen là 1:2:1. Nếu trội không hoàn toàn thì Aa có kiểu hình trung gian (hoa hồng), tỉ lệ kiểu hình F2 thành 1:2:1.",
     "tip": "Trội HOÀN TOÀN → AA và Aa giống nhau → kiểu hình 3:1. Câu 137 và 139 giống hệt nhau."
   },
-
   "bai-6-138": {
     "explain": "Theo định luật đồng tính của Mendel, khi lai hai bố mẹ thuần chủng khác nhau về một cặp tính trạng tương phản thì F1 đồng loạt biểu hiện một tính trạng — tính trạng đó được gọi là tính trạng trội; tính trạng còn lại bị lấn át gọi là tính trạng lặn. \"Trội hoàn toàn\" là tên kiểu di truyền chứ không phải tên gọi của tính trạng.",
     "tip": "Cái gì xuất hiện ở F1 thì gọi là TRỘI; cái tạm biến mất là LẶN (sẽ trở lại ở F2)."
   },
-
   "bai-6-139": {
     "explain": "Câu lặp lại của câu 137: chỉ trong trường hợp trội hoàn toàn thì thể đồng hợp trội AA và thể dị hợp Aa mới cho cùng một kiểu hình. Trội không hoàn toàn cho Aa kiểu hình trung gian, đồng trội cho Aa biểu hiện đồng thời cả hai alen (như nhóm máu AB), còn tương tác gen nói về các gen không alen.",
     "tip": "Chỉ TRỘI HOÀN TOÀN mới làm AA và Aa \"nhìn giống nhau\"."
   },
-
   "bai-6-140": {
     "explain": "Số loại giao tử = 2 lũy thừa số cặp gen dị hợp. AaBb có 2 cặp dị hợp nên tạo 2² = 4 loại giao tử: AB, Ab, aB, ab — mỗi loại chiếm 25%. Nếu có cặp đồng hợp (như AABb) thì cặp đó chỉ cho một loại giao tử nên không nhân thêm.",
     "tip": "Đếm số cặp DỊ HỢP (n) rồi lấy 2ⁿ. AaBb: n = 2 → 4 giao tử."
   },
-
   "bai-6-141": {
     "explain": "Số tổ hợp giao tử ở đời con = (số loại giao tử của bố) × (số loại giao tử của mẹ). Tính thử: A. aaBb(2) × Aabb(2) = 4; B. AaBb(4) × aabb(1) = 4; C. AaBb(4) × AABb(2) = 8; D. Aabb(2) × AaBB(2) = 4; E. AABB(1) × AaBb(4) = 4. Phép lai C cho 8 tổ hợp — nhiều nhất.",
     "tip": "Nhân số giao tử hai bên; bên nào càng nhiều cặp dị hợp thì càng \"lãi\"."
   },
-
   "bai-6-142": {
     "explain": "Xét từng cặp: AA × aa luôn cho Aa (100%); Bb × BB cho 1/2 BB và 1/2 Bb; Cc × Cc cho 1/4 CC, 1/2 Cc, 1/4 cc. Kiểu gen có xác suất cao nhất là AaBbCc = 1 × 1/2 × 1/2 = 1/4, cao hơn AaBBCc (1/4 nhưng bằng), AaBBCC (1/8), còn AAbbCc và AABBCc thì bằng 0 vì bố mẹ không thể cho alen A thứ hai hay alen b.",
     "tip": "Loại ngay những kiểu gen KHÔNG THỂ có (AA hay bb ở đây), rồi mới so xác suất."
   },
-
   "bai-6-143": {
     "explain": "Cơ thể dị hợp n cặp gen tự thụ cho 3ⁿ kiểu gen và 2ⁿ kiểu hình (khi trội hoàn toàn). AaBbDd có n = 3 nên: 3³ = 27 kiểu gen và 2³ = 8 kiểu hình. Có thể kiểm tra từng cặp: Aa × Aa cho 3 kiểu gen và 2 kiểu hình, nhân chéo ba cặp lại là ra.",
     "tip": "Công thức vàng: n cặp dị hợp tự thụ → 3ⁿ kiểu gen, 2ⁿ kiểu hình."
   },
-
   "bai-6-144": {
     "explain": "Với các gen nằm trong nhân và phân li độc lập, kết quả không phụ thuộc vai trò bố hay mẹ nên lai thuận và lai nghịch cho kết quả giống nhau. Ngược lại, di truyền ngoài nhân (gen tế bào chất) luôn theo dòng mẹ, và di truyền liên kết giới tính phụ thuộc vào việc gen nằm trên X của bố hay của mẹ — hai trường hợp này mới cho kết quả khác nhau.",
     "tip": "Khác nhau giữa lai thuận – nghịch là dấu hiệu của gen NGOÀI NHÂN hoặc gen trên NST GIỚI TÍNH."
   },
-
   "bai-6-145": {
     "explain": "Con có nhóm máu AB mang kiểu gen IᴬIᴮ, nhận một alen từ mẹ và một alen từ bố. Mẹ nhóm AB (IᴬIᴮ) có thể cho Iᴬ hoặc Iᴮ, nên bố phải cho alen còn lại — tức bố phải mang ít nhất một trong hai alen Iᴬ hoặc Iᴮ. Người nhóm O có kiểu gen IᴼIᴼ, chỉ cho được alen Iᴼ, nên chắc chắn không thể là bố. Nhóm Rh là hệ nhóm máu khác, không liên quan.",
     "tip": "Bố nhóm O chỉ cho được Iᴼ → không bao giờ sinh được con nhóm AB."
   },
-
   "bai-6-146": {
     "explain": "Phép lai AaBbCcDd × AaBbCcDd, xét riêng từng cặp rồi nhân: A- = 3/4, bb = 1/4, C- = 3/4, D- = 3/4. Vậy A-bbC-D- = 3/4 × 1/4 × 3/4 × 3/4 = 27/256.",
     "tip": "Dị hợp × dị hợp: kiểu hình trội = 3/4, kiểu hình lặn = 1/4. Cứ nhân các phân số lại."
   },
-
   "bai-6-147": {
     "explain": "Slide nêu ba kiểu tương tác gen (tác động qua lại giữa các gen KHÔNG alen để hình thành một kiểu hình): tương tác bổ trợ, tương tác át chế và tương tác cộng gộp. Ý nghĩa chung là làm tăng biến dị tổ hợp, tạo ra tính trạng mới chưa có ở bố mẹ.",
     "tip": "Ba kiểu: BỔ TRỢ – ÁT CHẾ – CỘNG GỘP."
   },
-
   "bai-6-148": {
     "explain": "Muốn biết cơ thể mang tính trạng trội là đồng hợp (AA) hay dị hợp (Aa), ta đem lai với cơ thể mang tính trạng lặn (aa) — đó là lai phân tích. Nếu đời con đồng tính thì cơ thể đó đồng hợp trội; nếu phân tính 1:1 thì nó dị hợp. Lai thuận nghịch dùng để phát hiện gen ngoài nhân hoặc gen liên kết giới tính, không dùng cho việc này.",
     "tip": "Xác định kiểu gen của cá thể TRỘI → LAI PHÂN TÍCH (lai với cá thể lặn)."
   },
-
   "bai-6-149": {
     "explain": "Xét từng cặp xem có cho 2 kiểu hình hay không: Aa × Aa → 2; Bb × bb → 2; cc × Cc → 2; Dd × dd → 2; Ee × Ee → 2; Ff × ff → 2. Cả sáu cặp đều cho 2 kiểu hình nên tổng số kiểu hình = 2⁶ = 64.",
     "tip": "Đếm số cặp cho 2 kiểu hình rồi lấy 2 mũ số đó. Ở đây đủ 6 cặp → 2⁶ = 64."
   },
-
   "bai-6-150": {
     "explain": "Đồng hợp tử về TẤT CẢ các cặp gen nghĩa là mọi cặp đều có hai alen giống nhau. Chỉ aaBBdd thỏa mãn (aa, BB, dd). Các phương án còn lại đều còn ít nhất một cặp dị hợp: AaBBdd có Aa, aaBBDd có Dd, AaBbdd có Aa và Bb, AaBBDD có Aa.",
     "tip": "Quét từng cặp, thấy một chữ hoa đi với một chữ thường là loại ngay."
   },
-
   "bai-6-151": {
     "explain": "Phép lai Aa × aa cho giao tử A, a (từ Aa) gặp a (từ aa) → 1/2 Aa : 1/2 aa, tức tỉ lệ kiểu hình 1 trội : 1 lặn. Đây chính là lai phân tích. Aa × Aa cho 3:1; AA × Aa và AA × aa đều cho 100% kiểu hình trội (đồng tính).",
     "tip": "Tỉ lệ 1:1 là chữ ký của LAI PHÂN TÍCH (dị hợp × đồng hợp lặn)."
   },
-
   "bai-6-152": {
     "explain": "Số loại giao tử = 2 mũ số cặp dị hợp. Kiểu gen aaBbCcDd có cặp aa đồng hợp (chỉ cho 1 loại giao tử) và ba cặp dị hợp Bb, Cc, Dd, nên số giao tử = 1 × 2 × 2 × 2 = 8.",
     "tip": "Cặp đồng hợp không nhân thêm gì cả — chỉ đếm cặp DỊ HỢP."
   },
-
   "bai-6-153": {
     "explain": "Xét số kiểu hình từng cặp rồi nhân: Aa × Aa → 2 kiểu hình (A-, aa); BB × bb → tất cả đều Bb nên chỉ 1 kiểu hình; Dd × Dd → 2 kiểu hình. Tổng cộng 2 × 1 × 2 = 4 loại kiểu hình.",
     "tip": "Cặp nào mà đời con chỉ có một kiểu hình thì nhân với 1 — đừng quên cặp BB × bb."
   },
-
   "bai-6-154": {
     "explain": "AaBb tự thụ phấn tương đương AaBb × AaBb. Xét riêng: aa chiếm 1/4, bb chiếm 1/4. Vậy aabb = 1/4 × 1/4 = 1/16. Có thể nhớ nhanh qua tỉ lệ kiểu hình 9:3:3:1 — kiểu hình lặn hoàn toàn luôn chiếm 1/16.",
     "tip": "Trong 9:3:3:1, phần \"1\" chính là cá thể lặn hết = 1/16."
   },
-
   "bai-6-155": {
     "explain": "Khi P thuần chủng khác nhau n cặp tính trạng tương phản thì F1 dị hợp n cặp; cho F1 lai với nhau, mỗi cặp cho tỉ lệ kiểu hình 3:1 và các cặp phân li độc lập nên tỉ lệ chung là tích của n tỉ lệ đó, viết gọn là (3:1)ⁿ. Với n = 2 ta được 9:3:3:1 — chính là khai triển của (3:1)².",
     "tip": "(3:1)ⁿ. Thử n = 2 sẽ ra 9:3:3:1 quen thuộc."
   },
-
   "bai-6-156": {
     "explain": "P: AabbDd × AaBbDd. Kiểu hình của bố mẹ lần lượt là (A-, bb, D-) và (A-, B-, D-). Ở đời con: A- = 3/4, aa = 1/4; bb × Bb cho B- = 1/2 và bb = 1/2; D- = 3/4, dd = 1/4. Số cá thể giống kiểu hình P₁ = 3/4 × 1/2 × 3/4 = 9/32; giống P₂ cũng = 3/4 × 1/2 × 3/4 = 9/32. Vậy tỉ lệ KHÁC cả hai bố mẹ = 1 − 9/32 − 9/32 = 14/32 = 7/16.",
     "tip": "Tính phần GIỐNG bố mẹ trước rồi lấy 1 trừ đi — nhanh hơn liệt kê."
   },
-
   "bai-6-157": {
     "explain": "Mỗi cặp gen dị hợp Aa × Aa cho 3 kiểu gen (AA, Aa, aa). Khi có n cặp phân li độc lập, các cặp kết hợp tự do nên tổng số kiểu gen = 3 × 3 × … = 3ⁿ. Tương ứng, số kiểu hình (trội hoàn toàn) là 2ⁿ và số loại giao tử của F1 là 2ⁿ.",
     "tip": "Bộ ba công thức: giao tử 2ⁿ · kiểu gen 3ⁿ · kiểu hình 2ⁿ."
   },
-
   "bai-6-158": {
     "explain": "Bố mẹ thuần chủng khác nhau n cặp tính trạng → F1 dị hợp n cặp → F1 tự thụ cho F2. Mỗi cặp ở F2 có 2 kiểu hình (trội và lặn, do trội hoàn toàn), các cặp độc lập nên tổng số kiểu hình F2 = 2ⁿ. (Số kiểu gen F2 mới là 3ⁿ — đừng lẫn hai con số này.)",
     "tip": "Kiểu HÌNH = 2ⁿ, kiểu GEN = 3ⁿ. Câu 157 hỏi kiểu gen, câu 158 hỏi kiểu hình."
   },
-
   "bai-6-159": {
     "explain": "Lưu ý: khi sao chép vào đề ôn tập, DANH SÁCH CÁC PHÉP LAI của câu này đã bị mất — chỉ còn phần dẫn và các phương án số, nên không thể tự giải lại. Đáp án được tô trong đề là 2. Về nguyên tắc: để đời con có 4 kiểu gen VÀ 4 kiểu hình với 2 gen trội hoàn toàn thì mỗi cặp phải cho đúng 2 kiểu gen và 2 kiểu hình, tức mỗi cặp đều phải là dạng Aa × aa — ví dụ AaBb × aabb.",
     "tip": "4 kiểu gen + 4 kiểu hình ⇒ cả hai cặp đều phải là \"dị hợp × đồng hợp lặn\"."
   },
-
   "bai-6-160": {
     "explain": "Hoa hồng thuần chủng là AAbb hoặc aaBB; hoa đỏ là A-B-. Kiểm tra từng phép lai xem có cho F1 đúng 50% đỏ : 50% hồng không — I. AAbb × AaBb: con luôn A-, Bb×bb cho 1/2 B- (đỏ) : 1/2 bb (hồng) ✓. II. aaBB × AaBb: BB×Bb cho toàn B-, aa×Aa cho 1/2 A- (đỏ) : 1/2 aa (hồng) ✓. III. AAbb × AaBB: con toàn A-B- → 100% đỏ ✗. IV. AAbb × AABb: 1/2 đỏ : 1/2 hồng ✓. V. aaBb và VI. Aabb tuy cho tỉ lệ đúng nhưng cây hoa hồng ở P lại KHÔNG thuần chủng ✗. Vậy có 3 phép lai phù hợp (I, II, IV).",
     "tip": "Đọc kỹ chữ \"THUẦN CHỦNG\" trong đề — nó loại thẳng hai phép lai V và VI."
   },
-
   "bai-6-161": {
     "explain": "Hiện tượng đa alen là khi một gen có nhiều hơn hai trạng thái (alen) khác nhau trong quần thể — ví dụ gen quy định nhóm máu ABO có ba alen Iᴬ, Iᴮ, Iᴼ. Chính sự đa dạng này làm cùng một gen có thể ảnh hưởng rất khác nhau đến tính trạng. Trội hoàn toàn hay không hoàn toàn chỉ mô tả quan hệ giữa hai alen, không nói lên tính đa dạng.",
     "tip": "Một gen mà có nhiều hơn 2 alen (như nhóm máu ABO) → ĐA ALEN."
   },
-
   "bai-6-162": {
-    "explain": "Tính lại: Aa × aa cho 2 kiểu gen và 2 kiểu hình; BB × Bb cho 2 kiểu gen nhưng chỉ 1 kiểu hình (đều B-); Dd × Dd cho 3 kiểu gen và 2 kiểu hình. Vậy số kiểu gen = 2 × 2 × 3 = 12 (khớp với đề), còn số kiểu hình = 2 × 1 × 2 = 4 — tức phương án A mới đúng về mặt toán học. ⚠️ Đáp án được tô trong đề gốc là B (8 kiểu hình), đây nhiều khả năng là lỗi của đáp án. Khi đi thi nên bám theo đề; nhưng cần hiểu rõ bản chất: cặp BB × Bb không làm tăng số kiểu hình.",
-    "tip": "Cặp BB × Bb cho toàn B- → chỉ 1 kiểu hình. Đúng ra là 4 kiểu hình : 12 kiểu gen."
+    "explain": "Xét riêng từng cặp rồi nhân lại. Số kiểu gen: Aa × aa → 2; BB × Bb → 2 (BB và Bb); Dd × Dd → 3 ⇒ 2 × 2 × 3 = 12 kiểu gen. Số kiểu hình: Aa × aa → 2 (A- và aa); BB × Bb → đời con toàn B- nên chỉ 1 kiểu hình; Dd × Dd → 2 ⇒ 2 × 1 × 2 = 4 kiểu hình. Vậy kết quả là 4 loại kiểu hình : 12 loại kiểu gen. Bẫy của câu này nằm ở cặp BB × Bb: nó vẫn sinh ra hai kiểu gen khác nhau nhưng vì đều mang alen trội B nên kiểu hình chỉ có một.",
+    "tip": "Cặp nào cho đời con toàn kiểu hình trội thì nhân với 1, không phải 2. Kiểu gen 12 nhưng kiểu hình chỉ 4."
   },
-
   "bai-6-163": {
     "explain": "Lai thuận nghịch là cặp phép lai mà hai kiểu gen đổi vai trò bố ↔ mẹ cho nhau, còn mọi thứ khác giữ nguyên. Chỉ cặp C làm đúng điều đó: ♀aabb × ♂AABB và ♀AABB × ♂aabb. Các cặp khác đều thay đổi luôn kiểu gen của bố mẹ nên không phải lai thuận nghịch (ví dụ D: ♀Aa × ♂aa và ♀aa × ♂AA — vế sau dùng AA chứ không phải Aa).",
     "tip": "Lai thuận nghịch = giữ nguyên hai kiểu gen, chỉ HOÁN ĐỔI giới tính của chúng."
   },
-
   "bai-6-164": {
     "explain": "Aa × Aa luôn cho 3 kiểu gen: 1AA : 2Aa : 1aa. Vì trội KHÔNG hoàn toàn nên Aa có kiểu hình trung gian riêng, do đó ba kiểu gen cho ba kiểu hình khác nhau với tỉ lệ 1:2:1 (giống thí nghiệm hoa mõm chó: đỏ – hồng – trắng). Nếu trội hoàn toàn thì chỉ còn 2 kiểu hình theo tỉ lệ 3:1.",
     "tip": "Trội không hoàn toàn: tỉ lệ kiểu hình = tỉ lệ kiểu gen = 1:2:1 → 3 kiểu hình."
   },
-
   "bai-6-165": {
     "explain": "Bố mẹ đều dị hợp n cặp gen, phân li độc lập, trội hoàn toàn: mỗi cặp Aa × Aa cho 3 kiểu gen và 2 kiểu hình, nhân n cặp lại được 3ⁿ kiểu gen và 2ⁿ kiểu hình. Đây đúng là bảng công thức lai đa tính trong slide.",
     "tip": "3ⁿ kiểu gen – 2ⁿ kiểu hình. Kiểu gen bao giờ cũng nhiều hơn kiểu hình."
   },
-
   "bai-6-166": {
     "explain": "Trong lai phân tích, cá thể trội được lai với cá thể lặn. Nếu đời con ĐỒNG TÍNH toàn kiểu hình trội thì cá thể trội đó phải là đồng hợp trội (AA) — tức thuần chủng, vì chỉ cho một loại giao tử A. Nếu nó dị hợp (Aa) thì đời con đã phân tính 1:1.",
     "tip": "Lai phân tích: con ĐỒNG tính → P thuần chủng; con PHÂN tính 1:1 → P dị hợp."
   },
-
   "bai-6-167": {
     "explain": "Định luật phân li (quy luật giao tử thuần khiết) phát biểu: trong cơ thể các gen tồn tại thành từng đôi; khi tạo giao tử, từng đôi gen phân li và mỗi giao tử chỉ nhận MỘT trong hai alen — tức giao tử thuần khiết; khi thụ tinh, các giao tử tổ hợp ngẫu nhiên tạo thế hệ mới. Phương án B bỏ mất chữ \"một trong hai\", còn C và D phủ định việc giao tử tách biệt nhau nên đều sai.",
     "tip": "Hai từ khóa phải có đủ: \"MỘT TRONG HAI alen\" và \"các giao tử TÁCH BIỆT\"."
   },
-
   "bai-6-168": {
     "explain": "Slide liệt kê bốn bước trong phương pháp phân tích di truyền cơ thể lai của Mendel: tạo dòng thuần chủng; lai các dòng thuần khác nhau rồi phân tích kết quả ở F1, F2, F3; dùng toán xác suất để phân tích; và đặt giả thuyết rồi làm thí nghiệm chứng minh. Vì cả bốn ý đều đúng nên chọn E.",
     "tip": "Bốn bước: Thuần chủng → Lai & theo dõi F1–F3 → Toán xác suất → Giả thuyết & kiểm chứng."
   },
-
   "bai-6-169": {
     "explain": "Câu hỏi đòi cơ sở tế bào học theo quan điểm hiện đại: quy luật phân li được giải thích bằng sự phân li ngẫu nhiên (đồng đều) của các cặp nhiễm sắc thể tương đồng trong GIẢM PHÂN, kéo theo sự phân li của các alen nằm trên chúng. \"Giả thuyết giao tử thuần khiết\" là cách giải thích của chính Mendel khi chưa biết đến nhiễm sắc thể; nguyên phân thì không làm phân li cặp tương đồng.",
     "tip": "Phân li alen ⇄ phân li cặp NST tương đồng trong GIẢM PHÂN (không phải nguyên phân)."
   },
-
   "bai-6-170": {
     "explain": "Điều kiện cốt lõi để các cặp tính trạng di truyền độc lập là mỗi cặp gen phải nằm trên một cặp nhiễm sắc thể tương đồng KHÁC nhau; khi đó các cặp nhiễm sắc thể mới phân li độc lập trong giảm phân. Nếu các gen nằm trên cùng một nhiễm sắc thể thì chúng liên kết với nhau (phương án E mô tả đúng điều ngược lại). Trội hoàn toàn, bố mẹ thuần chủng hay số lượng cá thể lớn chỉ là điều kiện phụ giúp quan sát tỉ lệ cho rõ.",
     "tip": "Muốn ĐỘC LẬP thì phải nằm trên các cặp NST KHÁC NHAU — đó là điều kiện gốc."
   },
-
   "bai-6-171": {
     "explain": "Cơ sở tế bào học của quy luật phân li là sự phân li đồng đều của hai nhiễm sắc thể trong mỗi cặp tương đồng về hai cực tế bào khi giảm phân — nhờ đó hai alen của một gen tách hẳn nhau, mỗi giao tử chỉ nhận một alen. Phương án A là cách diễn đạt của Mendel (nhân tố di truyền) chứ không phải cơ sở tế bào học; nguyên phân không tách cặp tương đồng.",
     "tip": "Cơ sở TẾ BÀO học thì câu trả lời phải nói về NST, và phải là GIẢM PHÂN."
   },
-
   "bai-6-172": {
     "explain": "Các cặp alen nằm trên những cặp nhiễm sắc thể tương đồng khác nhau sẽ phân li độc lập trong giảm phân và tổ hợp tự do trong thụ tinh — đó chính là nội dung quy luật phân li độc lập. Phân li cùng nhau và tạo nhóm gen liên kết là trường hợp các gen nằm trên CÙNG một nhiễm sắc thể; còn trình tự nucleotid giống nhau hay cùng quy định một tính trạng đều không phải hệ quả của việc nằm trên các NST khác nhau.",
     "tip": "Khác cặp NST → PHÂN LI ĐỘC LẬP. Cùng một NST → LIÊN KẾT GEN."
   },
-
   "bai-6-173": {
     "explain": "Alen là hai trạng thái của một gen nằm trên hai nhiễm sắc thể của cùng một cặp tương đồng. Vì vậy chúng chỉ phân li đồng đều về các giao tử khi cặp nhiễm sắc thể tương đồng ấy phân li đồng đều về hai cực trong giảm phân. Bố mẹ thuần chủng, số lượng cá thể lớn hay mức độ trội chỉ ảnh hưởng đến việc quan sát tỉ lệ, không quyết định cơ chế phân li.",
     "tip": "Alen \"ngồi\" trên NST, nên NST đi đâu alen theo đó."
   },
-
   "bai-6-174": {
     "explain": "Phân li độc lập và tổ hợp tự do tạo ra vô số kiểu tổ hợp giao tử, nên sinh ra biến dị tổ hợp phong phú ở các loài sinh sản hữu tính (giao phối) — đó chính là ý nghĩa của quy luật. Hoán vị gen và đột biến gen là những cơ chế sinh biến dị KHÁC, không do quy luật này giải thích; còn phương án D chỉ mô tả lại nội dung quy luật chứ không phải \"hiện tượng được giải thích\".",
     "tip": "Phân li độc lập sinh ra BIẾN DỊ TỔ HỢP — nguồn đa dạng của loài giao phối."
   },
-
   "bai-6-175": {
     "explain": "Đề hỏi \"thực chất\" và đáp án của đề là sự tổ hợp các alen trong quá trình thụ tinh: các alen đã phân li độc lập khi tạo giao tử sẽ tổ hợp tự do khi thụ tinh, và chính bước tổ hợp này mới sinh ra các kiểu gen — kiểu hình mới ở đời con. Tỉ lệ 9:3:3:1 chỉ là kết quả quan sát được, còn 9:6:1 là tỉ lệ của tương tác gen chứ không phải phân li độc lập.",
     "tip": "Phân li ở GIẢM PHÂN, tổ hợp tự do ở THỤ TINH — đề này nhấn vào vế tổ hợp."
   },
-
   "bai-6-176": {
     "explain": "Ẩm bào (pinocytosis) là hình thức tế bào lõm màng nuốt vào các chất hòa tan và hạt nhỏ trong dịch ngoại bào — khác với thực bào vốn nuốt các hạt rắn lớn. Lưu ý: hai phương án A (cần tiêu tốn năng lượng) và C (màng tạo túi) thực ra cũng đúng với cả ẩm bào lẫn thực bào, nên đề diễn đạt chưa thật chặt; đáp án của đề là D vì đó mới là đặc điểm riêng của ẩm bào.",
     "tip": "ẨM bào nuốt chất LỎNG / hạt nhỏ; THỰC bào nuốt hạt RẮN to."
   },
-
   "bai-6-177": {
     "explain": "Phép lai thuận nghịch dùng để phát hiện di truyền tế bào chất (kết quả theo dòng mẹ) và di truyền liên kết giới tính, và trong chọn giống nó có thể cho ưu thế lai khác nhau — nên A, B, D đều đúng. Riêng C sai: muốn xác định các gen liên kết hoàn toàn hay có hoán vị thì phải dùng LAI PHÂN TÍCH để đo tần số hoán vị, chứ lai thuận nghịch không làm được việc đó, lại càng không đúng \"ở mọi loài sinh vật\".",
     "tip": "Lai thuận nghịch dò gen NGOÀI NHÂN / GIỚI TÍNH. Dò hoán vị gen thì phải LAI PHÂN TÍCH."

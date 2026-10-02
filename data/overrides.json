@@ -2,41 +2,77 @@
   "_doc": [
     "Chỉnh tay đè lên dữ liệu máy trích từ PDF (questions.base.json).",
     "Khoá = id câu hỏi. Các trường dùng được:",
-    "  correct : chữ cái 'A'..'E' của đáp án đúng, hoặc null nếu không chấm điểm",
-    "  flag    : 'dropped' = đề gốc đã ghi 'bỏ', chỉ xem tham khảo",
-    "  options : { 'chỉ số': 'nội dung mới' } — sửa lỗi gõ trong đáp án",
-    "  text    : sửa lỗi gõ trong đề bài",
-    "Căn cứ của từng chỉnh sửa được ghi trong data/review_needed.md."
+    "  correct  : chữ cái 'A'..'E' của đáp án đúng, hoặc null nếu không chấm điểm",
+    "  noteKind : loại ghi chú hiện cho người học —",
+    "             'corrected' = đáp án đã SỬA khác với đáp án tô trong tài liệu gốc",
+    "             'missing'   = tài liệu gốc không tô đáp án, đáp án do tra cứu mà chốt",
+    "             'ambiguous' = tài liệu gốc tô nhiều hơn một đáp án",
+    "  noteWhy  : lý do ngắn, hiện thẳng cho người học đọc",
+    "  flag     : 'dropped' = đề gốc đã ghi 'bỏ', chỉ xem tham khảo",
+    "  options  : { 'chỉ số': 'nội dung mới' } — sửa lỗi gõ trong đáp án",
+    "  text     : sửa lỗi gõ trong đề bài",
+    "build_questions.py tự lấy đáp án gốc từ questions.base.json để ghép vào ghi chú,",
+    "nên nội dung đáp án gốc hiển thị luôn khớp với file PDF, không sợ chép sai.",
+    "Căn cứ đầy đủ của từng chỉnh sửa nằm trong data/review_needed.md."
   ],
 
   "bai-2-30": {
     "correct": "A",
-    "_why": "File gốc tô vàng cả A (Màng tế bào) và D (Màng sinh chất) — hai cách gọi của cùng một cấu trúc. Chốt A (đáp án đầu tiên); phần giải thích nói rõ D cũng đúng."
+    "noteKind": "ambiguous",
+    "noteWhy": "\"Màng tế bào\" và \"màng sinh chất\" là hai tên gọi của cùng một cấu trúc, nên cả hai đều đúng. Bộ đề này chấm theo phương án đứng trước.",
+    "_why": "File gốc tô vàng cả A (Màng tế bào) và D (Màng sinh chất)."
   },
 
   "bai-3-86": {
     "correct": "B",
-    "_why": "Không được tô. Slide bài 3 (Quá trình đường phân): 'Là giai đoạn chung, không phụ thuộc oxy — Xảy ra ở bào tương' → B. Tế bào chất, không phụ thuộc oxy."
+    "noteKind": "missing",
+    "noteWhy": "chốt theo slide bài 3 — \"Quá trình đường phân: là giai đoạn chung, không phụ thuộc oxy, xảy ra ở bào tương\".",
+    "_why": "Không được tô đáp án nào trong tài liệu gốc."
+  },
+
+  "bai-3-87": {
+    "correct": "A",
+    "noteKind": "corrected",
+    "noteWhy": "lên men lactic làm ứ acid lactic trong cơ, gây mỏi cơ và đau cơ. \"Chảy máu cơ\" không phải là hậu quả của lên men lactic, nên đáp án tô trong tài liệu nhiều khả năng bị đánh dấu nhầm sang cột bên cạnh.",
+    "_why": "Đề tô B (Gây chảy máu cơ, mõi cơ); A (Gây đau cơ, mõi cơ) mới đúng sinh lý. Đã xác minh bằng ảnh trang 8."
+  },
+
+  "bai-4-111": {
+    "correct": "E",
+    "noteKind": "corrected",
+    "noteWhy": "đơn vị cấu trúc cơ bản của nhiễm sắc thể là nucleosom (đoạn DNA quấn 7/4 vòng quanh 8 phân tử histon). Chữ \"ở tế bào nhân chuẩn\" trong đề chính là dấu hiệu: nucleotid là đơn vị của mọi phân tử DNA kể cả vi khuẩn, chỉ nucleosom mới là đặc trưng riêng của nhiễm sắc thể nhân chuẩn.",
+    "_why": "Đề tô A (Nucleotid). Đã xác minh bằng ảnh trang 9."
   },
 
   "bai-4-126": {
     "correct": "B",
-    "_why": "Không được tô và slide bài 4 không có câu định nghĩa này. Chốt theo cách diễn đạt chuẩn trong giáo trình: acid nucleic là hợp chất CAO phân tử (loại C, D, E) tham gia các quá trình CƠ BẢN của sự sống. A chỉ khác B đúng một từ ('phức tạp') — xem review_needed.md."
+    "noteKind": "missing",
+    "noteWhy": "chắc chắn loại được C, D, E vì acid nucleic là polymer (\"cao phân tử\"). Giữa A và B chỉ khác một từ; chọn B theo cách diễn đạt chuẩn của giáo trình (\"tham gia các quá trình cơ bản của sự sống\"). Đây là câu còn độ chắc chắn thấp nhất trong bộ đề.",
+    "_why": "Không được tô đáp án nào; slide bài 4 không có câu định nghĩa này."
   },
 
   "bai-6-160": {
     "correct": "D",
-    "_why": "Không được tô. Đã giải bằng tay và kiểm tra lại bằng chương trình: chỉ 3 phép lai I, II, IV thoả 'hoa hồng thuần chủng × hoa đỏ → F1 50% đỏ : 50% hồng' (III cho 100% đỏ; V và VI có cây hồng không thuần chủng)."
+    "noteKind": "missing",
+    "noteWhy": "giải tay và kiểm tra lại bằng chương trình: chỉ 3 phép lai I, II, IV thoả mãn. III cho 100% hoa đỏ; V và VI có cây hoa hồng không thuần chủng.",
+    "_why": "Không được tô đáp án nào trong tài liệu gốc."
+  },
+
+  "bai-6-162": {
+    "correct": "A",
+    "noteKind": "corrected",
+    "noteWhy": "tính lại: Aa × aa cho 2 kiểu hình, BB × Bb cho toàn B- nên chỉ 1 kiểu hình, Dd × Dd cho 2 kiểu hình ⇒ 2 × 1 × 2 = 4 kiểu hình (số kiểu gen 12 thì đề ghi đúng). Đã kiểm tra lại bằng chương trình.",
+    "_why": "Đề tô B (8 kiểu hình : 12 kiểu gen). Đã xác minh bằng ảnh trang 14."
   },
 
   "bai-6-168": {
     "options": { "4": "E. A, B, C và D đúng" },
-    "_why": "File gốc gõ nhầm dấu chấm thành dấu phẩy: 'E. A. B, C và D đúng'. Sửa lại cho dễ đọc, không đổi nghĩa."
+    "_why": "File gốc gõ nhầm dấu chấm thành dấu phẩy: 'E. A. B, C và D đúng'. Sửa lại cho dễ đọc, không đổi nghĩa và không đổi đáp án."
   },
 
   "bai-7-207": {
     "correct": null,
     "flag": "dropped",
-    "_why": "File gốc có ghi chú viết tay 'bỏ'. Lý do: cả D ('vùng cuối là phần chân') và E ('vùng giữa là nơi hình thành tay') đều KHÔNG đúng với slide bài 7 (phôi chỉ có vùng trước = đầu, vùng giữa = bụng/lưng có rãnh thần kinh, vùng sau = đuôi; chi do vùng trước và vùng sau phình ra) → câu có 2 đáp án, không chấm điểm được."
+    "_why": "File gốc có ghi chú viết tay 'bỏ'. Lý do: cả D ('vùng cuối là phần chân') và E ('vùng giữa là nơi hình thành tay') đều KHÔNG đúng với slide bài 7 → câu có 2 đáp án, không chấm điểm được."
   }
 }

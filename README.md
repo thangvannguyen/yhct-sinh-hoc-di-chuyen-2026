@@ -21,6 +21,9 @@ slide bài giảng. Xây bằng **React + Vite + TailwindCSS**.
 - **Đọc tài liệu** — xem trực tiếp 7 PDF bài giảng + đề ôn tập gốc ngay trong web
 - **Giải thích + mẹo ghi nhớ** cho cả 210 câu — có nút 💡 trên thanh trên để bật/tắt:
   bật thì tự hiện sau khi trả lời, tắt thì ẩn hoàn toàn
+- **Đánh dấu câu lệch so với tài liệu gốc** — những câu mà đáp án tô trong tài liệu sai (hoặc
+  không có) đều mang nhãn riêng và một hộp ghi chú nói rõ tài liệu gốc tô đáp án nào, vì sao
+  bộ đề này chấm khác. Xem `data/review_needed.md`
 - 2 chế độ hiển thị: **Đơn giản** (thẻ từng câu) và **Đầy đủ** (dạng đề giấy)
 - Giao diện sáng/tối, responsive cho điện thoại, lưu tiến trình bằng `localStorage`
 
@@ -40,8 +43,8 @@ npm run preview   # xem thử bản đã build
 Đã cấu hình **GitHub Actions** (`.github/workflows/deploy.yml`): mỗi lần push lên nhánh
 `main` sẽ tự build và deploy lên GitHub Pages.
 
-> Lần đầu: vào **Settings → Pages → Build and deployment → Source** của repo, chọn
-> **GitHub Actions**. Từ đó về sau chỉ cần `git push` là site tự cập nhật.
+GitHub Pages đã được bật sẵn (Source = GitHub Actions), nên từ giờ chỉ cần `git push` là
+site tự cập nhật: <https://thangvannguyen.github.io/yhct-sinh-hoc-di-chuyen-2026/>
 
 ## Dữ liệu câu hỏi
 
@@ -57,8 +60,9 @@ python3 data/build_questions.py  # base + overrides + explanations → data/ques
   PyMuPDF. Đáp án đúng nằm ở **Highlight annotation** chứ không phải màu chữ, nên script
   đọc annotation và đối chiếu với toạ độ từng chữ. Script **tự kiểm tra và dừng** nếu số
   câu, số phương án hay số đáp án lệch khỏi mong đợi.
-- `data/overrides.json` — chốt tay đáp án cho 5 câu đề gốc không tô (hoặc tô hai đáp án) và
-  sửa một lỗi gõ.
+- `data/overrides.json` — chốt tay đáp án cho những câu tài liệu gốc không tô, tô hai đáp án,
+  hoặc tô sai; kèm lý do hiện thẳng cho người học đọc. `build_questions.py` tự lấy đáp án gốc
+  từ `questions.base.json` ghép vào ghi chú nên phần trích dẫn luôn khớp với file PDF.
 - `data/explanations/bai1.json … bai7.json` — phần giải thích + mẹo ghi nhớ viết tay.
 - `data/review_needed.md` — nhật ký rà soát: căn cứ của từng chỉnh sửa, các câu đề gốc có
   vấn đề, các câu in trùng phương án và các câu bị lặp.
@@ -77,5 +81,4 @@ Yêu cầu để chạy lại parser: `python3 -m pip install pymupdf`.
 - Khóa `localStorage` dùng tiền tố `shdt_` (không phải `hs_` như web Hóa Sinh): hai site
   cùng chạy trên `thangvannguyen.github.io` nên dùng chung localStorage, trùng khóa là tiến
   trình hai môn đè lên nhau.
-- Google Analytics đang để sẵn chỗ cắm trong `index.html` — dán Measurement ID vào hai chỗ
-  `G-XXXXXXXXXX` rồi bỏ comment là chạy.
+- Google Analytics (GA4) đã gắn trong `index.html`, Measurement ID `G-81QFZVV8W0`.

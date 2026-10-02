@@ -4,7 +4,7 @@ import { recordAnswer } from '../lib/storage.js'
 import { useApp } from '../lib/store.jsx'
 import { BackLink, Container, cx } from './ui.jsx'
 import QuizNav from './QuizNav.jsx'
-import { DocOption, ExplanationReveal, QuestionNote } from './Question.jsx'
+import { AnswerBadge, AnswerNote, DocOption, ExplanationReveal, QuestionNote } from './Question.jsx'
 
 /**
  * Paper-style list of every question in `ids` (the "full" display mode).
@@ -135,7 +135,7 @@ export default function DocList({
                     </div>
                   )}
                   <div className="mb-2.5 text-[1.04rem] font-bold leading-relaxed">
-                    Câu {i + 1}: {q.text}
+                    Câu {i + 1}: {q.text} <AnswerBadge question={q} className="align-middle" />
                   </div>
                   <div className="flex flex-col gap-[7px]">
                     {q.options.map((opt, oi) => {
@@ -159,6 +159,7 @@ export default function DocList({
                   <QuestionNote question={q} className="mt-3 font-sans" />
                   {(answered || !graded) && (
                     <div className="font-sans">
+                      <AnswerNote question={q} />
                       <ExplanationReveal question={q} autoShow={autoExplain} />
                     </div>
                   )}

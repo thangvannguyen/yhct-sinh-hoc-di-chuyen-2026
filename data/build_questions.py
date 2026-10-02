@@ -46,6 +46,28 @@ def load_json(path, default=None):
         return json.load(f)
 
 
+def build_answer_note(kind, why, source_answer):
+    """Ghép ghi chú về nguồn gốc đáp án, hiện cho người học đọc.
+
+    `source_answer` được lấy thẳng từ questions.base.json (đáp án tô trong PDF)
+    nên nội dung trích dẫn luôn khớp với tài liệu gốc.
+    """
+    if not kind:
+        return None
+    if kind == 'corrected':
+        title = 'Đáp án đã sửa khác với tài liệu gốc'
+        body = f'Tài liệu gốc tô đáp án **{source_answer}**. Bộ đề này chấm theo đáp án khác vì {why}'
+    elif kind == 'missing':
+        title = 'Tài liệu gốc không tô đáp án câu này'
+        body = f'Đáp án dưới đây được chốt thêm: {why}'
+    elif kind == 'ambiguous':
+        title = 'Tài liệu gốc tô nhiều hơn một đáp án'
+        body = why
+    else:
+        raise ValueError(f'noteKind không hợp lệ: {kind}')
+    return dict(kind=kind, title=title, body=body, sourceAnswer=source_answer)
+
+
 def main():
     base = load_json(BASE)
     if base is None:
@@ -73,7 +95,10 @@ def main():
             options = list(q['options'])
             text = q['text']
             correct = q['correct']
+            # Đáp án được tô trong PDF gốc — dùng để trích dẫn trong ghi chú.
+            source_correct = q['correct']
             flag = None
+            answer_note = None
 
             ov = overrides.get(qid)
             if ov:
@@ -82,6 +107,8 @@ def main():
                     options[int(idx)] = value
                 if 'text' in ov:
                     text = ov['text']
+                if source_correct is not None:
+                    source_correct = options[q['options'].index(source_correct)]
                 if 'correct' in ov:
                     letter = ov['correct']
                     if letter is None:
@@ -90,10 +117,22 @@ def main():
                         correct = options[LETTERS.index(letter)]
                     else:
                         problems.append(f'{qid}: correct "{letter}" không phải A–E')
-                elif correct is not None:
-                    # Đáp án cũ có thể trỏ vào nội dung đã bị override sửa lại.
-                    correct = options[q['options'].index(correct)]
+                else:
+                    correct = source_correct
                 flag = ov.get('flag')
+
+                kind = ov.get('noteKind')
+                if kind:
+                    if kind == 'corrected' and source_correct is None:
+                        problems.append(f'{qid}: noteKind "corrected" nhưng tài liệu gốc không tô đáp án')
+                    elif kind == 'corrected' and source_correct == correct:
+                        problems.append(f'{qid}: noteKind "corrected" nhưng đáp án không hề đổi')
+                    elif kind in ('missing', 'ambiguous') and source_correct is not None:
+                        problems.append(f'{qid}: noteKind "{kind}" nhưng tài liệu gốc có tô đáp án')
+                    else:
+                        answer_note = build_answer_note(kind, ov.get('noteWhy', ''), source_correct)
+            elif correct is not None:
+                source_correct = correct
 
             if correct is not None and correct not in options:
                 problems.append(f'{qid}: đáp án không nằm trong danh sách lựa chọn')
@@ -111,6 +150,7 @@ def main():
                 tip=ex.get('tip'),
                 image=ex.get('image'),
                 flag=flag,
+                answerNote=answer_note,
             ))
 
         chapters.append(dict(
@@ -132,9 +172,18 @@ def main():
     total = sum(len(c['questions']) for c in chapters)
     graded = sum(1 for c in chapters for q in c['questions'] if q['correct'])
     with_explain = total - len(missing_explain)
+    notes = [q for c in chapters for q in c['questions'] if q['answerNote']]
     print(f"{len(chapters)} bài · {total} câu")
     print(f"  {graded} câu chấm điểm được, {total - graded} câu không chấm điểm")
     print(f"  {with_explain}/{total} câu đã có giải thích")
+    if notes:
+        print(f"  {len(notes)} câu có ghi chú về đáp án:")
+        for kind, label in (('corrected', 'sửa khác tài liệu gốc'),
+                            ('missing', 'tài liệu gốc không tô đáp án'),
+                            ('ambiguous', 'tài liệu gốc tô nhiều đáp án')):
+            ids = [q['id'] for q in notes if q['answerNote']['kind'] == kind]
+            if ids:
+                print(f"    · {label}: {', '.join(ids)}")
     if missing_explain:
         by_chapter = {}
         for qid in missing_explain:

@@ -2,7 +2,7 @@ import { Navigate } from 'react-router-dom'
 import { QUESTION_INDEX, letterFor, optionLabel } from '../lib/data.js'
 import { useApp } from '../lib/store.jsx'
 import { Button, Card, Container, SectionTitle, cx } from '../components/ui.jsx'
-import { DocOption, ExplanationReveal } from '../components/Question.jsx'
+import { AnswerBadge, AnswerNote, DocOption, ExplanationReveal } from '../components/Question.jsx'
 
 function scoreTone(percent) {
   if (percent >= 80) return { color: 'var(--success)', emoji: '🎉' }
@@ -46,8 +46,11 @@ export default function QuizResult() {
           return (
             <Card key={item.qid} className="p-4">
               <div className="mb-1 flex items-center justify-between gap-2">
-                <span className="text-[0.72rem] font-bold uppercase text-primary">
-                  {chapterShort}
+                <span className="flex min-w-0 flex-wrap items-center gap-2">
+                  <span className="text-[0.72rem] font-bold uppercase text-primary">
+                    {chapterShort}
+                  </span>
+                  <AnswerBadge question={q} />
                 </span>
                 <span
                   className={cx(
@@ -89,6 +92,7 @@ export default function QuizResult() {
                   )}
                 </div>
               )}
+              <AnswerNote question={q} />
               <ExplanationReveal question={q} autoShow={autoExplain} />
             </Card>
           )

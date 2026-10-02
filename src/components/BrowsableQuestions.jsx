@@ -4,6 +4,8 @@ import { recordAnswer } from '../lib/storage.js'
 import { useApp } from '../lib/store.jsx'
 import { BackLink, Button, Card, Container, ProgressBar } from './ui.jsx'
 import {
+  AnswerBadge,
+  AnswerNote,
   ChapterTag,
   ExplanationReveal,
   QuestionNote,
@@ -74,7 +76,10 @@ export default function BrowsableQuestions({ ids, index, title, backTo, onIndexC
       </div>
 
       <Card className="mb-[18px] px-[22px] py-[22px]">
-        <ChapterTag>{title ? title : chapterShort}</ChapterTag>
+        <div className="mb-2.5 flex flex-wrap items-center gap-2">
+          <ChapterTag className="!mb-0">{title ? title : chapterShort}</ChapterTag>
+          <AnswerBadge question={q} />
+        </div>
         <div className="mb-4 text-[1.05rem] font-semibold leading-relaxed">{q.text}</div>
 
         <QuestionNote question={q} />
@@ -92,6 +97,7 @@ export default function BrowsableQuestions({ ids, index, title, backTo, onIndexC
           ))}
         </div>
 
+        {revealExplanation && <AnswerNote question={q} />}
         {revealExplanation && <ExplanationReveal question={q} autoShow={autoExplain} />}
       </Card>
 

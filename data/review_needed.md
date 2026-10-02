@@ -4,47 +4,88 @@ Nguồn: `public/lectures/08-cau-hoi-on-tap-da-to-dap-an.pdf` (19 trang, 210 câ
 đúng được tô vàng bằng Highlight annotation).
 
 **Kết quả trích xuất:** 7 bài · 210 câu · số thứ tự liên tục 1–210, không trùng không
-thiếu · 205 câu có đúng một đáp án được tô · 5 câu phải xử lý tay (xem bên dưới).
+thiếu · 205 câu có đúng một đáp án được tô.
+
+**Tổng kết chỉnh sửa:** 3 câu sửa đáp án khác tài liệu gốc · 3 câu tài liệu gốc không tô
+đáp án · 1 câu tô hai đáp án · 1 câu đề gốc đánh dấu bỏ · 1 lỗi gõ.
 
 **Đã đối chiếu bằng mắt** 24 câu trên ba trang bất kỳ (trang 10 — câu 115–124, trang 17 —
-câu 186–199, trang 3 — câu 27–41) cùng toàn bộ 10 câu đặc biệt liệt kê dưới đây: 100% khớp
-với kết quả của `parse_pdf.py`.
+câu 186–199, trang 3 — câu 27–41) cùng tất cả các câu được nhắc tới trong tài liệu này:
+100% khớp với kết quả của `parse_pdf.py`, tức mọi chỗ lệch dưới đây là lỗi của tài liệu gốc
+chứ không phải lỗi đọc file.
 
 ---
 
-## 1. Năm câu phải chốt đáp án bằng tay
+## 1. Nguyên tắc chấm điểm
 
-Các chỉnh sửa này nằm ở `data/overrides.json`.
+Khi đáp án tô trong tài liệu gốc **sai so với kiến thức hoặc phép tính**, bộ đề này chấm theo
+**đáp án đúng thật sự**, đồng thời hiện một hộp ghi chú ngay dưới câu hỏi nói rõ tài liệu gốc
+tô đáp án nào — để người học biết chính xác câu nào mình đang trả lời khác với tài liệu.
 
-| Câu | Vấn đề trong đề gốc | Xử lý | Căn cứ |
-|-----|---------------------|-------|--------|
-| **30** | Tô vàng CẢ HAI đáp án A (*Màng tế bào*) và D (*Màng sinh chất*) | Chốt **A**, phần giải thích nói rõ D cũng đúng | Hai phương án là hai tên gọi của cùng một cấu trúc. Câu 31 ngay sau là bản lặp của câu này, đáp án là *Màng sinh chất* |
-| **86** | Không tô đáp án nào | Chốt **B** — *Tế bào chất, không phụ thuộc oxy* | Slide bài 3 (*Quá trình đường phân*): "Là giai đoạn chung, không phụ thuộc oxy — Xảy ra ở bào tương" |
-| **126** | Không tô đáp án nào | Chốt **B** — *…cao phân tử, …quá trình cơ bản của sự sống* | Slide bài 4 không có câu định nghĩa này. Chắc chắn loại được C, D, E vì acid nucleic là polymer ("cao phân tử"). Giữa A và B chỉ khác một từ (*phức tạp* / *cơ bản*); chọn B theo cách diễn đạt chuẩn của giáo trình. **Đây là câu còn độ chắc chắn thấp nhất** |
-| **160** | Không tô đáp án nào | Chốt **D — 3** | Giải tay và kiểm tra lại bằng chương trình: chỉ 3 phép lai I, II, IV thoả "hoa hồng **thuần chủng** × hoa đỏ → F1 50% đỏ : 50% hồng". III cho 100% đỏ; V (*aaBb*) và VI (*Aabb*) có cây hoa hồng **không** thuần chủng |
-| **207** | Không tô đáp án + có ghi chú viết tay **"bỏ"** (FreeText annotation) và vệt mực ở lề | Đánh dấu `flag: "dropped"` — hiện ở chế độ Học kèm cảnh báo, **không** vào bài kiểm tra | Theo slide bài 7, phôi mới thành lập chỉ có ba vùng (trước = đầu, giữa = bụng/lưng có rãnh thần kinh, sau = đuôi). Cả D (*vùng cuối là phần chân*) lẫn E (*vùng giữa là nơi hình thành tay*) đều sai → câu có hai đáp án |
+Trong web, mỗi câu như vậy mang một nhãn nhỏ hiện ngay từ trước khi trả lời:
 
-## 2. Lỗi gõ trong đề gốc, đã sửa
+| Nhãn | Nghĩa |
+|------|-------|
+| `≠ đáp án gốc` | đáp án đã sửa, khác với đáp án tô trong tài liệu |
+| `đáp án bổ sung` | tài liệu gốc không tô đáp án nào, đáp án do tra cứu mà chốt |
+| `gốc tô 2 đáp án` | tài liệu gốc tô nhiều hơn một đáp án |
+
+Nội dung "tài liệu gốc tô …" trong hộp ghi chú được `build_questions.py` lấy thẳng từ
+`questions.base.json`, nên luôn khớp với file PDF, không sợ chép sai.
+
+## 2. Ba câu đã SỬA đáp án khác tài liệu gốc
+
+| Câu | Tài liệu gốc tô | Đã sửa thành | Căn cứ |
+|-----|-----------------|--------------|--------|
+| **87** | B. *Gây chảy máu cơ, mõi cơ* | **A. *Gây đau cơ, mõi cơ*** | Lên men lactic làm ứ acid lactic → giảm pH trong cơ → mỏi cơ, đau cơ. "Chảy máu cơ" không phải hậu quả của lên men. Nhiều khả năng bút tô trượt sang cột bên cạnh |
+| **111** | A. *Nucleotid* | **E. *Nucleosom*** | Đơn vị cấu trúc cơ bản của NST nhân chuẩn là nucleosom (146 cặp base quấn 7/4 vòng quanh 8 histon). Chữ "ở tế bào nhân chuẩn" trong đề chính là dấu hiệu: nucleotid là đơn vị của mọi DNA kể cả DNA vòng trần của vi khuẩn |
+| **162** | B. *8 loại kiểu hình : 12 loại kiểu gen* | **A. *4 loại kiểu hình : 12 loại kiểu gen*** | `Aa × aa` → 2 kiểu hình; `BB × Bb` → đời con toàn B- nên **1** kiểu hình; `Dd × Dd` → 2 kiểu hình ⇒ 2 × 1 × 2 = **4** kiểu hình (số kiểu gen 12 thì đề ghi đúng) |
+
+Cả ba đều đã mở ảnh trang PDF gốc đọc tận mắt để chắc chắn không phải parser đọc nhầm
+(trang 8, trang 9, trang 14).
+
+## 3. Bốn câu tài liệu gốc không tô / tô nhiều đáp án
+
+| Câu | Vấn đề | Đã chốt | Căn cứ |
+|-----|--------|---------|--------|
+| **30** | Tô CẢ HAI đáp án A (*Màng tế bào*) và D (*Màng sinh chất*) | **A** | Hai phương án là hai tên gọi của cùng một cấu trúc nên đều đúng; chấm theo phương án đứng trước. Câu 31 ngay sau là bản lặp, đáp án là *Màng sinh chất* |
+| **86** | Không tô đáp án nào | **B** — *Tế bào chất, không phụ thuộc oxy* | Slide bài 3: "Quá trình đường phân: là giai đoạn chung, không phụ thuộc oxy — Xảy ra ở bào tương" |
+| **126** | Không tô đáp án nào | **B** — *…cao phân tử, …quá trình cơ bản của sự sống* | Slide bài 4 không có câu định nghĩa này. Chắc chắn loại được C, D, E vì acid nucleic là polymer. Giữa A và B chỉ khác một từ; chọn B theo cách diễn đạt chuẩn của giáo trình. **Đây là câu còn độ chắc chắn thấp nhất** |
+| **160** | Không tô đáp án nào | **D — 3** | Giải tay và kiểm tra lại bằng chương trình: chỉ 3 phép lai I, II, IV thoả "hoa hồng **thuần chủng** × hoa đỏ → F1 50% đỏ : 50% hồng". III cho 100% đỏ; V (*aaBb*) và VI (*Aabb*) có cây hoa hồng **không** thuần chủng |
+
+## 4. Một câu đề gốc đã bỏ
+
+**Câu 207** không tô đáp án và có ghi chú viết tay **"bỏ"** (FreeText annotation) kèm vệt mực
+ở lề. Đã đánh dấu `flag: "dropped"`: vẫn xem được ở chế độ Học kèm cảnh báo, nhưng **không**
+vào bài kiểm tra. Lý do đề bỏ: theo slide bài 7 phôi mới thành lập chỉ có ba vùng (trước =
+đầu, giữa = bụng/lưng có rãnh thần kinh, sau = đuôi), nên cả D (*vùng cuối là phần chân*) lẫn
+E (*vùng giữa là nơi hình thành tay*) đều sai → câu có hai đáp án.
+
+## 5. Lỗi gõ trong đề gốc, đã sửa
 
 | Câu | Đề gốc | Đã sửa thành |
 |-----|--------|--------------|
-| **168** | `E. A. B, C và D đúng` | `E. A, B, C và D đúng` (dấu chấm → dấu phẩy, không đổi nghĩa) |
+| **168** | `E. A. B, C và D đúng` | `E. A, B, C và D đúng` (dấu chấm → dấu phẩy, không đổi nghĩa, không đổi đáp án) |
 
-## 3. Câu có vấn đề về nội dung — GIỮ NGUYÊN đáp án của đề, đã ghi chú trong phần giải thích
+## 6. Câu đề ra chưa chặt — GIỮ NGUYÊN đáp án của đề
 
-Những câu này đáp án tô vàng mâu thuẫn với kiến thức chuẩn hoặc với phép tính. Web vẫn chấm
-theo **đáp án của đề** (để khớp với đáp án chính thức khi đi thi), nhưng phần *Giải thích*
-nói rõ chỗ vênh để người học không bị học sai bản chất.
+Những câu này đáp án của đề không sai, nhưng câu hỏi có nhiều hơn một phương án đúng hoặc
+thiếu dữ kiện. Giữ nguyên đáp án gốc và đã ghi chú trong phần *Giải thích*.
 
 | Câu | Đáp án đề | Vấn đề |
 |-----|-----------|--------|
-| **87** | B — *Gây chảy máu cơ, mõi cơ* | Về sinh lý, hậu quả của lên men lactic là ứ acid lactic gây **mỏi cơ, đau cơ**; phương án A (*gây đau cơ, mỏi cơ*) nghe hợp lý hơn. Đã kiểm tra lại ảnh trang 8: đề đúng là tô B |
-| **162** | B — *8 loại kiểu hình : 12 loại kiểu gen* | Tính ra: `Aa×aa` → 2 kiểu hình; `BB×Bb` → **1** kiểu hình; `Dd×Dd` → 2 kiểu hình ⇒ **4** kiểu hình : 12 kiểu gen, tức phương án **A** mới đúng. Nhiều khả năng đáp án của đề sai. Đã kiểm tra lại ảnh trang 14: đề đúng là tô B |
-| **111** | A — *Nucleotid* | Nhiều tài liệu lấy **nucleosom** (phương án E) làm "đơn vị cơ bản cấu tạo NST". Đề này hiểu "cơ bản" theo nghĩa đơn vị hóa học nên chọn nucleotid. Đã kiểm tra lại ảnh trang 9 |
-| **176** | D — *Vận chuyển các chất hoà tan, phân tử nhỏ* | Hai phương án A (*cần tiêu tốn năng lượng*) và C (*màng tạo túi*) cũng đúng với ẩm/thực bào, nên đề diễn đạt chưa chặt. D là đặc điểm riêng của ẩm bào. Đã kiểm tra lại ảnh trang 16 |
-| **159** | A — *2* | **Đề gốc bị mất danh sách các phép lai**: câu hỏi ghi "có bao nhiêu phép lai sau đây…" nhưng không có phép lai nào được liệt kê, nhảy thẳng xuống các phương án số. Không thể tự giải lại; giữ đáp án của đề. Đã kiểm tra lại ảnh trang 13 |
+| **176** | D — *Vận chuyển các chất hoà tan, phân tử nhỏ* | Hai phương án A (*cần tiêu tốn năng lượng*) và C (*màng tạo túi*) cũng đúng với ẩm/thực bào. D là đặc điểm riêng của ẩm bào nên vẫn là phương án hợp lý nhất |
+| **159** | A — *2* | **Đề gốc bị mất danh sách các phép lai**: câu hỏi ghi "có bao nhiêu phép lai sau đây…" nhưng không liệt kê phép lai nào, nhảy thẳng xuống các phương án số. Không thể tự giải lại nên giữ đáp án của đề |
+| **10** | C — *Sự sống* | Phương án E (*Sinh trưởng*) cũng không nằm trong ba tính chất đặc trưng theo slide; tuy nhiên "sự sống" là phương án lạc loài rõ ràng nhất |
 
-## 4. Đề gốc in trùng phương án (không ảnh hưởng đáp án)
+## 7. Đã kiểm tra lại toàn bộ câu tính toán
+
+Mười lăm câu tính toán của bài 6 (140, 141, 142, 143, 146, 149, 150, 151, 152, 153, 154, 156,
+162, 164, 165) đã được **giải lại bằng chương trình** (liệt kê giao tử, lai, đếm kiểu gen và
+kiểu hình bằng phân số chính xác). Kết quả: **chỉ câu 162 lệch**, 14 câu còn lại khớp đúng
+đáp án của đề.
+
+## 8. Đề gốc in trùng phương án (không ảnh hưởng đáp án)
 
 Những câu dưới đây có hai phương án giống hệt nhau trong đề gốc — giữ nguyên để trung thành
 với bản in:
@@ -54,7 +95,7 @@ với bản in:
 - **Câu 121**: A và E cùng là *Kì giữa, kì sau*
 - **Câu 152**: C và E cùng là *16*
 
-## 5. Câu lặp lại trong đề (giữ nguyên cả hai)
+## 9. Câu lặp lại trong đề (giữ nguyên cả hai)
 
 Đề gốc có một số câu hỏi xuất hiện hai lần, đôi khi với bộ phương án hơi khác:
 
@@ -78,4 +119,10 @@ python3 data/build_questions.py  # base + overrides + explanations → data/ques
 ```
 
 `parse_pdf.py` sẽ **báo lỗi và dừng** nếu số câu mỗi bài lệch khỏi 16/48/25/37/8/43/33, nếu
-có câu không đủ 5 phương án, hoặc nếu xuất hiện câu lệch đáp án ngoài 5 câu đã biết ở mục 1.
+có câu không đủ 5 phương án, hoặc nếu xuất hiện câu không-đúng-một-đáp-án ngoài 5 câu đã biết
+(30, 86, 126, 160, 207 — xem mục 3 và 4).
+
+`build_questions.py` cũng tự kiểm tra tính nhất quán của `overrides.json`: báo lỗi nếu khai
+`noteKind: "corrected"` mà đáp án không hề đổi, hoặc khai `"missing"` / `"ambiguous"` mà tài
+liệu gốc thật ra có tô đáp án. Nhờ vậy ghi chú hiện cho người học không bao giờ nói sai về
+tài liệu gốc.

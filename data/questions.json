@@ -21,7 +21,8 @@
      "explain": "Các cấp tổ chức sống được chia làm hai nhóm: cấp trung gian (nguyên tử → phân tử → bào quan → mô → cơ quan → hệ cơ quan) và cấp cơ bản (tế bào → cơ thể → quần thể → quần xã → hệ sinh thái – sinh quyển). Tế bào là bậc thấp nhất trong nhóm cơ bản, tức là cấu trúc nhỏ nhất đã biểu hiện đầy đủ các đặc tính của sự sống. Mô, cơ quan, cơ thể đều nằm trên tế bào; quần thể còn cao hơn nữa.",
      "tip": "Nhỏ hơn tế bào thì chỉ còn là \"vật chất\", chưa phải \"sự sống\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-2",
@@ -37,7 +38,8 @@
      "explain": "Dãy cấp tổ chức cơ bản kết thúc ở sinh quyển: tế bào → cơ thể → quần thể → quần xã → hệ sinh thái → sinh quyển. Sinh quyển bao gồm toàn bộ sinh vật trên Trái Đất cùng mọi mối quan hệ của chúng, nên rộng hơn cả hệ sinh thái (vốn chỉ là một môi trường cụ thể cộng với sinh vật trong đó).",
      "tip": "Sinh quyển = tất cả các hệ sinh thái cộng lại → đứng đầu bảng.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-3",
@@ -53,7 +55,8 @@
      "explain": "Slide định nghĩa tế bào là \"đơn vị cấu trúc và chức năng của sự sống\": mọi cơ thể sống đều cấu tạo từ tế bào, và mọi hoạt động sống (trao đổi chất, sinh sản, di truyền) đều diễn ra ở mức tế bào. Vì vậy tế bào vừa là đơn vị tổ chức thấp nhất có sự sống, vừa là đơn vị cơ sở để nghiên cứu sinh học.",
      "tip": "Câu 1 và câu 3 cùng một đáp án: tế bào.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-4",
@@ -69,7 +72,8 @@
      "explain": "Nguyên sinh chất mang bốn tính chất: là một hệ keo, có độ nhớt cao, là hỗn dịch không bền, và chuyển đổi được sol ↔ gel theo hai chiều. Về mặt nhũ tương thì nguyên sinh chất là nhũ tương BỀN — nhờ vậy các giọt lipid mới phân tán ổn định trong bào tương mà không tách lớp. Do đó \"nhũ tương không bền\" là tính chất duy nhất không đúng.",
      "tip": "Hỗn dịch thì KHÔNG bền, nhưng nhũ tương thì BỀN — đảo đúng một chữ là sai cả câu.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-5",
@@ -85,7 +89,8 @@
      "explain": "Glucose là đường đơn 6 carbon đi thẳng vào đường phân mà không cần bước chuyển hóa trung gian nào, nên tế bào dùng được ngay. Galactose và fructose phải được gan chuyển thành dẫn xuất của glucose trước; còn ribose và deoxyribose là đường 5 carbon dùng để xây acid nucleic chứ không phải nguồn năng lượng chính.",
      "tip": "Chỉ glucose mới \"vào thẳng\" đường phân — các đường khác đều phải đi vòng.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-6",
@@ -101,7 +106,8 @@
      "explain": "Khi mất máu cần bù lại THỂ TÍCH tuần hoàn, tức là cần một dung dịch cao phân tử giữ được nước trong lòng mạch. Dextran là polymer của glucose, phân tử lớn nên nằm lại trong mạch và kéo nước vào, thay thế được vai trò của huyết tương. Các dung dịch glucose 5–20% chỉ là đường đơn, khuếch tán nhanh ra khỏi lòng mạch nên chỉ bù năng lượng và nước, không bù được thể tích.",
      "tip": "Bù thể tích phải dùng phân tử TO (dextran); glucose phân tử nhỏ nên \"chạy\" mất.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-7",
@@ -117,7 +123,8 @@
      "explain": "ATP (adenosin triphosphat) được gọi là \"đồng tiền năng lượng\" của tế bào: năng lượng từ dị hóa được tích vào liên kết cao năng của ATP, rồi mọi hoạt động sống đều rút từ đó ra dùng. GTP, CTP cũng là nucleotid triphosphat và cũng mang năng lượng, nhưng chúng chỉ phục vụ một số phản ứng chuyên biệt (GTP cho dịch mã, tín hiệu G-protein; CTP cho tổng hợp lipid), không phải đồng tiền chung của cả tế bào.",
      "tip": "\"Tiền tệ\" thì phải tiêu được ở mọi nơi → chỉ ATP.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-8",
@@ -133,7 +140,8 @@
      "explain": "Lactose (đường sữa) là disaccharid gồm glucose + galactose, chỉ có trong sữa của động vật có vú nên là đường đặc trưng của sữa bò. Saccarose là đường mía, fructose là đường trái cây, còn glucose và galactose là đường đơn, trong sữa chúng chỉ xuất hiện sau khi lactose bị thủy phân.",
      "tip": "Lac- = sữa (lactic, lactose, lactation).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-9",
@@ -149,7 +157,8 @@
      "explain": "Glucose là đường lưu hành trong máu và là chỉ số được đo khi xét nghiệm \"đường huyết\"; mọi đường khác hấp thu từ ruột đều được gan chuyển thành glucose trước khi đưa vào máu. Lactose đặc trưng cho sữa, saccarose cho mía, fructose cho trái cây, galactose chỉ là sản phẩm thủy phân của lactose.",
      "tip": "Đường huyết = glucose; sữa = lactose; mía = saccarose; trái cây = fructose.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-10",
@@ -165,7 +174,8 @@
      "explain": "Theo slide, các cấp tổ chức sống có ba tính chất đặc trưng: cấu trúc phức tạp và tổ chức tinh vi, chuyển hóa năng lượng phức tạp, và thông tin được ổn định – chính xác – liên tục. Sinh trưởng tuy không nằm trong ba tính chất này nhưng vẫn là một biểu hiện của sự sống. Riêng \"sự sống\" không phải là một tính chất — nó chính là cái mà ba tính chất kia mô tả, nên đây là phương án duy nhất không thuộc nhóm.",
      "tip": "Ba tính chất đặc trưng = Cấu trúc – Năng lượng – Thông tin. \"Sự sống\" là kết quả, không phải tính chất.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-11",
@@ -181,7 +191,8 @@
      "explain": "Chuyển đổi sol ↔ gel theo hai chiều là khả năng nguyên sinh chất hóa lỏng rồi đông đặc trở lại một cách thuận nghịch. Chính sự chuyển đổi này tạo ra dòng chảy bào tương và chân giả, giúp tế bào di chuyển (như amip) và giúp cơ thể vận động. Độ nhớt cao hay trạng thái hệ keo, nhũ tương chỉ mô tả cấu trúc tĩnh của nguyên sinh chất, tự chúng không sinh ra chuyển động.",
      "tip": "Muốn \"động\" thì phải đổi trạng thái: sol ⇄ gel.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-12",
@@ -197,7 +208,8 @@
      "explain": "Dấu hiệu nhận ra một sinh vật đã có cấu trúc tế bào là đủ ba thành phần cơ bản: màng sinh chất, tế bào chất và vật chất di truyền (vùng nhân hoặc nhân). Virus thiếu bộ ba này nên chưa có cấu trúc tế bào. Lưu ý \"có màng nhân\" chỉ phân biệt nhân thực với nhân sơ, không phân biệt có tế bào hay chưa — vi khuẩn không có màng nhân nhưng vẫn là tế bào.",
      "tip": "Đủ 3 phần: màng – bào tương – vật chất di truyền thì mới gọi là tế bào.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-13",
@@ -213,7 +225,8 @@
      "explain": "Vi khuẩn là sinh vật prokaryota (nhân sơ): vật chất di truyền là một phân tử DNA vòng nằm trần trong vùng nhân, không được bao bọc bởi màng nhân, nên gọi là \"chưa có nhân chuẩn\". Vi khuẩn vẫn có đủ màng tế bào, tế bào chất và nhiễm sắc thể (dạng vòng), nên các phương án còn lại đều sai.",
      "tip": "Vi khuẩn = có tế bào, nhưng nhân chưa có màng → nhân sơ.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-14",
@@ -229,7 +242,8 @@
      "explain": "Virus chỉ gồm lõi acid nucleic bọc trong vỏ protein, không có màng sinh chất, không có bào tương, không có bộ máy chuyển hóa riêng — tức là chưa có cấu trúc tế bào, phải ký sinh nội bào bắt buộc mới nhân lên được. Virus vẫn có vật chất di truyền (DNA hoặc RNA) nên phương án C sai; còn nói \"chưa có nhân chuẩn\" thì đúng nhưng chưa phải điểm phân biệt căn bản nhất, vì vi khuẩn cũng vậy.",
      "tip": "Vi khuẩn chưa có NHÂN chuẩn; virus thì chưa có cả TẾ BÀO.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-15",
@@ -245,7 +259,8 @@
      "explain": "Sự sống được định nghĩa qua một đơn vị tổ chức di truyền (tế bào) có đủ ba khả năng: trao đổi chất với môi trường, sinh sản để truyền thông tin di truyền, và tiến hóa để thích nghi. Các phương án còn lại hoặc đổi \"một\" thành \"nhiều\" (sai, vì chỉ cần một tế bào đã là sự sống), hoặc phủ định ba khả năng trên (sai hoàn toàn).",
      "tip": "Sự sống = MỘT đơn vị di truyền + trao đổi chất + sinh sản + tiến hóa.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-1-16",
@@ -261,7 +276,8 @@
      "explain": "Slide liệt kê bảy biểu hiện của sự sống: trao đổi chất, nội cân bằng, tăng trưởng, vận động, đáp lại kích thích, sinh sản và thích nghi. Mỗi phương án nhiễu đều thiếu một hoặc hai mục: B và D thiếu nội cân bằng, C thiếu đáp lại kích thích, E thiếu hẳn bốn mục và thêm \"thông tin\" (vốn là tính chất đặc trưng chứ không phải biểu hiện).",
      "tip": "7 biểu hiện: Trao đổi – Nội cân bằng – Tăng trưởng – Vận động – Đáp lại – Sinh sản – Thích nghi. Đếm đủ 7, thiếu một là loại.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     }
    ]
   },
@@ -286,7 +302,8 @@
      "explain": "Slide ghi rõ thành phần màng sinh chất: lipid gần 50%, protein gần 50%, carbohydrat 2–10%. Phospholipid chính là loại lipid chủ yếu tạo nên lớp kép của màng, nên cả bốn phương án A–D đều là thành phần có thật của màng.",
      "tip": "Màng = Lipid 50% + Protein 50% + Carbohydrat 2–10%. Thấy câu hỏi \"thành phần màng\" thì nghĩ tới \"tất cả đều đúng\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-18",
@@ -302,7 +319,8 @@
      "explain": "Các mạch hydrocarbon của phospholipid chuyển động liên tục, làm lớp màng kép có tính dòng lỏng hai chiều — nhờ đó màng đổi hình dạng, khép thành túi hay dung hợp mà không vỡ. Cholesterol thì ngược lại: nó chèn vào giữa các phospholipid làm màng cứng hơn. Protein và carbohydrat lo chức năng đặc hiệu và nhận diện, không quyết định tính linh động.",
      "tip": "Phospholipid = LỎNG, cholesterol = CỨNG. Hai câu 18 và 19 là cặp đối nhau.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-19",
@@ -318,7 +336,8 @@
      "explain": "Ở sinh vật bậc cao, cholesterol xen vào giữa các phân tử phospholipid làm hạn chế chuyển động của chúng, tạo tính cứng và độ bền cơ học cho màng. Phospholipid làm màng lỏng; protein, carbohydrat không giữ vai trò nâng độ bền cơ học.",
      "tip": "Cholesterol là \"thanh chống\" cài giữa các phospholipid → màng cứng, bền.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-20",
@@ -334,7 +353,8 @@
      "explain": "Tế bào chất là khối keo lỏng chứa khoảng 80% là nước, phần còn lại là các chất hòa tan và bào quan. Nước là dung môi cho mọi phản ứng sinh hóa, nên đây là thành phần chiếm tỷ lệ áp đảo. Golgi, peroxisom, ribosom chỉ là các bào quan nằm trong đó; còn nhân không nằm trong tế bào chất theo nghĩa thành phần cấu tạo.",
      "tip": "80% nước — tế bào chất thực chất là \"nước có bào quan bơi trong đó\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-21",
@@ -350,7 +370,8 @@
      "explain": "Slide xếp riêng một nhóm \"các bào quan chuyển hóa năng lượng\" gồm đúng hai thành viên: ty thể (hô hấp tế bào, tạo ATP) và lạp thể/lục lạp (quang hợp, biến quang năng thành hóa năng). Bộ máy Golgi chỉ chế biến – đóng gói – vận chuyển chất, không chuyển hóa năng lượng, nên các phương án có Golgi đều sai.",
      "tip": "Hai \"nhà máy điện\": ty thể (động vật + thực vật) và lục lạp (thực vật).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-22",
@@ -366,7 +387,8 @@
      "explain": "GTP là nucleotid gắn với các protein G — trung tâm của hầu hết các con đường truyền tín hiệu nội bào: thụ thể nhận tín hiệu → protein G đổi GDP thành GTP → hoạt hóa chuỗi tín hiệu phía sau. ATP là đồng tiền năng lượng chung, CTP phục vụ tổng hợp lipid, UTP tổng hợp glycogen, còn TTP chỉ có trong DNA.",
      "tip": "G trong GTP = G trong G-protein = Giao tiếp (truyền tín hiệu).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-23",
@@ -382,7 +404,8 @@
      "explain": "Slide ghi nguồn gốc của bộ máy Golgi là lưới nội chất trơn: các túi màng tách ra từ lưới nội chất trơn rồi dẹp lại thành 5–8 túi chồng lên nhau tạo thành Golgi. Lưới nội chất hạt chỉ gửi protein sang Golgi ở mặt cis chứ không sinh ra Golgi; còn lysosom là sản phẩm của Golgi chứ không phải nguồn gốc.",
      "tip": "Chuỗi sinh ra nhau: lưới nội chất trơn → Golgi → lysosom.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-24",
@@ -398,7 +421,8 @@
      "explain": "Lysosom có nguồn gốc từ thể Golgi: mặt trans của Golgi tách ra các túi chứa sẵn enzym thủy phân, các túi đó chính là lysosom. Lưới nội chất trơn sinh ra Golgi chứ không sinh ra lysosom trực tiếp.",
      "tip": "Nhớ dây chuyền: lưới trơn → Golgi → lysosom. Câu 23 và 24 là hai mắt xích liền nhau.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-25",
@@ -414,7 +438,8 @@
      "explain": "Peroxisom có màng đơn, chứa nhiều enzym oxy hóa (đặc biệt là catalase) phân hủy H₂O₂ thành H₂O, nhờ vậy loại bỏ độc tố cho tế bào; nó có rất nhiều ở tế bào gan — cơ quan khử độc chính. Lysosom cũng tiêu hủy nhưng bằng enzym thủy phân trong môi trường acid, không xử lý H₂O₂.",
      "tip": "Peroxisom ↔ peroxid (H₂O₂). Tên gọi đã nói đúng chức năng.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-26",
@@ -430,7 +455,8 @@
      "explain": "Ẩm bào, khuếch tán, thẩm thấu và xuất bào đều là các hình thức đưa vật chất qua màng. \"Nhược trương\" không phải là cách vận chuyển mà là tên một LOẠI MÔI TRƯỜNG (nồng độ chất tan ngoài tế bào thấp hơn trong tế bào, khiến nước đi từ ngoài vào trong).",
      "tip": "Ưu – nhược – đẳng trương là tên MÔI TRƯỜNG, không phải tên kiểu vận chuyển.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-27",
@@ -446,7 +472,8 @@
      "explain": "Nhân là bào quan có kích thước lớn nhất trong tế bào nhân thực (đường kính thường 5–10 μm, chiếm khoảng 10% thể tích tế bào). Ribosom và peroxisom nhỏ hơn rất nhiều. Tế bào chất và bào tương tuy chiếm thể tích lớn nhưng là một vùng/khối môi trường, không phải một \"bộ phận\" theo nghĩa bào quan.",
      "tip": "Bào quan to nhất, nhìn thấy đầu tiên dưới kính hiển vi → nhân.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-28",
@@ -462,7 +489,8 @@
      "explain": "Trung thể là bào quan tham gia phân bào: nó gồm hai trung tử xếp vuông góc, đến kỳ đầu sẽ tách về hai cực và tổ chức hình thành thoi vô sắc kéo nhiễm sắc thể. Trung tử chỉ là một thành phần của trung thể, còn thoi vô sắc là sản phẩm do trung thể tạo ra chứ bản thân không phải bào quan.",
      "tip": "Trung thể = 2 trung tử vuông góc, là \"người chỉ huy\" tạo thoi vô sắc.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-29",
@@ -478,7 +506,8 @@
      "explain": "Ty thể là nơi diễn ra hô hấp tế bào: chu trình Krebs ở chất nền và chuỗi truyền điện tử trên màng trong, tạo phần lớn ATP cho tế bào — vì vậy nó được gọi là \"trạm năng lượng\". Lạp thể làm quang hợp (chiều ngược lại), ribosom tổng hợp protein, Golgi đóng gói, lysosom tiêu hóa nội bào.",
      "tip": "Hô hấp = ty thể; quang hợp = lục lạp.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-30",
@@ -491,10 +520,16 @@
       "E. Ty thể"
      ],
      "correct": "A. Màng tế bào",
-     "explain": "Màng tế bào (màng sinh chất) là nơi thực hiện và kiểm soát quá trình trao đổi chất và trao đổi thông tin giữa tế bào với môi trường. Lưu ý: trong câu này phương án D \"Màng sinh chất\" chỉ là tên gọi khác của chính A \"Màng tế bào\", nên về bản chất D cũng đúng — đề gốc tô vàng cả hai. Bộ đề chốt A vì đó là phương án đứng trước; câu 31 ngay sau là bản lặp lại của câu này với đáp án \"Màng sinh chất\".",
+     "explain": "Màng tế bào là nơi thực hiện và kiểm soát quá trình trao đổi chất và trao đổi thông tin giữa tế bào với môi trường — chỉ nó mới nằm ở ranh giới tiếp xúc với bên ngoài. Tế bào chất là nơi diễn ra phản ứng, nhân giữ thông tin di truyền, ty thể lo năng lượng. Riêng phương án D \"Màng sinh chất\" chính là tên gọi khác của \"Màng tế bào\" ở phương án A, nên về bản chất hai phương án này không phân biệt được với nhau.",
      "tip": "Màng tế bào = màng sinh chất, hai tên một thứ. Câu này đề ra trùng phương án.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": {
+      "kind": "ambiguous",
+      "title": "Tài liệu gốc tô nhiều hơn một đáp án",
+      "body": "\"Màng tế bào\" và \"màng sinh chất\" là hai tên gọi của cùng một cấu trúc, nên cả hai đều đúng. Bộ đề này chấm theo phương án đứng trước.",
+      "sourceAnswer": null
+     }
     },
     {
      "id": "bai-2-31",
@@ -510,7 +545,8 @@
      "explain": "Màng sinh chất bao bọc tế bào, là màng bán thấm có tính chọn lọc, vừa thực hiện vừa kiểm soát trao đổi chất với môi trường và là giá thể gắn các enzym trao đổi chất. Tế bào chất chỉ là nơi diễn ra phản ứng, nhân giữ thông tin di truyền, ty thể lo năng lượng, Golgi lo đóng gói — không bào quan nào tiếp xúc trực tiếp với môi trường ngoài như màng.",
      "tip": "Muốn trao đổi với \"bên ngoài\" thì phải là cái nằm ở ranh giới → màng.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-32",
@@ -526,7 +562,8 @@
      "explain": "Tuyệt đại bộ phận DNA của tế bào nhân thực nằm trong nhân, cuộn với protein histon tạo thành nhiễm sắc thể. Ty thể và lạp thể cũng có DNA riêng nhưng chỉ là vài chục gen, chiếm tỷ lệ rất nhỏ — nên trả lời cho câu \"nằm CHỦ YẾU ở đâu\" vẫn phải là nhiễm sắc thể.",
      "tip": "Ty thể/lục lạp có DNA, nhưng chỉ là \"phần phụ\"; kho chính vẫn ở NST.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-33",
@@ -542,7 +579,8 @@
      "explain": "Cloramphenicol gắn vào tiểu đơn vị 50S của ribosom vi khuẩn, ức chế enzym peptidyl transferase nên chặn đứng việc tạo liên kết peptid, làm vi khuẩn không tổng hợp được protein. Ribosom vi khuẩn (70S = 30S + 50S) khác ribosom người (80S = 40S + 60S), đó là lý do thuốc diệt khuẩn mà ít hại tế bào người.",
      "tip": "Nhiều kháng sinh (cloramphenicol, tetracyclin, streptomycin) đều đánh vào RIBOSOM 70S.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-34",
@@ -558,7 +596,8 @@
      "explain": "Vẫn là trung thể — bào quan tổ chức vi ống để hình thành thoi vô sắc, thiết bị bắt buộc phải có cho sự phân chia nhiễm sắc thể. Trung tử là thành phần cấu tạo nên trung thể, thoi vô sắc là sản phẩm chứ không phải bào quan, còn nhân tuy chứa NST nhưng không phải \"bào quan cần cho phân bào\" theo nghĩa cơ học.",
      "tip": "Câu 28 và 34 là một câu hỏi lặp lại, đáp án giống hệt: trung thể.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-35",
@@ -574,7 +613,8 @@
      "explain": "Slide ghi thành phần chính của thành tế bào prokaryota là peptidoglycan (murein) — mạng lưới đường và peptid bao quanh tế bào, giúp giữ hình dạng và chịu áp suất thẩm thấu. Cellulose là vách tế bào thực vật, còn phospholipid và lipoprotein thuộc về màng chứ không phải thành.",
      "tip": "Vi khuẩn = peptidoglycan; thực vật = cellulose. Hai câu 35 và 40 là cặp đối nhau.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-36",
@@ -590,7 +630,8 @@
      "explain": "Slide chia bào quan eukaryota thành nhóm có màng (lưới nội chất, Golgi, lysosom, peroxisom, không bào, ty thể, lục lạp) và nhóm KHÔNG màng gồm đúng ba thứ: trung thể, bộ xương tế bào và ribosom. Vì cả A, B, C đều đúng nên phải chọn D.",
      "tip": "Ba thứ không có màng: Ribosom – Khung xương – Trung thể (R-K-T).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-37",
@@ -606,7 +647,8 @@
      "explain": "Lysosom là túi màng đơn do Golgi sinh ra, bên trong chứa hệ enzym thủy phân hoạt động ở pH acid; nó tiêu hóa thức ăn đưa vào bằng thực bào và phân hủy các bào quan già cỗi. Peroxisom chứa enzym oxy hóa (không phải thủy phân), còn ty thể, lạp thể, Golgi có chức năng khác hẳn.",
      "tip": "Lyso- = ly giải, phân hủy. Lysosom là \"dạ dày\" của tế bào.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-38",
@@ -622,7 +664,8 @@
      "explain": "E. coli, Salmonella, vi khuẩn nói chung và vi sinh vật đơn bào nhân sơ đều là prokaryota. Hồng cầu là tế bào của người — thuộc eukaryota; nó mất nhân khi trưởng thành nhưng đó là hiện tượng biệt hóa chứ không biến nó thành tế bào nhân sơ.",
      "tip": "Hồng cầu KHÔNG CÒN nhân, khác hẳn với CHƯA CÓ nhân chuẩn của vi khuẩn.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-39",
@@ -638,7 +681,8 @@
      "explain": "Ribosom là nơi diễn ra quá trình dịch mã — lắp ráp các acid amin thành chuỗi polypeptid theo mã trên mRNA. Nó có thể nằm tự do trong bào tương hoặc bám trên lưới nội chất hạt. Lưới nội chất hạt chỉ \"mang\" ribosom và tiếp nhận sản phẩm, còn Golgi chỉ chế biến tiếp protein đã được tổng hợp xong.",
      "tip": "Ribosom = xưởng ráp protein; mọi bào quan khác chỉ là kho và khâu đóng gói.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-40",
@@ -654,7 +698,8 @@
      "explain": "Vách tế bào ở eukaryota (điển hình là tế bào thực vật) có thành phần chủ yếu là cellulose dạng sợi dài, gắn với nhau nhờ pectin và hemicellulose; vách thứ cấp còn có thêm lignin. Peptidoglycan là của vi khuẩn, còn lipoprotein và phospholipid thuộc về màng.",
      "tip": "Cellulose = chất xơ của thực vật; đó cũng là vách tế bào thực vật.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-41",
@@ -670,7 +715,8 @@
      "explain": "Roi và lông của tế bào prokaryota được cấu tạo từ protein flagellin — các tiểu phần flagellin xếp xoắn thành sợi rỗng, quay như chân vịt giúp vi khuẩn bơi. Dynein là protein vận động của roi eukaryota, còn histon là protein cuộn DNA, không liên quan đến roi.",
      "tip": "Flagellin cho vi khuẩn (flagella), dynein cho nhân thực.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-42",
@@ -686,7 +732,8 @@
      "explain": "Roi và lông của eukaryota có sợi trục gồm các cặp vi ống; protein dynein nằm giữa các cặp vi ống, dùng ATP để làm chúng trượt lên nhau tạo chuyển động uốn sóng. Flagellin chỉ có ở vi khuẩn, histon không tham gia cấu trúc roi.",
      "tip": "Dynein là \"động cơ\" làm vi ống trượt — nhớ dynein ↔ dynamic (chuyển động).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-43",
@@ -702,7 +749,8 @@
      "explain": "Ribosom của tế bào nhân thực có hệ số lắng 80S, gồm tiểu đơn vị nhỏ 40S và tiểu đơn vị lớn 60S. Lưu ý hệ số lắng S không cộng tuyến tính (40 + 60 ≠ 80) vì nó phụ thuộc cả khối lượng lẫn hình dạng phân tử.",
      "tip": "Nhân thực: 80 = 40 + 60 (số chẵn, dễ nhớ \"8-4-6\").",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-44",
@@ -718,7 +766,8 @@
      "explain": "Ribosom vi khuẩn nhỏ hơn: 70S gồm tiểu đơn vị 30S và 50S. Chính sự khác biệt 70S/80S này là cơ sở để kháng sinh (streptomycin, tetracyclin, cloramphenicol) tấn công vi khuẩn mà ít ảnh hưởng tế bào người.",
      "tip": "Nhân sơ: 70 = 30 + 50 (\"7-3-5\"); nhân thực: 80 = 40 + 60 (\"8-4-6\").",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-45",
@@ -734,7 +783,8 @@
      "explain": "Lưới nội chất hạt (nhám) mang tên \"hạt\" chính vì có các ribosom bám trên mặt ngoài màng; chúng tổng hợp protein rồi đẩy thẳng vào lòng lưới. Lưới nội chất nhẵn không có ribosom bám nên chuyên tổng hợp lipid, carbohydrat, khử độc và dự trữ calci.",
      "tip": "\"Hạt\" chính là các hạt ribosom đính trên màng.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-46",
@@ -750,7 +800,8 @@
      "explain": "Đó đúng là định nghĩa của thẩm thấu: nước di chuyển qua màng bán thấm từ nơi nồng độ chất tan thấp (nhược trương) sang nơi nồng độ chất tan cao (ưu trương). Khuếch tán là sự di chuyển của CHẤT TAN chứ không phải của nước; vận chuyển chủ động cần năng lượng và protein tải; đồng vận chuyển đưa hai chất cùng lúc.",
      "tip": "Thẩm thấu = chỉ có NƯỚC đi; khuếch tán = CHẤT TAN đi.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-47",
@@ -766,7 +817,8 @@
      "explain": "Slide liệt kê ba kiểu nối liên bào: nối khít (hai màng ép sát nhau nhờ protein đặc hiệu — tế bào da), nối neo hay nối thể liên bào (sợi trung gian đóng chặt tế bào vào nhau — tế bào cơ), và nối khe (protein màng bao quanh một lỗ cho tế bào giao lưu — cơ tim, tế bào phôi). Vì có đủ ba loại nên đáp án là E.",
      "tip": "Ba nối: KHÍT (dán kín) – NEO (buộc chặt) – KHE (mở lỗ nói chuyện).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-48",
@@ -782,7 +834,8 @@
      "explain": "Điểm mấu chốt trong câu hỏi là cụm \"truyền thông tin từ chúng cho các tế bào ở các nơi khác\" — đó là chức năng thông tin của tế bào, thực hiện qua các phân tử tín hiệu và thụ thể màng. Việc tách rời và trôi theo dòng máu là hệ quả, còn \"chức năng tiếp nhận\" chỉ là một nửa (nhận), không bao gồm việc phát tín hiệu đi.",
      "tip": "Trong đề, chữ \"truyền thông tin\" dẫn thẳng tới đáp án \"chức năng thông tin\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-49",
@@ -798,7 +851,8 @@
      "explain": "Protein màng mới là thứ tạo nên tính đặc hiệu: kênh/protein vận chuyển chọn lọc từng chất, enzym xúc tác phản ứng riêng, thụ thể nhận đúng một loại hormon hay chất dẫn truyền thần kinh, protein liên kết neo khung xương tế bào. Lipid chỉ tạo nền (hàng rào kỵ nước) chung cho mọi màng, còn carbohydrat tham gia nhận diện nhưng luôn gắn trên protein hoặc lipid.",
      "tip": "Lipid dựng \"bức tường\", protein mới là các \"cánh cửa và ổ khóa\" đặc hiệu.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-50",
@@ -814,7 +868,8 @@
      "explain": "Ty thể và lục lạp đều có màng kép, trong chất nền chứa DNA vòng và ribosom riêng, nên tự tổng hợp được một phần protein của mình — đây là bằng chứng cho thuyết nội cộng sinh (chúng vốn là vi khuẩn bị nuốt vào). Nhân có DNA nhưng không có ribosom riêng (ribosom chỉ được lắp ráp ở hạch nhân rồi chuyển ra bào tương); lưới nội chất nhám chỉ có ribosom bám bên ngoài chứ không có DNA.",
      "tip": "Hai bào quan \"bán tự trị\": ty thể và lục lạp — đều có màng kép + DNA + ribosom.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-51",
@@ -830,7 +885,8 @@
      "explain": "Tên gọi \"khảm lỏng\" gồm hai vế: LỎNG là do phospholipid luôn chuyển động tạo tính dòng lỏng hai chiều, KHẢM là do các protein xuyên màng và cài màng nằm rải rác như những mảnh khảm. Cholesterol chỉ điều chỉnh độ cứng của màng chứ không phải yếu tố tạo nên mô hình.",
      "tip": "Khảm = protein, Lỏng = phospholipid. Tên mô hình đã gói đủ hai thành phần.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-52",
@@ -846,7 +902,8 @@
      "explain": "Penicilin ức chế enzym transpeptidase, chặn việc nối chéo các chuỗi peptidoglycan khi vi khuẩn xây vách. Vi khuẩn Gram dương có lớp peptidoglycan rất dày và nằm lộ ra ngoài cùng nên thuốc tiếp cận dễ và tác dụng mạnh. Gram âm có thêm màng ngoài lipopolysaccharid che chắn, peptidoglycan lại mỏng, nên penicilin cổ điển kém hiệu quả. Virus không có vách nên hoàn toàn không chịu tác dụng.",
      "tip": "Penicilin đánh vách → vách càng dày càng trúng đòn → Gram dương.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-53",
@@ -862,7 +919,8 @@
      "explain": "Nguyên sinh chất chia thành hai lớp: ngoại chất nằm ở ngoại vi, là lớp mỏng, đồng nhất, ở trạng thái gel nên có độ nhớt cao; nội chất nằm phía trong, lỏng hơn (sol) và chứa các bào quan. Các phương án nói ngoại chất \"bao quanh nhân\" hay \"nằm trong\" đều mô tả nội chất chứ không phải ngoại chất.",
      "tip": "NGOẠI chất ở NGOÀI, mỏng và đặc (gel); NỘI chất ở trong, lỏng (sol).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-54",
@@ -878,7 +936,8 @@
      "explain": "Phép nhuộm Gram phân biệt vi khuẩn dựa trên cấu trúc và thành phần hóa học của THÀNH tế bào: Gram dương có lớp peptidoglycan dày giữ được phức hợp tím tinh thể – iod nên bắt màu tím; Gram âm có peptidoglycan mỏng kèm màng ngoài lipopolysaccharid, bị cồn tẩy mất màu tím rồi bắt màu đỏ của thuốc nhuộm phụ. Nhân, tế bào chất và màng sinh chất của hai nhóm không khác nhau đủ để phân loại.",
      "tip": "Gram ăn thua ở VÁCH (thành tế bào), không phải ở màng hay nhân.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-55",
@@ -894,7 +953,8 @@
      "explain": "Lipid (chủ yếu là phospholipid) tạo nên lớp kép — bộ khung nền tảng của mọi màng sinh học: màng tế bào, màng nhân, màng ty thể, màng lysosom… Không có lớp lipid kép thì không có màng, nên nó là thành phần quan trọng của TẤT CẢ các loại màng. Các phương án D, E thu hẹp phạm vi (chỉ vi khuẩn, chỉ bào quan) nên sai; B bỏ mất chữ \"quan trọng\"; C phủ định hẳn vai trò.",
      "tip": "Không lipid thì không có màng — đúng cho mọi màng sinh học, không trừ cái nào.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-56",
@@ -910,7 +970,8 @@
      "explain": "Ribosom bám trên lưới nội chất hạt tổng hợp protein rồi đẩy chuỗi polypeptid vào LÒNG lưới nội chất, để từ đó protein đi tiếp sang Golgi và được tiết ra ngoài — chứ không đổ vào bào tương. Vì vậy phát biểu E là sai. Các phát biểu A–D đều đúng: ribosom là thành phần của lưới nội bào có hạt, gồm rRNA và protein, và là nơi tổng hợp protein.",
      "tip": "Ribosom bám lưới → protein vào LÒNG lưới (để đi tiết). Ribosom tự do mới thả protein vào bào tương.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-57",
@@ -926,7 +987,8 @@
      "explain": "Tế bào ung thư có khả năng sống MẠNH hơn tế bào thường: chúng tăng sinh vô hạn, thoát khỏi chết theo chương trình, tiết yếu tố sinh mạch để tự kéo mạch máu nuôi mình, cạnh tranh dinh dưỡng và còn tách rời để di căn. Vì vậy câu E mô tả ngược hoàn toàn và là phát biểu sai.",
      "tip": "Ung thư nguy hiểm chính vì tế bào của nó SỐNG DAI hơn tế bào lành.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-58",
@@ -942,7 +1004,8 @@
      "explain": "Trung tử có cấu trúc 9(3) + 0: chín bộ BA vi ống xếp thành vòng tròn và KHÔNG có vi ống ở trung tâm. Cấu trúc 9(2) + 1(2) — chín bộ đôi quanh một cặp vi ống trung tâm — là của sợi trục roi và lông, không phải trung tử.",
      "tip": "Trung tử: 9 bộ BA, rỗng giữa — 9(3)+0. Roi: 9 bộ ĐÔI, đặc giữa — 9(2)+1(2).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-59",
@@ -958,7 +1021,8 @@
      "explain": "Bộ máy Golgi nhận sản phẩm từ lưới nội chất ở mặt cis, chế biến tiếp (gắn đường, cắt gọt), rồi đóng gói thành túi và xuất ra ở mặt trans để vận chuyển tới đích — đồng thời sinh ra lysosom. Tổng hợp lipid/phospholipid và dự trữ calci là việc của lưới nội chất trơn; tiêu hóa và phân hủy bào quan già là việc của lysosom.",
      "tip": "Golgi = bưu điện của tế bào: nhận – đóng gói – gửi đi.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-60",
@@ -974,7 +1038,8 @@
      "explain": "Sợi trục của roi và lông eukaryota có cấu trúc 9(2) + 1(2): chín bộ ĐÔI vi ống xếp vòng tròn bao quanh một cặp vi ống ở trung tâm. Riêng thể gốc của roi thì lại là 9(3), giống trung tử. Cấu trúc 9(3) + 0 trong phương án A chính là trung tử chứ không phải roi.",
      "tip": "Roi có \"lõi\" ở giữa (9+2); trung tử rỗng giữa (9×3+0). Nhớ cặp câu 58 – 60.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-61",
@@ -990,7 +1055,8 @@
      "explain": "Vi khuẩn Gram âm có cấu trúc vỏ phức tạp gồm hai lớp màng — màng sinh chất bên trong và màng ngoài lipopolysaccharid — kẹp giữa là lớp peptidoglycan mỏng. Gram dương ngược lại: chỉ một màng sinh chất nhưng lớp peptidoglycan rất dày. Các phương án về màu nhuộm cũng sai chiều: Gram dương mới bắt màu tím, Gram âm bắt màu đỏ.",
      "tip": "Gram ÂM: 2 màng + peptidoglycan mỏng + màu đỏ. Gram DƯƠNG: 1 màng + peptidoglycan dày + màu tím.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-62",
@@ -1006,7 +1072,8 @@
      "explain": "Tổng hợp protein tiết là chức năng của lưới nội chất HẠT (nhám) vì nó có ribosom bám; lưới nội chất nhẵn không có ribosom nên không làm được việc này — do đó D là điều lưới nhẵn KHÔNG có. Ba phát biểu còn lại đều đúng với lưới nhẵn: màng có bơm Ca²⁺-ATPase, bơm Ca²⁺ vào lòng lưới làm cơ duỗi, và lưới này phát triển mạnh ở tế bào cơ.",
      "tip": "Nhẵn = không ribosom = không làm protein. Nhẵn lo lipid, khử độc và calci.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-63",
@@ -1022,7 +1089,8 @@
      "explain": "Hô hấp tế bào diễn ra ở ty thể (chu trình Krebs ở chất nền, chuỗi truyền điện tử trên màng trong), không phải ở màng sinh chất — nên E là đặc điểm không đúng. Bốn ý còn lại đúng theo slide: màng bao bọc bào quan, ngăn tách tế bào với môi trường và với tế bào khác, là màng bán thấm chọn lọc, thực hiện và kiểm soát trao đổi chất.",
      "tip": "Hô hấp là của TY THỂ. (Riêng vi khuẩn mới hô hấp ở màng vì chúng không có ty thể.)",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-2-64",
@@ -1038,7 +1106,8 @@
      "explain": "Slide nêu đúng ba tầm quan trọng của các nối liên bào: giúp các tế bào kết nối lại với nhau, giao lưu thông tin, và kiểm soát sự định hướng của các cấu trúc nội bào. Phương án D (trao đổi chất và năng lượng) không nằm trong danh sách — đó là chức năng của màng sinh chất, nên đáp án chỉ gồm A, B và C.",
      "tip": "Ba vai trò của nối: KẾT NỐI – THÔNG TIN – ĐỊNH HƯỚNG. Không có \"trao đổi chất\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     }
    ]
   },
@@ -1063,7 +1132,8 @@
      "explain": "Năng lượng hoạt hóa là lượng năng lượng tối thiểu phải cung cấp để các phân tử phản ứng vượt qua rào cản và bắt đầu phản ứng. Enzym không tạo ra năng lượng mà làm GIẢM năng lượng hoạt hóa, nhờ đó phản ứng xảy ra nhanh ở nhiệt độ cơ thể. ATP là nguồn năng lượng dùng cho công việc của tế bào chứ không phải thứ \"khơi mào\".",
      "tip": "Hoạt hóa = cú hích ban đầu. Enzym chỉ hạ thấp cú hích ấy xuống.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-66",
@@ -1079,7 +1149,8 @@
      "explain": "ATP = Adenosin TriPhosphat, gồm ba phần: base adenin + đường ribose + ba gốc phosphat. Lưu ý phân biệt: \"adenin\" là riêng base nitơ, còn \"adenosin\" mới là adenin đã gắn với đường ribose — chính adenosin mới mang ba phosphat.",
      "tip": "Adenin + ribose = adenosin. Có đường rồi mới gắn được phosphat → AdenoSIN triphosphat.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-67",
@@ -1095,7 +1166,8 @@
      "explain": "Chu trình Krebs diễn ra trong chất nền (matrix) của ty thể — nơi chứa đủ bộ enzym của chu trình. Đường phân xảy ra ở bào tương, còn chuỗi truyền điện tử nằm trên màng trong ty thể. Nhớ sơ đồ ba tầng: bào tương → chất nền ty thể → màng trong ty thể.",
      "tip": "Ba địa chỉ: Đường phân = bào tương · Krebs = chất nền · Chuỗi e⁻ = màng trong.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-68",
@@ -1111,7 +1183,8 @@
      "explain": "Chuỗi truyền điện tử nằm trên màng trong ty thể vì cần một màng kín để bơm H⁺ ra khoảng gian màng, tạo chênh lệch nồng độ H⁺ cho ATP synthase hoạt động. Màng ngoài ty thể có nhiều lỗ porin nên không giữ được gradient; chất nền chỉ chứa enzym của Krebs.",
      "tip": "Muốn có gradient H⁺ phải có màng KÍN → màng TRONG ty thể.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-69",
@@ -1127,7 +1200,8 @@
      "explain": "Theo cách tính 1 NADH ≈ 3 ATP và 1 FADH₂ ≈ 2 ATP: 8 × 3 = 24, cộng 4 × 2 = 8, tổng cộng 32 ATP. Con số \"8 NADH và 4 FADH₂\" ứng với trường hợp 2 NADH sinh ra ở bào tương được đưa vào ty thể bằng con thoi glycerol-phosphat và chuyển thành FADH₂ — vì vậy tổng ATP của cả quá trình là 36 thay vì 38, và riêng phần hóa thẩm là 32 thay vì 34.",
      "tip": "NADH ×3, FADH₂ ×2. (8×3) + (4×2) = 24 + 8 = 32.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-70",
@@ -1143,7 +1217,8 @@
      "explain": "Đường phân xảy ra ở bào tương (tế bào chất) — đây là giai đoạn chung cho cả hô hấp hiếu khí lẫn lên men, và cũng là lý do vi khuẩn không có ty thể vẫn phân giải được glucose. Hai giai đoạn sau (Krebs và chuỗi truyền điện tử) mới cần đến ty thể.",
      "tip": "Đường phân là bước \"ngoài cửa\" ty thể — ai cũng làm được, kể cả tế bào không có ty thể.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-71",
@@ -1159,7 +1234,8 @@
      "explain": "Một phân tử glucose qua đường phân cho 2 acid pyruvic (pyruvat), kèm 2 ATP và 2 NADH. Acetyl CoA chỉ xuất hiện ở bước SAU đó (oxy hóa pyruvat trong ty thể), còn lactat là sản phẩm của lên men lactic khi thiếu oxy — cả hai đều không phải sản phẩm trực tiếp của đường phân.",
      "tip": "Đường phân dừng lại ở PYRUVAT. Acetyl CoA và lactat là chặng kế tiếp.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-72",
@@ -1175,7 +1251,8 @@
      "explain": "Pyruvat được vận chuyển vào chất nền ty thể rồi bị phức hệ pyruvat dehydrogenase khử carboxyl – oxy hóa thành acetyl CoA, đồng thời giải phóng 1 CO₂ và 1 NADH cho mỗi phân tử. Chỉ ở dạng acetyl CoA thì nó mới ghép được với oxaloacetat để vào chu trình Krebs. Lactat là ngõ cụt khi thiếu oxy; oxaloacetat là chất đón chứ không phải dạng chuyển hóa của pyruvat.",
      "tip": "Pyruvat phải \"thay áo\" thành acetyl CoA mới được vào vòng Krebs.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-73",
@@ -1191,7 +1268,8 @@
      "explain": "Một glucose (6 carbon) bị oxy hóa hoàn toàn nên toàn bộ 6 carbon đều ra đi dưới dạng CO₂. Cụ thể: 2 CO₂ ở bước oxy hóa 2 pyruvat thành acetyl CoA, cộng 4 CO₂ từ hai vòng Krebs (mỗi vòng 2 CO₂).",
      "tip": "Glucose có 6 C → thải đúng 6 CO₂. Đếm carbon là ra.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-74",
@@ -1207,7 +1285,8 @@
      "explain": "Oxy là chất nhận điện tử cuối cùng của chuỗi hô hấp: nó nhận điện tử ở phức hệ IV rồi kết hợp với H⁺ tạo thành H₂O. H₂O là SẢN PHẨM chứ không phải chất nhận; NADH và FADH₂ là chất CHO điện tử; còn pyruvat chỉ đóng vai nhận điện tử trong lên men (điều kiện thiếu oxy).",
      "tip": "Oxy đứng cuối hàng nhận điện tử → sinh ra nước. Hết oxy thì pyruvat phải nhận thay → lên men.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-75",
@@ -1223,7 +1302,8 @@
      "explain": "Câu này lặp lại ý câu 74 nhưng hỏi thẳng vào chuỗi truyền điện tử: chất nhận cuối cùng là O₂ phân tử. O₂⁻ là gốc superoxid (sản phẩm phụ gây hại), CO₂ là sản phẩm thải của Krebs, còn H⁺ chỉ được bơm qua màng để tạo gradient chứ không nhận điện tử.",
      "tip": "Câu 74 và 75 cùng một đáp án: O₂.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-76",
@@ -1239,7 +1319,8 @@
      "explain": "Vẫn là màng trong ty thể — nơi gắn bốn phức hệ protein I, II, III, IV cùng ubiquinon và cytochrom C. Lưu ý phương án D \"ty thể\" tuy không sai hoàn toàn nhưng quá chung chung; đề yêu cầu định vị chính xác nên phải chọn màng trong.",
      "tip": "Câu 68 và 76 trùng nhau: màng trong ty thể.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-77",
@@ -1255,7 +1336,8 @@
      "explain": "Lên men là phần nối tiếp trực tiếp của đường phân nên cũng xảy ra ở tế bào chất (bào tương), hoàn toàn không cần ty thể — đó là lý do vi khuẩn và nấm men lên men được, và tế bào cơ ta vẫn lên men lactic khi thiếu oxy.",
      "tip": "Đường phân ở bào tương → lên men cũng ở bào tương (cùng một chỗ, đi tiếp).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-78",
@@ -1271,7 +1353,8 @@
      "explain": "Khi thiếu oxy, chuỗi truyền điện tử tắc nên NADH không trả được điện tử cho oxy. Lúc này pyruvat đứng ra nhận hydro và điện tử TỪ NADH để tái tạo NAD⁺, giúp đường phân tiếp tục chạy — đó chính là lên men. NAD⁺ và FAD là dạng đã oxy hóa (chất nhận), còn FADH₂, FMNH₂ không tham gia khâu này.",
      "tip": "Lên men tồn tại chỉ để \"trả lại\" NAD⁺ cho đường phân chạy tiếp.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-79",
@@ -1287,7 +1370,8 @@
      "explain": "Chu trình Krebs khởi động khi acetyl CoA (2 C) ngưng tụ với oxaloacetat (4 C) nhờ enzym citrat synthase. Oxaloacetat vừa là chất mở đầu vừa là chất được tái tạo ở cuối vòng, nên chu trình mới \"khép kín\" được. Citrat, α-cetoglutarat, succinat, fumarat đều là các chất trung gian sinh ra sau đó.",
      "tip": "Acetyl CoA (2C) + Oxaloacetat (4C) = Citrat (6C). Nhớ phép cộng này là nhớ cả câu 79 và 80.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-80",
@@ -1303,7 +1387,8 @@
      "explain": "Sản phẩm đầu tiên của chu trình Krebs là citrat (acid citric) — cũng chính là lý do chu trình còn được gọi là chu trình acid citric. Sau citrat mới lần lượt đến α-cetoglutarat, succinat, fumarat, malat rồi quay về oxaloacetat.",
      "tip": "Tên gọi khác của Krebs là \"chu trình acid citric\" → chất đầu tiên phải là citrat.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-81",
@@ -1319,7 +1404,8 @@
      "explain": "Trong ATP, liên kết giữa đường ribose với gốc phosphat thứ nhất chỉ là liên kết ester bình thường; hai liên kết giữa các gốc phosphat mới là liên kết phosphoanhydrid giàu năng lượng. Liên kết tế bào thường xuyên cắt để lấy năng lượng là liên kết ngoài cùng (giữa phosphat thứ hai và thứ ba), cho ATP → ADP + Pi với ΔG° = −7,3 kcal/mol. Phương án E (\"giữa các nhóm phosphat\") đúng về bản chất nhưng quá chung, không chỉ ra được liên kết sinh năng lượng nhiều nhất và được dùng nhiều nhất.",
      "tip": "Cắt cái phosphat NGOÀI CÙNG là ra năng lượng — ATP thành ADP.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-82",
@@ -1335,7 +1421,8 @@
      "explain": "Tế bào tạo ATP theo hai cách: phosphoryl hóa mức cơ chất (gắn trực tiếp gốc phosphat từ cơ chất sang ADP — chỉ cho vài ATP) và tổng hợp hóa thẩm (dùng gradient H⁺ qua màng trong ty thể để quay ATP synthase). Hóa thẩm cho hiệu suất cao hơn hẳn: trong hô hấp hiếu khí nó tạo 32–34 ATP, trong khi phosphoryl hóa mức cơ chất chỉ góp 4 ATP. \"Phosphoryl hóa mức tế bào\" là thuật ngữ không tồn tại.",
      "tip": "Hóa thẩm cho ~34 ATP, mức cơ chất chỉ 4 ATP → hiệu quả cao là hóa thẩm.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-83",
@@ -1351,7 +1438,8 @@
      "explain": "Đó đúng là định nghĩa tổng hợp hóa thẩm (chemiosmosis): điện tử cao năng được dùng để bơm H⁺ tạo chênh lệch nồng độ hai bên màng, rồi H⁺ chảy ngược qua kênh ATP synthase sinh ra ATP — cơ chế này hoạt động ở cả ty thể lẫn lục lạp. \"Tổng hợp lý thẩm\" là tên bịa; \"phosphoryl hóa mức cơ chất\" là cơ chế khác hẳn.",
      "tip": "Hóa thẩm = H⁺ \"thẩm thấu\" qua màng quay tuabin ATP synthase. Câu 82, 83, 89 đều về nó.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-84",
@@ -1367,7 +1455,8 @@
      "explain": "Mỗi vòng Krebs tạo 1 GTP/ATP (phosphoryl hóa mức cơ chất) và nhiều chất khử (3 NADH + 1 FADH₂), nên A và B đều đúng. Riêng ý C sai một nửa: Krebs có thải CO₂ nhưng KHÔNG tạo H₂O — nước chỉ hình thành ở cuối chuỗi truyền điện tử khi oxy nhận điện tử. Vì C sai nên không chọn được D.",
      "tip": "Krebs ra CO₂; H₂O là của chuỗi truyền điện tử. Sai một chữ \"H₂O\" là loại cả phương án.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-85",
@@ -1383,7 +1472,8 @@
      "explain": "Bảng tổng kết đường phân trong slide: nguyên liệu 1 glucose + 2 NAD⁺ + 2 ADP, sản phẩm 2 pyruvat + 2 ATP + 2 NADH. Lưu ý 2 ATP ở đây là LÃI RÒNG (tạo 4 nhưng đã tiêu 2 ở giai đoạn đầu tư), và đường phân không sinh FADH₂ — FADH₂ chỉ xuất hiện trong chu trình Krebs.",
      "tip": "Đường phân: 2 – 2 – 2 (2 pyruvat, 2 ATP, 2 NADH). Không có FADH₂.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-86",
@@ -1396,10 +1486,16 @@
       "E. Chất nền ty thể, không có oxy"
      ],
      "correct": "B. Tế bào chất, không phụ thuộc oxy",
-     "explain": "Slide ghi rõ đường phân \"là giai đoạn chung, không phụ thuộc oxy, xảy ra ở bào tương\". Nó chạy được cả khi có lẫn không có oxy — chính vì vậy mới là bước mở đầu chung cho cả hô hấp hiếu khí và lên men. Nói \"có oxy\" là sai vì bó hẹp điều kiện, còn chất nền ty thể là địa chỉ của chu trình Krebs.",
+     "explain": "Slide bài 3 ghi rõ đường phân \"là giai đoạn chung, không phụ thuộc oxy, xảy ra ở bào tương\". Nó chạy được cả khi có lẫn không có oxy — chính vì vậy mới là bước mở đầu chung cho cả hô hấp hiếu khí và lên men. Nói \"có oxy\" là sai vì bó hẹp điều kiện, còn chất nền ty thể là địa chỉ của chu trình Krebs chứ không phải của đường phân.",
      "tip": "Đường phân: ở BÀO TƯƠNG, KHÔNG phụ thuộc oxy — nhớ hai vế là đủ.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": {
+      "kind": "missing",
+      "title": "Tài liệu gốc không tô đáp án câu này",
+      "body": "Đáp án dưới đây được chốt thêm: chốt theo slide bài 3 — \"Quá trình đường phân: là giai đoạn chung, không phụ thuộc oxy, xảy ra ở bào tương\".",
+      "sourceAnswer": null
+     }
     },
     {
      "id": "bai-3-87",
@@ -1411,11 +1507,17 @@
       "D. Làm cho tế bào thừa năng lượng",
       "E. Gây rối loạn dẫn truyền"
      ],
-     "correct": "B. Gây chảy máu cơ, mõi cơ",
-     "explain": "Khi cơ hoạt động mạnh mà thiếu oxy, tế bào cơ chuyển sang lên men lactic; acid lactic tích lại làm giảm pH trong cơ, gây mỏi cơ và đau cơ, kèm theo tổn thương vi mạch tại chỗ. Lưu ý: cách diễn đạt của các phương án trong đề gốc hơi khó hiểu — phương án A (\"gây đau cơ, mỏi cơ\") nghe hợp lý hơn về mặt sinh lý, nhưng đáp án được tô trong đề là B. Khi đi thi nên bám theo đáp án của đề; còn về bản chất cần nhớ: hậu quả của lên men lactic là ứ acid lactic gây mỏi cơ.",
-     "tip": "Bản chất: ứ ACID LACTIC → mỏi cơ. Riêng câu này đề chọn phương án B.",
+     "correct": "A. Gây đau cơ, mõi cơ",
+     "explain": "Khi cơ hoạt động mạnh mà thiếu oxy, tế bào cơ chuyển sang lên men lactic để tái tạo NAD⁺ cho đường phân chạy tiếp. Sản phẩm là acid lactic; nó ứ lại làm giảm pH trong cơ, gây mỏi cơ và đau cơ — đó là bất lợi duy nhất đúng trong năm phương án. \"Chảy máu cơ\" hay \"chảy máu tế bào\" không phải hậu quả của lên men; lên men cũng cho RẤT ÍT năng lượng (2 ATP/glucose) chứ không làm tế bào thừa năng lượng; còn rối loạn dẫn truyền là chuyện của hệ thần kinh.",
+     "tip": "Lên men lactic → ứ ACID LACTIC → mỏi cơ, đau cơ. Nhớ cảm giác sau khi chạy bộ gắng sức.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": {
+      "kind": "corrected",
+      "title": "Đáp án đã sửa khác với tài liệu gốc",
+      "body": "Tài liệu gốc tô đáp án **B. Gây chảy máu cơ, mõi cơ**. Bộ đề này chấm theo đáp án khác vì lên men lactic làm ứ acid lactic trong cơ, gây mỏi cơ và đau cơ. \"Chảy máu cơ\" không phải là hậu quả của lên men lactic, nên đáp án tô trong tài liệu nhiều khả năng bị đánh dấu nhầm sang cột bên cạnh.",
+      "sourceAnswer": "B. Gây chảy máu cơ, mõi cơ"
+     }
     },
     {
      "id": "bai-3-88",
@@ -1431,7 +1533,8 @@
      "explain": "Chuỗi truyền điện tử gồm bốn phức hệ protein I, II, III và IV, cộng hai chất mang điện tử di động là ubiquinon (coenzym Q) và cytochrom C. PSI, PSII là hai hệ quang hóa của QUANG HỢP ở lục lạp, không thuộc hô hấp tế bào — nên mọi phương án có PS đều sai; phương án C thiếu phức hệ IV.",
      "tip": "Hô hấp: 4 phức hệ + Q + cyt C. Thấy \"PS\" (photosystem) là quang hợp, loại ngay.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-3-89",
@@ -1447,7 +1550,8 @@
      "explain": "NADH và FADH₂ nhường điện tử cho chuỗi truyền điện tử; năng lượng của dòng điện tử được dùng để bơm H⁺ qua màng trong ty thể, tạo gradient, rồi H⁺ chảy ngược qua ATP synthase sinh ATP. Toàn bộ cơ chế đó gọi là phương thức hóa thẩm. \"Phosphoryl hóa\" là tên của phản ứng gắn phosphat nói chung, chưa mô tả cơ chế qua màng.",
      "tip": "NADH/FADH₂ + chuỗi điện tử + gradient H⁺ = HÓA THẨM.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     }
    ]
   },
@@ -1472,7 +1576,8 @@
      "explain": "Thang cấu trúc siêu hiển vi của NST nhân thực: DNA xoắn kép 2 nm → sợi cơ bản (chuỗi nucleosom) 11 nm → sợi nhiễm sắc 30 nm → vùng xếp cuộn 300 nm → chromatid 700 nm → NST kỳ giữa 1400 nm. Sợi cơ bản là mức DNA đã quấn quanh các khối histon tạo chuỗi hạt, đường kính 11 nm.",
      "tip": "Dãy số phải thuộc: 2 – 11 – 30 – 300 – 700 – 1400 (nm).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-91",
@@ -1488,7 +1593,8 @@
      "explain": "Ở cấp độ PHÂN TỬ, vật chất di truyền là DNA (acid deoxyribonucleic) — nơi trình tự nucleotid mã hóa toàn bộ thông tin di truyền. Nhiễm sắc thể là vật chất di truyền ở cấp độ TẾ BÀO (xem câu 112), còn protein và acid amin là sản phẩm biểu hiện của gen chứ không phải vật chất di truyền.",
      "tip": "Phân tử → DNA. Tế bào → NST. Hai câu 91 và 112 là một cặp.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-92",
@@ -1504,7 +1610,8 @@
      "explain": "ATP = Adenosin TriPhosphat: adenin gắn với đường ribose tạo thành adenosin, rồi adenosin mang ba gốc phosphat. Lưu ý đề gốc in trùng hai phương án A và C (\"Adenin TriPhosphat\"); dù vậy cả hai đều sai vì thiếu phần đường ribose trong tên gọi.",
      "tip": "Adenin + ribose = adenoSIN. Thiếu chữ \"sin\" là thiếu đường.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-93",
@@ -1520,7 +1627,8 @@
      "explain": "Base nitơ + đường pentose (ribose hoặc deoxyribose) = nucleosid. Chỉ khi gắn thêm gốc phosphat mới thành nucleotid — đơn phân của acid nucleic. Nói cách khác: nucleotid = nucleosid + phosphat.",
      "tip": "Nucleosid = base + đường (chưa có phosphat). Thêm P mới thành nucleoTID.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-94",
@@ -1536,7 +1644,8 @@
      "explain": "DNA dùng bốn base A, T, G, C; RNA dùng A, U, G, C. Ba base chung cho cả hai là adenin, guanin và cytosin. Thymin chỉ có ở DNA, còn uracil chỉ có ở RNA — hễ phương án nào chứa T hoặc U thì đã không còn là \"chung cho cả hai\".",
      "tip": "Chung = A, G, C. Khác nhau đúng một cặp: T (DNA) ⇄ U (RNA).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-95",
@@ -1552,7 +1661,8 @@
      "explain": "Purin có nhân đôi vòng, gồm adenin và guanin. Pyrimidin có nhân một vòng, gồm cytosin, thymin và uracil. Trong DNA, một purin luôn bắt cặp với một pyrimidin (A–T, G–C) nên đường kính chuỗi xoắn kép mới đều 2 nm.",
      "tip": "Purin = A, G (\"Ai Giàu\" — hai chữ, hai vòng). Còn lại ba base là pyrimidin.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-96",
@@ -1568,7 +1678,8 @@
      "explain": "Pyrimidin là các base nhân một vòng: uracil, thymin và cytosin. Adenin và guanin thuộc nhóm purin (hai vòng), nên mọi phương án có A hoặc G đều bị loại.",
      "tip": "Pyrimidin = U, T, C — nhớ \"CUT\" (Cytosin, Uracil, Thymin).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-97",
@@ -1584,7 +1695,8 @@
      "explain": "Theo mô hình Watson – Crick: chuỗi xoắn kép DNA có đường kính trong 2 nm, mỗi cặp base cách nhau 0,34 nm, mỗi vòng xoắn gồm 10 cặp base và dài 3,4 nm. Đường kính luôn không đổi vì mỗi cặp base đều là một purin ghép với một pyrimidin.",
      "tip": "Bộ ba số của DNA: 0,34 nm – 3,4 nm – 2 nm (một cặp base – một vòng xoắn – đường kính).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-98",
@@ -1600,7 +1712,8 @@
      "explain": "Một vòng xoắn của DNA gồm 10 cặp base, mỗi cặp cách nhau 0,34 nm nên chiều dài vòng xoắn = 10 × 0,34 = 3,4 nm. Lưu ý các bẫy đơn vị: 34 nm hay 0,34 µm đều lệch đúng 10 lần hoặc 100 lần.",
      "tip": "0,34 nm × 10 cặp = 3,4 nm. Nhầm dấu phẩy là mất điểm.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-99",
@@ -1616,7 +1729,8 @@
      "explain": "Cặp A–T có 2 liên kết hydro, cặp G–C có 3 liên kết. Mất 3 cặp nucleotid thì tùy thành phần: 3 cặp A–T mất 6 liên kết; 2 A–T + 1 G–C mất 7; 1 A–T + 2 G–C mất 8; 3 cặp G–C mất 9. Vì không biết đoạn mất gồm những cặp nào nên đáp án phải liệt kê đủ bốn khả năng 6, 7, 8, 9.",
      "tip": "A–T = 2 H, G–C = 3 H. Mất 3 cặp → mất từ 3×2 = 6 đến 3×3 = 9, đủ mọi giá trị ở giữa.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-100",
@@ -1632,7 +1746,8 @@
      "explain": "AUG vừa là bộ ba mở đầu dịch mã, vừa mã hóa acid amin methionin — nên mọi chuỗi polypeptid mới tổng hợp đều bắt đầu bằng methionin (ở vi khuẩn là formyl-methionin). UAA, UAG, UGA là ba bộ ba kết thúc; UGG mã hóa tryptophan.",
      "tip": "AUG = \"Ấn Út Go\" — nút khởi động, và luôn là methionin.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-101",
@@ -1648,7 +1763,8 @@
      "explain": "Có đúng ba bộ ba kết thúc: UAA, UAG và UGA. Chúng không mã hóa acid amin nào; khi ribosom gặp chúng, yếu tố giải phóng sẽ cắt chuỗi polypeptid ra khỏi tRNA và kết thúc dịch mã.",
      "tip": "Ba mã kết thúc: UAA – UAG – UGA. Mẹo: đều bắt đầu bằng U, và không có A ở cuối cùng nào là bộ ba mã hóa.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-102",
@@ -1664,7 +1780,8 @@
      "explain": "RNA polymerase luôn kéo dài chuỗi RNA theo chiều 5' → 3', nghĩa là nó phải đọc mạch khuôn DNA theo chiều ngược lại, tức 3' → 5'. Mạch khuôn ở đây là DNA chứ không phải RNA, vì đây là phiên mã.",
      "tip": "Tổng hợp luôn 5'→3'; vì vậy đọc khuôn luôn 3'→5'. Phiên mã: khuôn là DNA.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-103",
@@ -1680,7 +1797,8 @@
      "explain": "mRNA được sao chép từ mạch khuôn DNA trong nhân rồi mang thông tin đó ra bào tương — slide ghi chức năng của nó là \"mang thông tin di truyền từ trong nhân ra ngoài để tổng hợp protein\", tức chức năng truyền thông tin. Việc sinh tổng hợp protein là của ribosom, vận chuyển acid amin là của tRNA, cấu tạo ribosom là của rRNA.",
      "tip": "m = messenger = người đưa tin. Ba câu 103, 118, 119 chia nhau ba loại RNA.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-104",
@@ -1696,7 +1814,8 @@
      "explain": "DNA polymerase là enzym chính của tái bản: nó gắn các nucleotid vào đầu 3'-OH để tổng hợp cả mạch liên tục lẫn mạch gián đoạn (các đoạn Okazaki) tại chạc tái bản. Helicase chỉ tháo xoắn, topoisomerase gỡ xoắn căng phía trước, ligase nối các đoạn Okazaki lại, còn RNA polymerase dùng cho phiên mã (và tạo đoạn mồi).",
      "tip": "Helicase mở khóa – polymerase xây – ligase hàn. Người \"xây\" là polymerase.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-105",
@@ -1712,7 +1831,8 @@
      "explain": "Slide trình bày cơ chế tái bản DNA theo Okazaki gồm ĐÚNG BA giai đoạn: duỗi xoắn, kéo dài và kết thúc. \"Giai đoạn khởi đầu\" không nằm trong cách chia này (việc nhận biết điểm ori đã được xếp vào phần duỗi xoắn), nên phương án A bị loại và đáp án là B, C, D.",
      "tip": "Ba giai đoạn theo slide: DUỖI XOẮN – KÉO DÀI – KẾT THÚC. Không có \"khởi đầu\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-106",
@@ -1728,7 +1848,8 @@
      "explain": "Theo slide, cấu trúc bậc 4 là protein gồm NHIỀU HƠN MỘT chuỗi polypeptid, được bình ổn bằng liên kết hydro, ion, disulfide và tương tác kỵ nước. Vì đề nhắc tới \"nhiều chuỗi polypeptid\" và \"vị trí của liên kết disulfide\" nên phải chọn bậc IV. Lưu ý: nếu đề chỉ nói \"thứ tự sắp xếp acid amin trong MỘT chuỗi\" thì đó mới là cấu trúc bậc I.",
      "tip": "Nghe thấy NHIỀU CHUỖI polypeptid là nghĩ ngay bậc IV (vd hemoglobin 4 chuỗi).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-107",
@@ -1744,7 +1865,8 @@
      "explain": "Sợi nhiễm sắc có đường kính 30 nm — đó là mức sợi cơ bản 11 nm xoắn tiếp lên một bậc nữa. 2 nm là DNA trần, 11 nm là sợi cơ bản, 300 nm là vùng xếp cuộn, 700 nm là chromatid.",
      "tip": "Nhớ thang 2 – 11 – 30 – 300 – 700. \"Sợi nhiễm sắc\" nằm ở nấc 30.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-108",
@@ -1760,7 +1882,8 @@
      "explain": "Sợi cơ bản (chuỗi nucleosom) có đường kính 11 nm: DNA 2 nm quấn quanh các khối 8 histon tạo thành chuỗi \"hạt trên dây\". Đây là câu lặp lại của câu 90.",
      "tip": "Câu 90 và 108 giống hệt nhau: 11 nm.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-109",
@@ -1776,7 +1899,8 @@
      "explain": "Thoi phân bào (thoi vô sắc) được hình thành từ trung thể: hai trung thể tách về hai cực, tổ chức các vi ống tỏa ra tạo thành thoi để kéo nhiễm sắc thể. Dây sao cũng là sản phẩm của trung thể, còn khung xương tế bào là hệ sợi chung chứ không chuyên trách phân bào.",
      "tip": "Trung thể là \"nhà máy\" dựng thoi vô sắc (xem lại câu 28, 34 của bài 2).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-110",
@@ -1792,7 +1916,8 @@
      "explain": "Mức xoắn có đường kính 30 nm chính là sợi nhiễm sắc. Sợi DNA là 2 nm, sợi cơ bản 11 nm, vùng xếp cuộn (sợi siêu xoắn) 300 nm, chromatid 700 nm. Đây là câu hỏi ngược của câu 107.",
      "tip": "Câu 107 hỏi \"sợi nhiễm sắc bao nhiêu nm?\", câu 110 hỏi \"30 nm là sợi gì?\" — cùng một cặp.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-111",
@@ -1804,11 +1929,17 @@
       "D. Chromatid",
       "E. Nucleosom"
      ],
-     "correct": "A. Nucleotid",
-     "explain": "Đề chọn nucleotid: xét về mặt hóa học, NST được cấu tạo từ DNA mà DNA là chuỗi các nucleotid, nên nucleotid là đơn vị cơ bản nhất. Cần phân biệt với nucleosom — đó là đơn vị CẤU TRÚC (DNA quấn quanh 8 histon) của NST, nhiều tài liệu khác lại lấy nucleosom làm đáp án cho cách hỏi tương tự. Khi gặp câu này theo đề của lớp, chọn nucleotid.",
-     "tip": "Đơn vị HÓA HỌC = nucleotid; đơn vị CẤU TRÚC = nucleosom. Đề này hỏi \"cơ bản\" → nucleotid.",
+     "correct": "E. Nucleosom",
+     "explain": "Nucleosom là đơn vị cấu trúc cơ bản của nhiễm sắc thể ở tế bào nhân chuẩn: mỗi nucleosom gồm khoảng 146 cặp base DNA quấn 7/4 vòng quanh lõi 8 phân tử histon, các nucleosom nối nhau tạo sợi cơ bản 11 nm rồi mới xoắn tiếp lên các mức cao hơn. Chú ý chữ \"ở tế bào nhân chuẩn\" trong đề — đó là dấu hiệu nhận ra đáp án: nucleotid là đơn vị cấu tạo của mọi phân tử DNA, kể cả DNA vòng trần của vi khuẩn, nên nó không phải điểm riêng của nhiễm sắc thể nhân chuẩn. Nucleosid thì còn thiếu gốc phosphat, còn chromatid là cả một nửa nhiễm sắc thể kép chứ không phải đơn vị cơ bản.",
+     "tip": "Đơn vị cấu tạo DNA = nucleotid; đơn vị cấu tạo NST nhân chuẩn = NUCLEOSOM (DNA + 8 histon).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": {
+      "kind": "corrected",
+      "title": "Đáp án đã sửa khác với tài liệu gốc",
+      "body": "Tài liệu gốc tô đáp án **A. Nucleotid**. Bộ đề này chấm theo đáp án khác vì đơn vị cấu trúc cơ bản của nhiễm sắc thể là nucleosom (đoạn DNA quấn 7/4 vòng quanh 8 phân tử histon). Chữ \"ở tế bào nhân chuẩn\" trong đề chính là dấu hiệu: nucleotid là đơn vị của mọi phân tử DNA kể cả vi khuẩn, chỉ nucleosom mới là đặc trưng riêng của nhiễm sắc thể nhân chuẩn.",
+      "sourceAnswer": "A. Nucleotid"
+     }
     },
     {
      "id": "bai-4-112",
@@ -1824,7 +1955,8 @@
      "explain": "Ở cấp độ TẾ BÀO, vật chất di truyền là nhiễm sắc thể — hình thái mà DNA mang lấy để phân chia đều về các tế bào con. DNA là câu trả lời cho cấp độ phân tử (câu 91), còn protein và acid amin chỉ là sản phẩm của gen.",
      "tip": "Nhìn bằng kính hiển vi thấy NST → đó là cấp tế bào. Nhìn bằng trình tự thấy DNA → cấp phân tử.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-113",
@@ -1840,7 +1972,8 @@
      "explain": "Mã di truyền (bộ ba mã hóa, codon) nằm trên DNA dưới dạng trình tự gốc và được sao sang mRNA để ribosom đọc. tRNA mang bộ ba ĐỐI MÃ (anticodon) — bổ sung với codon chứ không phải bản thân mã; rRNA chỉ tham gia cấu tạo ribosom.",
      "tip": "Mã (codon): DNA và mRNA. Đối mã (anticodon): tRNA.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-114",
@@ -1856,7 +1989,8 @@
      "explain": "tRNA có hình lá chẻ ba: một đầu gắn acid amin, thùy đối diện mang bộ ba đối mã để bắt cặp bổ sung với codon trên mRNA. Nhờ vậy đúng acid amin được đưa tới đúng vị trí trong chuỗi polypeptid.",
      "tip": "tRNA một tay cầm acid amin, một tay cầm ĐỐI MÃ để \"soi\" vào mRNA.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-115",
@@ -1872,7 +2006,8 @@
      "explain": "Cả ba chức năng nêu ra — lưu trữ, bảo quản thông tin di truyền và điều hòa hoạt động gen — đều ĐÚNG là chức năng của nhiễm sắc thể. Vì câu hỏi tìm chức năng KHÔNG CÓ, mà không phương án nào trong A, B, C sai, nên đáp án phải là \"A, B và C sai\" (hiểu theo nghĩa: ba phương án đó đều không phải là điều cần tìm).",
      "tip": "Câu phủ định + cả ba ý đều đúng → chọn \"A, B và C sai\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-116",
@@ -1888,7 +2023,8 @@
      "explain": "Một nucleotid gồm ba phần: base nitơ + đường pentose + acid phosphoric (H₃PO₄). Đường là deoxyribose nếu ở DNA, là ribose nếu ở RNA — nên cả B và C đều đúng. Phương án A sai vì dùng H₂SO₄ (acid sulfuric) thay cho H₃PO₄; do A sai nên không chọn được D.",
      "tip": "Phosphat là H₃PO₄, không bao giờ là H₂SO₄. Đường thì cả ribose lẫn deoxyribose đều hợp lệ.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-117",
@@ -1904,7 +2040,8 @@
      "explain": "Ở cơ chế kết thúc phiên mã không phụ thuộc rho, RNA polymerase gặp một đoạn trình tự lặp đảo (trình tự bổ sung với chính nó) nên RNA mới tự bắt cặp tạo cấu trúc kẹp tóc, ngay sau đó là một đoạn poly-U bám yếu với khuôn — hai yếu tố này cùng làm RNA tách ra và ngừng tổng hợp. Vậy cả C và D đều cần, nên chọn E. Intron và exon chỉ liên quan đến cắt nối RNA sau phiên mã.",
      "tip": "Dừng phiên mã = kẹp tóc (trình tự bổ sung) + đuôi poly-U. Phải đủ cả hai.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-118",
@@ -1920,7 +2057,8 @@
      "explain": "tRNA (RNA vận chuyển) có nhiệm vụ mang acid amin đã được hoạt hóa tới ribosom và đặt đúng vị trí nhờ bộ ba đối mã. Việc xúc tác tạo liên kết peptid là của rRNA trong tiểu đơn vị lớn; truyền thông tin là của mRNA.",
      "tip": "t = transfer = vận chuyển acid amin.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-119",
@@ -1936,7 +2074,8 @@
      "explain": "rRNA kết hợp với protein tạo nên hai tiểu đơn vị của ribosom, đồng thời chính rRNA của tiểu đơn vị lớn mang hoạt tính peptidyl transferase. Trong đề, đáp án được chọn là \"cấu tạo nên ribosom\" — chức năng đặc trưng nhất. Lưu ý đề gốc in trùng hai phương án A và D (\"vận chuyển acid amin\"), cả hai đều là việc của tRNA.",
      "tip": "r = ribosomal = thành phần cấu tạo ribosom.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-120",
@@ -1952,7 +2091,8 @@
      "explain": "Dịch mã dùng mRNA làm khuôn; ribosom trượt trên mRNA theo chiều 5' → 3', bắt đầu từ codon AUG. Khuôn ở đây là RNA (không phải DNA — đó là phiên mã), và chiều đọc là 5' → 3'. So sánh với câu 102: phiên mã đọc khuôn DNA theo chiều 3' → 5'.",
      "tip": "Phiên mã: khuôn DNA 3'→5'. Dịch mã: khuôn mRNA 5'→3'. Nhớ cặp câu 102 – 120.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-121",
@@ -1968,7 +2108,8 @@
      "explain": "Nguyên phân có bốn kỳ: đầu, giữa, sau, cuối. NST đã nhân đôi từ pha S nên ở kỳ đầu và kỳ giữa nó tồn tại ở trạng thái kép (hai chromatid dính nhau ở tâm động). Sang kỳ sau, tâm động tách ra, hai chromatid đi về hai cực nên NST trở thành đơn. Phương án D tuy có vẻ đầy đủ hơn nhưng \"cuối kỳ trung gian\" không thuộc nguyên phân.",
      "tip": "Kép ở ĐẦU – GIỮA; tách thành đơn từ kỳ SAU.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-122",
@@ -1984,7 +2125,8 @@
      "explain": "NST của tế bào nhân chuẩn cấu tạo từ DNA kết hợp với protein — chủ yếu là histon (tạo lõi nucleosom) cùng các protein phi histon. Phương án D mô tả chi tiết hơn nhưng đáp án được chọn trong đề là A (cách diễn đạt khái quát). DNA vòng là của vi khuẩn, còn RNA hay protein đơn thuần đều không phải thành phần của NST.",
      "tip": "NST nhân thực = DNA + protein (histon). DNA vòng trần = vi khuẩn.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-123",
@@ -2000,7 +2142,8 @@
      "explain": "AUG nằm trên mRNA và đánh dấu điểm mở đầu của quá trình DỊCH MÃ (không phải phiên mã), đồng thời mã hóa methionin. Ba bộ ba kết thúc dịch mã là UAA, UAG, UGA — khác hẳn AUG; còn kết thúc phiên mã lại do cấu trúc kẹp tóc và đoạn poly-U quyết định chứ không do bộ ba nào.",
      "tip": "AUG là nút START của DỊCH MÃ. Đừng lẫn phiên mã với dịch mã.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-124",
@@ -2016,7 +2159,8 @@
      "explain": "Mỗi nucleosom gồm lõi 8 phân tử histon (hai bản sao của H2A, H2B, H3, H4) với đoạn DNA khoảng 146 cặp base quấn quanh 1¾ vòng — tức 7/4 vòng. Các nucleosom nối nhau bằng DNA liên kết tạo chuỗi \"hạt trên dây\" đường kính 11 nm.",
      "tip": "7/4 vòng quanh 8 histon — nhớ \"bảy phần tư, tám histon\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-125",
@@ -2032,7 +2176,8 @@
      "explain": "Nucleotid = nucleosid + phosphat. Khi thủy phân nucleotid KHÔNG hoàn toàn, ta mới cắt được gốc phosphat và thu lấy nucleosid. Nếu thủy phân hoàn toàn thì nucleosid cũng vỡ tiếp thành base nitơ và đường. Còn thủy phân acid nucleic ở mức không hoàn toàn thì sản phẩm là nucleotid chứ chưa phải nucleosid.",
      "tip": "Acid nucleic → (cắt) nucleotid → (cắt tiếp) nucleosid → (cắt nữa) base + đường.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-4-126",
@@ -2045,10 +2190,16 @@
       "E. Những hợp chất đơn phân tử, tham gia vào các quá trình phức tạp của tế bào"
      ],
      "correct": "B. Những hợp chất cao phân tử, tham gia vào các quá trình cơ bản của sự sống",
-     "explain": "Acid nucleic (DNA và RNA) là những hợp chất CAO phân tử — polymer của hàng nghìn tới hàng triệu nucleotid — nên ba phương án nói \"đơn phân tử\" đều sai ngay. Chúng tham gia các quá trình CƠ BẢN nhất của sự sống: lưu giữ, bảo quản, truyền đạt thông tin di truyền và sinh tổng hợp protein. Lưu ý: câu này không được tô đáp án trong đề gốc; đáp án B được chốt theo cách diễn đạt chuẩn của giáo trình, phương án A chỉ khác đúng một từ (\"phức tạp\") — xem data/review_needed.md.",
-     "tip": "Acid nucleic là POLYMER (cao phân tử) → loại ngay mọi phương án \"đơn phân tử\".",
+     "explain": "Acid nucleic (DNA và RNA) là những hợp chất CAO phân tử — polymer của hàng nghìn tới hàng triệu nucleotid — nên ba phương án nói \"đơn phân tử\" đều sai ngay. Chúng tham gia các quá trình cơ bản nhất của sự sống: lưu giữ, bảo quản, truyền đạt thông tin di truyền và sinh tổng hợp protein. Phương án A chỉ khác đáp án đúng một từ (\"phức tạp\" thay vì \"cơ bản\").",
+     "tip": "Acid nucleic là POLYMER (cao phân tử) → loại ngay mọi phương án \"đơn phân tử\", rồi mới cân nhắc A với B.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": {
+      "kind": "missing",
+      "title": "Tài liệu gốc không tô đáp án câu này",
+      "body": "Đáp án dưới đây được chốt thêm: chắc chắn loại được C, D, E vì acid nucleic là polymer (\"cao phân tử\"). Giữa A và B chỉ khác một từ; chọn B theo cách diễn đạt chuẩn của giáo trình (\"tham gia các quá trình cơ bản của sự sống\"). Đây là câu còn độ chắc chắn thấp nhất trong bộ đề.",
+      "sourceAnswer": null
+     }
     }
    ]
   },
@@ -2073,7 +2224,8 @@
      "explain": "Tâm động là eo thắt sơ cấp của nhiễm sắc thể, nơi gắn thể động (kinetochore) để các sợi thoi phân bào bám vào và kéo nhiễm sắc thể về hai cực. Cánh ngắn, cánh dài chỉ là hai phần của nhiễm sắc thể do tâm động chia ra; eo thứ cấp liên quan đến hạch nhân; đầu mút (telomere) bảo vệ hai đầu nhiễm sắc thể khỏi bị cắt ngắn.",
      "tip": "Thoi phân bào chỉ bám được vào TÂM ĐỘNG — như sợi dây buộc vào đúng một điểm.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-5-128",
@@ -2089,7 +2241,8 @@
      "explain": "Ở kỳ sau giảm phân I, tâm động KHÔNG phân chia; hai nhiễm sắc thể kép của mỗi cặp tương đồng bị kéo nguyên vẹn về hai cực — đó chính là bước làm giảm số lượng nhiễm sắc thể từ 2n xuống n. Phải sang kỳ sau giảm phân II thì tâm động mới tách để hai nhiễm sắc tử rời nhau.",
      "tip": "Sau I: tách CẶP tương đồng (NST vẫn kép). Sau II: tách hai CHROMATID.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-5-129",
@@ -2105,7 +2258,8 @@
      "explain": "Kỳ trung gian chiếm khoảng 95% thời gian chu kỳ tế bào và gồm đủ ba pha: G1 (ribosom và các bào quan bắt đầu nhân đôi, tế bào lớn lên), S (DNA nhân đôi) và G2 (tổng hợp các chất cần cho phân chia nhân). Vì cả ba đều đúng nên chọn D.",
      "tip": "G1 – S – G2: Lớn lên → Sao chép DNA → Chuẩn bị phân chia.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-5-130",
@@ -2121,7 +2275,8 @@
      "explain": "Nhiễm sắc thể bắt đầu co xoắn từ kỳ đầu và đạt mức đóng xoắn cực đại ở kỳ giữa, khi chúng xếp thành hàng trên mặt phẳng xích đạo — đây cũng là lúc quan sát hình thái nhiễm sắc thể rõ nhất, nên người ta lập bộ nhiễm sắc thể đồ (karyotype) ở kỳ giữa. Sang kỳ sau và kỳ cuối, nhiễm sắc thể bắt đầu duỗi xoắn trở lại.",
      "tip": "Muốn chụp ảnh NST thì chụp ở KỲ GIỮA — lúc nó \"gọn\" nhất.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-5-131",
@@ -2137,7 +2292,8 @@
      "explain": "Nguyên phân (phân bào nguyên nhiễm) gồm một lần phân chia, tạo ra từ một tế bào lưỡng bội 2n hai tế bào con cũng 2n, giống hệt nhau và giống hệt tế bào mẹ về mặt di truyền. Giảm phân thì ngược lại — giảm số nhiễm sắc thể một nửa và tạo biến dị; còn kỳ trung gian, kỳ sau chỉ là các giai đoạn, không phải một kiểu phân bào.",
      "tip": "NGUYÊN phân = giữ NGUYÊN bộ NST (2n → 2n).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-5-132",
@@ -2153,7 +2309,8 @@
      "explain": "Giảm phân (phân bào giảm nhiễm) gồm hai lần phân chia liên tiếp mà chỉ nhân đôi DNA một lần, nên một tế bào 2n cho ra bốn tế bào đơn bội n — cơ sở để tạo giao tử. Lần phân chia I làm giảm số lượng nhiễm sắc thể, lần II phân ly các nhiễm sắc tử; giữa hai lần không có kỳ trung gian.",
      "tip": "GIẢM phân = GIẢM một nửa (2n → n), 1 lần nhân đôi nhưng 2 lần chia.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-5-133",
@@ -2169,7 +2326,8 @@
      "explain": "Kỳ trước (kỳ đầu) là lúc sợi DNA và protein co đặc lại thành nhiễm sắc thể nhìn thấy được, màng nhân bắt đầu bị bẻ gãy và thoi vô sắc hình thành. Ở kỳ trung gian nhiễm sắc thể còn ở dạng sợi mảnh; sang kỳ giữa nó đã co ngắn tối đa chứ không còn \"bắt đầu\" nữa.",
      "tip": "BẮT ĐẦU co ngắn → kỳ ĐẦU. CO NGẮN NHẤT → kỳ giữa.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-5-134",
@@ -2185,7 +2343,8 @@
      "explain": "Dấu hiệu \"các nhiễm sắc thể nằm trên mặt phẳng xích đạo của thoi phân bào\" luôn là đặc trưng của kỳ giữa — ở đây là kỳ giữa II. Khác với kỳ giữa I (xếp thành hai hàng, từng cặp tương đồng), kỳ giữa II chỉ còn các nhiễm sắc thể kép đơn lẻ xếp thành một hàng vì không còn cặp tương đồng.",
      "tip": "Thấy chữ \"xích đạo\" là nghĩ ngay KỲ GIỮA.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     }
    ]
   },
@@ -2210,7 +2369,8 @@
      "explain": "Kỳ trước I (kỳ đầu giảm phân I) là lúc các nhiễm sắc thể tương đồng bắt cặp tạo thể lưỡng trị và xảy ra trao đổi chéo tại các thể vắt chéo — nguồn gốc của hoán vị gen. Cộng với sự phân li độc lập, tổ hợp tự do của các cặp nhiễm sắc thể ở kỳ sau I, đây chính là giai đoạn tạo nên tính đa dạng của giao tử. Kỳ trước II không còn cặp tương đồng nên không có tiếp hợp hay trao đổi chéo.",
      "tip": "Trao đổi chéo chỉ xảy ra ở KỲ ĐẦU I — nơi duy nhất các NST tương đồng còn bắt cặp.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-136",
@@ -2226,7 +2386,8 @@
      "explain": "Lai phân tích là phép lai giữa cá thể mang tính trạng trội cần xác định kiểu gen với cá thể mang tính trạng lặn. Mendel dùng nó để kiểm chứng giả thuyết phân li: nếu F1 đem lai phân tích cho tỉ lệ 1:1 thì chứng tỏ F1 dị hợp và đã tạo ra hai loại giao tử ngang nhau — đúng như giả thuyết. Tự thụ phấn chỉ cho tỉ lệ 3:1 nên không tách bạch được điều này.",
      "tip": "Muốn \"soi\" kiểu gen của cá thể trội → lai với cá thể LẶN (lai phân tích).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-137",
@@ -2242,7 +2403,8 @@
      "explain": "Trội hoàn toàn nghĩa là alen trội át hẳn alen lặn, nên AA và Aa biểu hiện kiểu hình giống nhau (đều là tính trạng trội) — đó cũng là lý do F2 cho tỉ lệ kiểu hình 3:1 trong khi tỉ lệ kiểu gen là 1:2:1. Nếu trội không hoàn toàn thì Aa có kiểu hình trung gian (hoa hồng), tỉ lệ kiểu hình F2 thành 1:2:1.",
      "tip": "Trội HOÀN TOÀN → AA và Aa giống nhau → kiểu hình 3:1. Câu 137 và 139 giống hệt nhau.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-138",
@@ -2258,7 +2420,8 @@
      "explain": "Theo định luật đồng tính của Mendel, khi lai hai bố mẹ thuần chủng khác nhau về một cặp tính trạng tương phản thì F1 đồng loạt biểu hiện một tính trạng — tính trạng đó được gọi là tính trạng trội; tính trạng còn lại bị lấn át gọi là tính trạng lặn. \"Trội hoàn toàn\" là tên kiểu di truyền chứ không phải tên gọi của tính trạng.",
      "tip": "Cái gì xuất hiện ở F1 thì gọi là TRỘI; cái tạm biến mất là LẶN (sẽ trở lại ở F2).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-139",
@@ -2274,7 +2437,8 @@
      "explain": "Câu lặp lại của câu 137: chỉ trong trường hợp trội hoàn toàn thì thể đồng hợp trội AA và thể dị hợp Aa mới cho cùng một kiểu hình. Trội không hoàn toàn cho Aa kiểu hình trung gian, đồng trội cho Aa biểu hiện đồng thời cả hai alen (như nhóm máu AB), còn tương tác gen nói về các gen không alen.",
      "tip": "Chỉ TRỘI HOÀN TOÀN mới làm AA và Aa \"nhìn giống nhau\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-140",
@@ -2290,7 +2454,8 @@
      "explain": "Số loại giao tử = 2 lũy thừa số cặp gen dị hợp. AaBb có 2 cặp dị hợp nên tạo 2² = 4 loại giao tử: AB, Ab, aB, ab — mỗi loại chiếm 25%. Nếu có cặp đồng hợp (như AABb) thì cặp đó chỉ cho một loại giao tử nên không nhân thêm.",
      "tip": "Đếm số cặp DỊ HỢP (n) rồi lấy 2ⁿ. AaBb: n = 2 → 4 giao tử.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-141",
@@ -2306,7 +2471,8 @@
      "explain": "Số tổ hợp giao tử ở đời con = (số loại giao tử của bố) × (số loại giao tử của mẹ). Tính thử: A. aaBb(2) × Aabb(2) = 4; B. AaBb(4) × aabb(1) = 4; C. AaBb(4) × AABb(2) = 8; D. Aabb(2) × AaBB(2) = 4; E. AABB(1) × AaBb(4) = 4. Phép lai C cho 8 tổ hợp — nhiều nhất.",
      "tip": "Nhân số giao tử hai bên; bên nào càng nhiều cặp dị hợp thì càng \"lãi\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-142",
@@ -2322,7 +2488,8 @@
      "explain": "Xét từng cặp: AA × aa luôn cho Aa (100%); Bb × BB cho 1/2 BB và 1/2 Bb; Cc × Cc cho 1/4 CC, 1/2 Cc, 1/4 cc. Kiểu gen có xác suất cao nhất là AaBbCc = 1 × 1/2 × 1/2 = 1/4, cao hơn AaBBCc (1/4 nhưng bằng), AaBBCC (1/8), còn AAbbCc và AABBCc thì bằng 0 vì bố mẹ không thể cho alen A thứ hai hay alen b.",
      "tip": "Loại ngay những kiểu gen KHÔNG THỂ có (AA hay bb ở đây), rồi mới so xác suất.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-143",
@@ -2338,7 +2505,8 @@
      "explain": "Cơ thể dị hợp n cặp gen tự thụ cho 3ⁿ kiểu gen và 2ⁿ kiểu hình (khi trội hoàn toàn). AaBbDd có n = 3 nên: 3³ = 27 kiểu gen và 2³ = 8 kiểu hình. Có thể kiểm tra từng cặp: Aa × Aa cho 3 kiểu gen và 2 kiểu hình, nhân chéo ba cặp lại là ra.",
      "tip": "Công thức vàng: n cặp dị hợp tự thụ → 3ⁿ kiểu gen, 2ⁿ kiểu hình.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-144",
@@ -2354,7 +2522,8 @@
      "explain": "Với các gen nằm trong nhân và phân li độc lập, kết quả không phụ thuộc vai trò bố hay mẹ nên lai thuận và lai nghịch cho kết quả giống nhau. Ngược lại, di truyền ngoài nhân (gen tế bào chất) luôn theo dòng mẹ, và di truyền liên kết giới tính phụ thuộc vào việc gen nằm trên X của bố hay của mẹ — hai trường hợp này mới cho kết quả khác nhau.",
      "tip": "Khác nhau giữa lai thuận – nghịch là dấu hiệu của gen NGOÀI NHÂN hoặc gen trên NST GIỚI TÍNH.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-145",
@@ -2370,7 +2539,8 @@
      "explain": "Con có nhóm máu AB mang kiểu gen IᴬIᴮ, nhận một alen từ mẹ và một alen từ bố. Mẹ nhóm AB (IᴬIᴮ) có thể cho Iᴬ hoặc Iᴮ, nên bố phải cho alen còn lại — tức bố phải mang ít nhất một trong hai alen Iᴬ hoặc Iᴮ. Người nhóm O có kiểu gen IᴼIᴼ, chỉ cho được alen Iᴼ, nên chắc chắn không thể là bố. Nhóm Rh là hệ nhóm máu khác, không liên quan.",
      "tip": "Bố nhóm O chỉ cho được Iᴼ → không bao giờ sinh được con nhóm AB.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-146",
@@ -2386,7 +2556,8 @@
      "explain": "Phép lai AaBbCcDd × AaBbCcDd, xét riêng từng cặp rồi nhân: A- = 3/4, bb = 1/4, C- = 3/4, D- = 3/4. Vậy A-bbC-D- = 3/4 × 1/4 × 3/4 × 3/4 = 27/256.",
      "tip": "Dị hợp × dị hợp: kiểu hình trội = 3/4, kiểu hình lặn = 1/4. Cứ nhân các phân số lại.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-147",
@@ -2402,7 +2573,8 @@
      "explain": "Slide nêu ba kiểu tương tác gen (tác động qua lại giữa các gen KHÔNG alen để hình thành một kiểu hình): tương tác bổ trợ, tương tác át chế và tương tác cộng gộp. Ý nghĩa chung là làm tăng biến dị tổ hợp, tạo ra tính trạng mới chưa có ở bố mẹ.",
      "tip": "Ba kiểu: BỔ TRỢ – ÁT CHẾ – CỘNG GỘP.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-148",
@@ -2418,7 +2590,8 @@
      "explain": "Muốn biết cơ thể mang tính trạng trội là đồng hợp (AA) hay dị hợp (Aa), ta đem lai với cơ thể mang tính trạng lặn (aa) — đó là lai phân tích. Nếu đời con đồng tính thì cơ thể đó đồng hợp trội; nếu phân tính 1:1 thì nó dị hợp. Lai thuận nghịch dùng để phát hiện gen ngoài nhân hoặc gen liên kết giới tính, không dùng cho việc này.",
      "tip": "Xác định kiểu gen của cá thể TRỘI → LAI PHÂN TÍCH (lai với cá thể lặn).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-149",
@@ -2434,7 +2607,8 @@
      "explain": "Xét từng cặp xem có cho 2 kiểu hình hay không: Aa × Aa → 2; Bb × bb → 2; cc × Cc → 2; Dd × dd → 2; Ee × Ee → 2; Ff × ff → 2. Cả sáu cặp đều cho 2 kiểu hình nên tổng số kiểu hình = 2⁶ = 64.",
      "tip": "Đếm số cặp cho 2 kiểu hình rồi lấy 2 mũ số đó. Ở đây đủ 6 cặp → 2⁶ = 64.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-150",
@@ -2450,7 +2624,8 @@
      "explain": "Đồng hợp tử về TẤT CẢ các cặp gen nghĩa là mọi cặp đều có hai alen giống nhau. Chỉ aaBBdd thỏa mãn (aa, BB, dd). Các phương án còn lại đều còn ít nhất một cặp dị hợp: AaBBdd có Aa, aaBBDd có Dd, AaBbdd có Aa và Bb, AaBBDD có Aa.",
      "tip": "Quét từng cặp, thấy một chữ hoa đi với một chữ thường là loại ngay.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-151",
@@ -2466,7 +2641,8 @@
      "explain": "Phép lai Aa × aa cho giao tử A, a (từ Aa) gặp a (từ aa) → 1/2 Aa : 1/2 aa, tức tỉ lệ kiểu hình 1 trội : 1 lặn. Đây chính là lai phân tích. Aa × Aa cho 3:1; AA × Aa và AA × aa đều cho 100% kiểu hình trội (đồng tính).",
      "tip": "Tỉ lệ 1:1 là chữ ký của LAI PHÂN TÍCH (dị hợp × đồng hợp lặn).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-152",
@@ -2482,7 +2658,8 @@
      "explain": "Số loại giao tử = 2 mũ số cặp dị hợp. Kiểu gen aaBbCcDd có cặp aa đồng hợp (chỉ cho 1 loại giao tử) và ba cặp dị hợp Bb, Cc, Dd, nên số giao tử = 1 × 2 × 2 × 2 = 8.",
      "tip": "Cặp đồng hợp không nhân thêm gì cả — chỉ đếm cặp DỊ HỢP.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-153",
@@ -2498,7 +2675,8 @@
      "explain": "Xét số kiểu hình từng cặp rồi nhân: Aa × Aa → 2 kiểu hình (A-, aa); BB × bb → tất cả đều Bb nên chỉ 1 kiểu hình; Dd × Dd → 2 kiểu hình. Tổng cộng 2 × 1 × 2 = 4 loại kiểu hình.",
      "tip": "Cặp nào mà đời con chỉ có một kiểu hình thì nhân với 1 — đừng quên cặp BB × bb.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-154",
@@ -2514,7 +2692,8 @@
      "explain": "AaBb tự thụ phấn tương đương AaBb × AaBb. Xét riêng: aa chiếm 1/4, bb chiếm 1/4. Vậy aabb = 1/4 × 1/4 = 1/16. Có thể nhớ nhanh qua tỉ lệ kiểu hình 9:3:3:1 — kiểu hình lặn hoàn toàn luôn chiếm 1/16.",
      "tip": "Trong 9:3:3:1, phần \"1\" chính là cá thể lặn hết = 1/16.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-155",
@@ -2530,7 +2709,8 @@
      "explain": "Khi P thuần chủng khác nhau n cặp tính trạng tương phản thì F1 dị hợp n cặp; cho F1 lai với nhau, mỗi cặp cho tỉ lệ kiểu hình 3:1 và các cặp phân li độc lập nên tỉ lệ chung là tích của n tỉ lệ đó, viết gọn là (3:1)ⁿ. Với n = 2 ta được 9:3:3:1 — chính là khai triển của (3:1)².",
      "tip": "(3:1)ⁿ. Thử n = 2 sẽ ra 9:3:3:1 quen thuộc.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-156",
@@ -2546,7 +2726,8 @@
      "explain": "P: AabbDd × AaBbDd. Kiểu hình của bố mẹ lần lượt là (A-, bb, D-) và (A-, B-, D-). Ở đời con: A- = 3/4, aa = 1/4; bb × Bb cho B- = 1/2 và bb = 1/2; D- = 3/4, dd = 1/4. Số cá thể giống kiểu hình P₁ = 3/4 × 1/2 × 3/4 = 9/32; giống P₂ cũng = 3/4 × 1/2 × 3/4 = 9/32. Vậy tỉ lệ KHÁC cả hai bố mẹ = 1 − 9/32 − 9/32 = 14/32 = 7/16.",
      "tip": "Tính phần GIỐNG bố mẹ trước rồi lấy 1 trừ đi — nhanh hơn liệt kê.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-157",
@@ -2562,7 +2743,8 @@
      "explain": "Mỗi cặp gen dị hợp Aa × Aa cho 3 kiểu gen (AA, Aa, aa). Khi có n cặp phân li độc lập, các cặp kết hợp tự do nên tổng số kiểu gen = 3 × 3 × … = 3ⁿ. Tương ứng, số kiểu hình (trội hoàn toàn) là 2ⁿ và số loại giao tử của F1 là 2ⁿ.",
      "tip": "Bộ ba công thức: giao tử 2ⁿ · kiểu gen 3ⁿ · kiểu hình 2ⁿ.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-158",
@@ -2578,7 +2760,8 @@
      "explain": "Bố mẹ thuần chủng khác nhau n cặp tính trạng → F1 dị hợp n cặp → F1 tự thụ cho F2. Mỗi cặp ở F2 có 2 kiểu hình (trội và lặn, do trội hoàn toàn), các cặp độc lập nên tổng số kiểu hình F2 = 2ⁿ. (Số kiểu gen F2 mới là 3ⁿ — đừng lẫn hai con số này.)",
      "tip": "Kiểu HÌNH = 2ⁿ, kiểu GEN = 3ⁿ. Câu 157 hỏi kiểu gen, câu 158 hỏi kiểu hình.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-159",
@@ -2594,7 +2777,8 @@
      "explain": "Lưu ý: khi sao chép vào đề ôn tập, DANH SÁCH CÁC PHÉP LAI của câu này đã bị mất — chỉ còn phần dẫn và các phương án số, nên không thể tự giải lại. Đáp án được tô trong đề là 2. Về nguyên tắc: để đời con có 4 kiểu gen VÀ 4 kiểu hình với 2 gen trội hoàn toàn thì mỗi cặp phải cho đúng 2 kiểu gen và 2 kiểu hình, tức mỗi cặp đều phải là dạng Aa × aa — ví dụ AaBb × aabb.",
      "tip": "4 kiểu gen + 4 kiểu hình ⇒ cả hai cặp đều phải là \"dị hợp × đồng hợp lặn\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-160",
@@ -2610,7 +2794,13 @@
      "explain": "Hoa hồng thuần chủng là AAbb hoặc aaBB; hoa đỏ là A-B-. Kiểm tra từng phép lai xem có cho F1 đúng 50% đỏ : 50% hồng không — I. AAbb × AaBb: con luôn A-, Bb×bb cho 1/2 B- (đỏ) : 1/2 bb (hồng) ✓. II. aaBB × AaBb: BB×Bb cho toàn B-, aa×Aa cho 1/2 A- (đỏ) : 1/2 aa (hồng) ✓. III. AAbb × AaBB: con toàn A-B- → 100% đỏ ✗. IV. AAbb × AABb: 1/2 đỏ : 1/2 hồng ✓. V. aaBb và VI. Aabb tuy cho tỉ lệ đúng nhưng cây hoa hồng ở P lại KHÔNG thuần chủng ✗. Vậy có 3 phép lai phù hợp (I, II, IV).",
      "tip": "Đọc kỹ chữ \"THUẦN CHỦNG\" trong đề — nó loại thẳng hai phép lai V và VI.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": {
+      "kind": "missing",
+      "title": "Tài liệu gốc không tô đáp án câu này",
+      "body": "Đáp án dưới đây được chốt thêm: giải tay và kiểm tra lại bằng chương trình: chỉ 3 phép lai I, II, IV thoả mãn. III cho 100% hoa đỏ; V và VI có cây hoa hồng không thuần chủng.",
+      "sourceAnswer": null
+     }
     },
     {
      "id": "bai-6-161",
@@ -2626,7 +2816,8 @@
      "explain": "Hiện tượng đa alen là khi một gen có nhiều hơn hai trạng thái (alen) khác nhau trong quần thể — ví dụ gen quy định nhóm máu ABO có ba alen Iᴬ, Iᴮ, Iᴼ. Chính sự đa dạng này làm cùng một gen có thể ảnh hưởng rất khác nhau đến tính trạng. Trội hoàn toàn hay không hoàn toàn chỉ mô tả quan hệ giữa hai alen, không nói lên tính đa dạng.",
      "tip": "Một gen mà có nhiều hơn 2 alen (như nhóm máu ABO) → ĐA ALEN.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-162",
@@ -2638,11 +2829,17 @@
       "D. 4 loại kiểu hình : 8 loại kiểu gen",
       "E. 4 loại kiểu hình : 16 loại kiểu gen"
      ],
-     "correct": "B. 8 loại kiểu hình : 12 loại kiểu gen",
-     "explain": "Tính lại: Aa × aa cho 2 kiểu gen và 2 kiểu hình; BB × Bb cho 2 kiểu gen nhưng chỉ 1 kiểu hình (đều B-); Dd × Dd cho 3 kiểu gen và 2 kiểu hình. Vậy số kiểu gen = 2 × 2 × 3 = 12 (khớp với đề), còn số kiểu hình = 2 × 1 × 2 = 4 — tức phương án A mới đúng về mặt toán học. ⚠️ Đáp án được tô trong đề gốc là B (8 kiểu hình), đây nhiều khả năng là lỗi của đáp án. Khi đi thi nên bám theo đề; nhưng cần hiểu rõ bản chất: cặp BB × Bb không làm tăng số kiểu hình.",
-     "tip": "Cặp BB × Bb cho toàn B- → chỉ 1 kiểu hình. Đúng ra là 4 kiểu hình : 12 kiểu gen.",
+     "correct": "A. 4 loại kiểu hình : 12 loại kiểu gen",
+     "explain": "Xét riêng từng cặp rồi nhân lại. Số kiểu gen: Aa × aa → 2; BB × Bb → 2 (BB và Bb); Dd × Dd → 3 ⇒ 2 × 2 × 3 = 12 kiểu gen. Số kiểu hình: Aa × aa → 2 (A- và aa); BB × Bb → đời con toàn B- nên chỉ 1 kiểu hình; Dd × Dd → 2 ⇒ 2 × 1 × 2 = 4 kiểu hình. Vậy kết quả là 4 loại kiểu hình : 12 loại kiểu gen. Bẫy của câu này nằm ở cặp BB × Bb: nó vẫn sinh ra hai kiểu gen khác nhau nhưng vì đều mang alen trội B nên kiểu hình chỉ có một.",
+     "tip": "Cặp nào cho đời con toàn kiểu hình trội thì nhân với 1, không phải 2. Kiểu gen 12 nhưng kiểu hình chỉ 4.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": {
+      "kind": "corrected",
+      "title": "Đáp án đã sửa khác với tài liệu gốc",
+      "body": "Tài liệu gốc tô đáp án **B. 8 loại kiểu hình : 12 loại kiểu gen**. Bộ đề này chấm theo đáp án khác vì tính lại: Aa × aa cho 2 kiểu hình, BB × Bb cho toàn B- nên chỉ 1 kiểu hình, Dd × Dd cho 2 kiểu hình ⇒ 2 × 1 × 2 = 4 kiểu hình (số kiểu gen 12 thì đề ghi đúng). Đã kiểm tra lại bằng chương trình.",
+      "sourceAnswer": "B. 8 loại kiểu hình : 12 loại kiểu gen"
+     }
     },
     {
      "id": "bai-6-163",
@@ -2658,7 +2855,8 @@
      "explain": "Lai thuận nghịch là cặp phép lai mà hai kiểu gen đổi vai trò bố ↔ mẹ cho nhau, còn mọi thứ khác giữ nguyên. Chỉ cặp C làm đúng điều đó: ♀aabb × ♂AABB và ♀AABB × ♂aabb. Các cặp khác đều thay đổi luôn kiểu gen của bố mẹ nên không phải lai thuận nghịch (ví dụ D: ♀Aa × ♂aa và ♀aa × ♂AA — vế sau dùng AA chứ không phải Aa).",
      "tip": "Lai thuận nghịch = giữ nguyên hai kiểu gen, chỉ HOÁN ĐỔI giới tính của chúng.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-164",
@@ -2674,7 +2872,8 @@
      "explain": "Aa × Aa luôn cho 3 kiểu gen: 1AA : 2Aa : 1aa. Vì trội KHÔNG hoàn toàn nên Aa có kiểu hình trung gian riêng, do đó ba kiểu gen cho ba kiểu hình khác nhau với tỉ lệ 1:2:1 (giống thí nghiệm hoa mõm chó: đỏ – hồng – trắng). Nếu trội hoàn toàn thì chỉ còn 2 kiểu hình theo tỉ lệ 3:1.",
      "tip": "Trội không hoàn toàn: tỉ lệ kiểu hình = tỉ lệ kiểu gen = 1:2:1 → 3 kiểu hình.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-165",
@@ -2690,7 +2889,8 @@
      "explain": "Bố mẹ đều dị hợp n cặp gen, phân li độc lập, trội hoàn toàn: mỗi cặp Aa × Aa cho 3 kiểu gen và 2 kiểu hình, nhân n cặp lại được 3ⁿ kiểu gen và 2ⁿ kiểu hình. Đây đúng là bảng công thức lai đa tính trong slide.",
      "tip": "3ⁿ kiểu gen – 2ⁿ kiểu hình. Kiểu gen bao giờ cũng nhiều hơn kiểu hình.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-166",
@@ -2706,7 +2906,8 @@
      "explain": "Trong lai phân tích, cá thể trội được lai với cá thể lặn. Nếu đời con ĐỒNG TÍNH toàn kiểu hình trội thì cá thể trội đó phải là đồng hợp trội (AA) — tức thuần chủng, vì chỉ cho một loại giao tử A. Nếu nó dị hợp (Aa) thì đời con đã phân tính 1:1.",
      "tip": "Lai phân tích: con ĐỒNG tính → P thuần chủng; con PHÂN tính 1:1 → P dị hợp.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-167",
@@ -2722,7 +2923,8 @@
      "explain": "Định luật phân li (quy luật giao tử thuần khiết) phát biểu: trong cơ thể các gen tồn tại thành từng đôi; khi tạo giao tử, từng đôi gen phân li và mỗi giao tử chỉ nhận MỘT trong hai alen — tức giao tử thuần khiết; khi thụ tinh, các giao tử tổ hợp ngẫu nhiên tạo thế hệ mới. Phương án B bỏ mất chữ \"một trong hai\", còn C và D phủ định việc giao tử tách biệt nhau nên đều sai.",
      "tip": "Hai từ khóa phải có đủ: \"MỘT TRONG HAI alen\" và \"các giao tử TÁCH BIỆT\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-168",
@@ -2738,7 +2940,8 @@
      "explain": "Slide liệt kê bốn bước trong phương pháp phân tích di truyền cơ thể lai của Mendel: tạo dòng thuần chủng; lai các dòng thuần khác nhau rồi phân tích kết quả ở F1, F2, F3; dùng toán xác suất để phân tích; và đặt giả thuyết rồi làm thí nghiệm chứng minh. Vì cả bốn ý đều đúng nên chọn E.",
      "tip": "Bốn bước: Thuần chủng → Lai & theo dõi F1–F3 → Toán xác suất → Giả thuyết & kiểm chứng.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-169",
@@ -2754,7 +2957,8 @@
      "explain": "Câu hỏi đòi cơ sở tế bào học theo quan điểm hiện đại: quy luật phân li được giải thích bằng sự phân li ngẫu nhiên (đồng đều) của các cặp nhiễm sắc thể tương đồng trong GIẢM PHÂN, kéo theo sự phân li của các alen nằm trên chúng. \"Giả thuyết giao tử thuần khiết\" là cách giải thích của chính Mendel khi chưa biết đến nhiễm sắc thể; nguyên phân thì không làm phân li cặp tương đồng.",
      "tip": "Phân li alen ⇄ phân li cặp NST tương đồng trong GIẢM PHÂN (không phải nguyên phân).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-170",
@@ -2770,7 +2974,8 @@
      "explain": "Điều kiện cốt lõi để các cặp tính trạng di truyền độc lập là mỗi cặp gen phải nằm trên một cặp nhiễm sắc thể tương đồng KHÁC nhau; khi đó các cặp nhiễm sắc thể mới phân li độc lập trong giảm phân. Nếu các gen nằm trên cùng một nhiễm sắc thể thì chúng liên kết với nhau (phương án E mô tả đúng điều ngược lại). Trội hoàn toàn, bố mẹ thuần chủng hay số lượng cá thể lớn chỉ là điều kiện phụ giúp quan sát tỉ lệ cho rõ.",
      "tip": "Muốn ĐỘC LẬP thì phải nằm trên các cặp NST KHÁC NHAU — đó là điều kiện gốc.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-171",
@@ -2786,7 +2991,8 @@
      "explain": "Cơ sở tế bào học của quy luật phân li là sự phân li đồng đều của hai nhiễm sắc thể trong mỗi cặp tương đồng về hai cực tế bào khi giảm phân — nhờ đó hai alen của một gen tách hẳn nhau, mỗi giao tử chỉ nhận một alen. Phương án A là cách diễn đạt của Mendel (nhân tố di truyền) chứ không phải cơ sở tế bào học; nguyên phân không tách cặp tương đồng.",
      "tip": "Cơ sở TẾ BÀO học thì câu trả lời phải nói về NST, và phải là GIẢM PHÂN.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-172",
@@ -2802,7 +3008,8 @@
      "explain": "Các cặp alen nằm trên những cặp nhiễm sắc thể tương đồng khác nhau sẽ phân li độc lập trong giảm phân và tổ hợp tự do trong thụ tinh — đó chính là nội dung quy luật phân li độc lập. Phân li cùng nhau và tạo nhóm gen liên kết là trường hợp các gen nằm trên CÙNG một nhiễm sắc thể; còn trình tự nucleotid giống nhau hay cùng quy định một tính trạng đều không phải hệ quả của việc nằm trên các NST khác nhau.",
      "tip": "Khác cặp NST → PHÂN LI ĐỘC LẬP. Cùng một NST → LIÊN KẾT GEN.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-173",
@@ -2818,7 +3025,8 @@
      "explain": "Alen là hai trạng thái của một gen nằm trên hai nhiễm sắc thể của cùng một cặp tương đồng. Vì vậy chúng chỉ phân li đồng đều về các giao tử khi cặp nhiễm sắc thể tương đồng ấy phân li đồng đều về hai cực trong giảm phân. Bố mẹ thuần chủng, số lượng cá thể lớn hay mức độ trội chỉ ảnh hưởng đến việc quan sát tỉ lệ, không quyết định cơ chế phân li.",
      "tip": "Alen \"ngồi\" trên NST, nên NST đi đâu alen theo đó.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-174",
@@ -2834,7 +3042,8 @@
      "explain": "Phân li độc lập và tổ hợp tự do tạo ra vô số kiểu tổ hợp giao tử, nên sinh ra biến dị tổ hợp phong phú ở các loài sinh sản hữu tính (giao phối) — đó chính là ý nghĩa của quy luật. Hoán vị gen và đột biến gen là những cơ chế sinh biến dị KHÁC, không do quy luật này giải thích; còn phương án D chỉ mô tả lại nội dung quy luật chứ không phải \"hiện tượng được giải thích\".",
      "tip": "Phân li độc lập sinh ra BIẾN DỊ TỔ HỢP — nguồn đa dạng của loài giao phối.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-175",
@@ -2850,7 +3059,8 @@
      "explain": "Đề hỏi \"thực chất\" và đáp án của đề là sự tổ hợp các alen trong quá trình thụ tinh: các alen đã phân li độc lập khi tạo giao tử sẽ tổ hợp tự do khi thụ tinh, và chính bước tổ hợp này mới sinh ra các kiểu gen — kiểu hình mới ở đời con. Tỉ lệ 9:3:3:1 chỉ là kết quả quan sát được, còn 9:6:1 là tỉ lệ của tương tác gen chứ không phải phân li độc lập.",
      "tip": "Phân li ở GIẢM PHÂN, tổ hợp tự do ở THỤ TINH — đề này nhấn vào vế tổ hợp.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-176",
@@ -2866,7 +3076,8 @@
      "explain": "Ẩm bào (pinocytosis) là hình thức tế bào lõm màng nuốt vào các chất hòa tan và hạt nhỏ trong dịch ngoại bào — khác với thực bào vốn nuốt các hạt rắn lớn. Lưu ý: hai phương án A (cần tiêu tốn năng lượng) và C (màng tạo túi) thực ra cũng đúng với cả ẩm bào lẫn thực bào, nên đề diễn đạt chưa thật chặt; đáp án của đề là D vì đó mới là đặc điểm riêng của ẩm bào.",
      "tip": "ẨM bào nuốt chất LỎNG / hạt nhỏ; THỰC bào nuốt hạt RẮN to.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-6-177",
@@ -2882,7 +3093,8 @@
      "explain": "Phép lai thuận nghịch dùng để phát hiện di truyền tế bào chất (kết quả theo dòng mẹ) và di truyền liên kết giới tính, và trong chọn giống nó có thể cho ưu thế lai khác nhau — nên A, B, D đều đúng. Riêng C sai: muốn xác định các gen liên kết hoàn toàn hay có hoán vị thì phải dùng LAI PHÂN TÍCH để đo tần số hoán vị, chứ lai thuận nghịch không làm được việc đó, lại càng không đúng \"ở mọi loài sinh vật\".",
      "tip": "Lai thuận nghịch dò gen NGOÀI NHÂN / GIỚI TÍNH. Dò hoán vị gen thì phải LAI PHÂN TÍCH.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     }
    ]
   },
@@ -2907,7 +3119,8 @@
      "explain": "Trong quá trình trưởng thành ở mào tinh, tinh trùng biến đổi theo hai mặt: về HÌNH THÁI (mất các túi bào tương thừa, đầu ổn định kích thước) và về SINH HÓA (cấu trúc glycoprotein của màng thay đổi để dễ nhận diện trứng và xúc tiến các phản ứng khi gặp trứng). Vì đề nhắc tới glycoprotein — một phân tử — nên đây là thay đổi về sinh hóa.",
      "tip": "Nói tới PHÂN TỬ (glycoprotein, enzym) là nói tới thay đổi SINH HÓA; nói tới hình dạng mới là hình thái.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-179",
@@ -2923,7 +3136,8 @@
      "explain": "Thể đỉnh (túi cực đầu) là một túi màng nằm chụp lên đầu tinh trùng như chiếc mũ, chứa hyaluronidase, neuraminidase và các protease dùng để phá lớp tế bào hạt và màng trong suốt của trứng. Vì bản chất là một túi chứa enzym thủy phân nên nó do bộ Golgi tạo ra — giống như cách Golgi sinh ra lysosom.",
      "tip": "Túi enzym thì luôn do GOLGI đóng gói — thể đỉnh thực chất là một \"lysosom khổng lồ\".",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-180",
@@ -2939,7 +3153,8 @@
      "explain": "Cổ tinh trùng chứa tiểu thể trung tâm cùng 9 cột chia đoạn xếp thành hình ống — các cấu trúc này đều có nguồn gốc từ trung thể của tiền tinh trùng. Trung thể vừa tạo cổ, vừa kéo dài thành dây trục của đuôi.",
      "tip": "Đầu (thể đỉnh) ← Golgi; Cổ và Đuôi ← Trung thể; đoạn giữa quấn Ty thể.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-181",
@@ -2955,7 +3170,8 @@
      "explain": "Đuôi tinh trùng có lõi là dây trục (axoneme) — bó vi ống 9(2)+1(2) mọc ra từ trung thể trong giai đoạn biệt hóa tiền tinh trùng. Ty thể tuy xếp thành bao xoắn ở đoạn giữa để cấp ATP cho đuôi đập, nhưng không phải là bào quan TẠO RA đuôi.",
      "tip": "Trung thể tạo cả cổ lẫn đuôi — hai câu 180 và 181 cùng một đáp án.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-182",
@@ -2971,7 +3187,8 @@
      "explain": "Thụ tinh diễn ra ở 1/3 ngoài vòi trứng, tức đoạn bóng (ampulla) — nơi rộng nhất, có nhiều nhung mao và dịch, thuận lợi cho tinh trùng gặp noãn. Hợp tử ở lại đoạn bóng khoảng 48 giờ (giai đoạn 2–4 tế bào) rồi mới vượt đoạn eo để vào buồng tử cung.",
      "tip": "Gặp nhau ở đoạn BÓNG (rộng nhất, 1/3 ngoài vòi trứng); làm tổ ở TỬ CUNG.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-183",
@@ -2987,7 +3204,8 @@
      "explain": "Vòi trứng đi từ tử cung ra buồng trứng gồm bốn đoạn: đoạn kẽ (xuyên thành tử cung), đoạn eo, đoạn bóng và loa vòi. Đoạn eo (isthmus) là đoạn hẹp nhất; hợp tử phải nhờ tác động của progesteron mới vượt qua được trong 10–12 giờ.",
      "tip": "EO thì phải HẸP — đúng như nghĩa đen của từ.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-184",
@@ -3003,7 +3221,8 @@
      "explain": "Phôi thai mới thành lập biệt hóa thành ba vùng: vùng trước là đầu, vùng giữa nhô về phía bụng và lưng có rãnh thần kinh, vùng sau là đuôi. Sau đó vùng TRƯỚC và vùng SAU phình ra tạo chi trên và chi dưới. Vùng giữa phát triển thành thân chứ không tạo chi.",
      "tip": "Chi mọc ra từ hai đầu phôi: vùng TRƯỚC → tay, vùng SAU → chân.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-185",
@@ -3019,7 +3238,8 @@
      "explain": "Slide nêu tế bào Sertoli có ba chức năng: tạo khung chống đỡ và bảo vệ các tế bào dòng tinh; thực bào (dọn các mảnh bào tương thừa); tạo dịch tiết giúp tinh trùng di chuyển. Ngoài ra chúng còn liên kết với nhau tạo nên hàng rào máu – tinh hoàn.",
      "tip": "Ba việc của Sertoli: CHỐNG ĐỠ – THỰC BÀO – TIẾT DỊCH. (Sertoli là \"bảo mẫu\" của dòng tinh.)",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-186",
@@ -3035,7 +3255,8 @@
      "explain": "FSH kích thích phát triển ống sinh tinh, kích thích tế bào Sertoli và thúc Sertoli bài tiết dịch nuôi tinh trùng. LH thì tác động lên tế bào Leydig để tiết testosteron; GnRH là hormon vùng dưới đồi điều khiển tuyến yên; hCG là hormon của rau thai.",
      "tip": "FSH → ống sinh tinh & Sertoli. LH → Leydig & testosteron. (F = \"Follicle/ống\", L = \"Leydig\".)",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-187",
@@ -3051,7 +3272,8 @@
      "explain": "Noãn phát triển bên trong nang trứng (nang noãn) nằm ở vùng vỏ buồng trứng; nang nuôi dưỡng noãn rồi vỡ ra khi rụng trứng. Buồng trứng tuy là cơ quan chứa các nang nhưng đơn vị trực tiếp hình thành noãn là nang trứng; thể vàng là phần còn lại của nang SAU khi rụng trứng.",
      "tip": "Nang trứng là \"cái tổ\" nuôi noãn; thể vàng là cái tổ ấy sau khi noãn đã đi.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-188",
@@ -3067,7 +3289,8 @@
      "explain": "Slide chia quá trình thụ tinh thành bốn bước: (1) Tiếp cận — trứng tiết chất hóa học hấp dẫn tinh trùng; (2) Xâm nhập — tinh trùng dùng hyaluronidase phá lớp tế bào hạt và màng trong suốt (phản ứng cực đầu); (3) Phản ứng vỏ trứng — ngăn các tinh trùng khác vào; (4) Kết hợp nhân — hai tiền nhân đơn bội hòa thành hợp tử 2n.",
      "tip": "4 bước: TIẾP CẬN → XÂM NHẬP → PHẢN ỨNG VỎ → KẾT HỢP NHÂN.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-189",
@@ -3083,7 +3306,8 @@
      "explain": "Ngoại sản mạc là niêm mạc tử cung biến đổi, gồm ba phần: ngoại sản mạc trứng (bao quanh trứng), ngoại sản mạc tử cung (phủ phần còn lại của buồng tử cung) và ngoại sản mạc tử cung – rau (nằm giữa trứng và lớp cơ tử cung). Riêng ngoại sản mạc TỬ CUNG chỉ liên quan đến tử cung, không tiếp giáp với trứng.",
      "tip": "Tên gọi đã chỉ đúng vị trí: ngoại sản mạc TỬ CUNG chỉ dính tử cung.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-190",
@@ -3099,7 +3323,8 @@
      "explain": "Cắt ngang buồng trứng thấy hai vùng: vùng vỏ ở ngoài chứa các nang noãn ở nhiều giai đoạn phát triển, và vùng tủy ở trong chứa mô liên kết, mạch máu và thần kinh. \"Vùng xoang\" không phải một vùng của buồng trứng — xoang là khoang chứa dịch bên trong nang noãn có hốc.",
      "tip": "Buồng trứng chỉ có 2 vùng: VỎ (chứa nang) và TỦY (chứa mạch máu).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-191",
@@ -3115,7 +3340,8 @@
      "explain": "Mỗi tháng có khoảng 20 nang noãn nguyên thủy được tập hợp và khởi động phát triển — đó là giai đoạn CHIÊU MỘ, do hormon AMH từ tế bào nang điều hòa. Sau đó mới tới giai đoạn chọn lọc (khoảng ngày 7), rồi sự vượt trội của một nang duy nhất và cuối cùng là rụng trứng; các nang còn lại thoái hóa.",
      "tip": "Trình tự: CHIÊU MỘ (~20 nang) → CHỌN LỌC → VƯỢT TRỘI (1 nang) → RỤNG TRỨNG.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-192",
@@ -3131,7 +3357,8 @@
      "explain": "Ngay khi tinh trùng hòa nhập vào trứng, noãn đang dừng ở kỳ giữa II được \"đánh thức\": nó hoàn tất giảm phân II, tạo tiền nhân cái và cực cầu thứ hai, đồng thời khởi động hàng loạt phản ứng sinh hóa — đó là sự hoạt hóa trứng. Phản ứng vỏ trứng là một phần của chuỗi hoạt hóa này.",
      "tip": "Trứng \"ngủ\" ở kỳ giữa II, chỉ tỉnh dậy khi tinh trùng vào → hoạt hóa trứng.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-193",
@@ -3147,7 +3374,8 @@
      "explain": "Ngoại sản mạc chỉ có ba phần: ngoại sản mạc trứng, ngoại sản mạc tử cung và ngoại sản mạc tử cung – rau. \"Ngoại sản mạc rau\" không tồn tại — dễ nhầm vì có \"ngoại sản mạc TỬ CUNG – rau\" (thiếu mất hai chữ \"tử cung\" là thành tên sai).",
      "tip": "Ba phần: TRỨNG – TỬ CUNG – TỬ CUNG/RAU. Không có \"ngoại sản mạc rau\" đứng một mình.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-194",
@@ -3163,7 +3391,8 @@
      "explain": "Ở thời kỳ hoàn chỉnh tổ chức, nội sản mạc (màng ối) ngày càng phát triển, buồng ối rộng dần ra và bao quanh toàn bộ thai nhi. Còn ở thời kỳ sắp xếp tổ chức, nội sản mạc mới chỉ hình thành buồng ối nhỏ chứa dịch ở phía lưng bào thai.",
      "tip": "Buồng ối BAO QUANH được thai nhi rồi nghĩa là đã sang thời kỳ HOÀN CHỈNH.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-195",
@@ -3179,7 +3408,8 @@
      "explain": "\"Phần phụ\" của tử cung trong giải phẫu phụ khoa là vòi trứng và buồng trứng hai bên — những bộ phận dính vào tử cung. Noãn là tế bào sinh dục nằm trong buồng trứng chứ không phải một bộ phận giải phẫu dính vào tử cung, nên mọi phương án có \"noãn\" đều sai.",
      "tip": "Phần phụ = VÒI TRỨNG + BUỒNG TRỨNG (hai thứ, không có noãn).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-196",
@@ -3195,7 +3425,8 @@
      "explain": "Sau khi rụng trứng, phần nang còn lại biến thành thể vàng (hoàng thể) tiết progesteron giữ cho niêm mạc tử cung dày lên. Nếu không có thụ tinh, thể vàng thoái hóa sau khoảng 14 ngày, progesteron và estrogen tụt xuống đột ngột làm lớp chức năng của niêm mạc tử cung bong ra — đó là kinh nguyệt.",
      "tip": "Thể vàng tàn → hormon tụt → niêm mạc bong → hành kinh.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-197",
@@ -3211,7 +3442,8 @@
      "explain": "Ngay sau khi một tinh trùng xâm nhập qua màng trong suốt, trứng tiết fertilisin và làm thay đổi cấu trúc lớp màng trong suốt (vỏ trứng) — gọi là phản ứng vỏ của noãn — khiến các tinh trùng khác không bám và chui vào được nữa. Nhờ vậy chỉ một tinh trùng kết hợp với trứng, giữ cho hợp tử đúng bộ nhiễm sắc thể lưỡng bội 2n.",
      "tip": "Phản ứng vỏ = \"đóng cửa\" sau khi một tinh trùng đã vào → tránh đa tinh trùng.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-198",
@@ -3227,7 +3459,8 @@
      "explain": "Theo slide, khi tinh trùng tiếp xúc và gắn vào trứng thì túi cực đầu vỡ ra, giải phóng hyaluronidase, neuraminidase và các protease để phá lớp tế bào hạt cùng màng trong suốt — đó là phản ứng cực đầu (phản ứng thể đỉnh), mở đường cho bước xâm nhập.",
      "tip": "Cực đầu vỡ ngay lúc tinh trùng CHẠM/GẮN vào trứng, để \"khoan\" qua các lớp vỏ.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-199",
@@ -3243,7 +3476,8 @@
      "explain": "Ngoại sản mạc tử cung – rau là phần niêm mạc tử cung biến đổi nằm KẸP GIỮA lớp cơ tử cung và trứng (phôi làm tổ). Chính phần này về sau phát triển mạnh, bị đục thành các hồ huyết và tham gia tạo bánh rau; hai phần ngoại sản mạc còn lại thì teo mỏng dần.",
      "tip": "Nằm giữa CƠ TỬ CUNG và TRỨNG — đúng chỗ sau này thành bánh rau.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-200",
@@ -3259,7 +3493,8 @@
      "explain": "Trung sản mạc do các tế bào mầm nhỏ phát triển thành, gồm lớp hội bào bên ngoài và lớp tế bào Langhans bên trong. Khi trung sản mạc tạo các chân giả bao quanh toàn bộ trứng thì gọi là thời kỳ trung sản mạc rậm, còn gọi là thời kỳ RAU TOÀN DIỆN.",
      "tip": "Rau toàn diện = trung sản mạc rậm (chân giả bao kín trứng).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-201",
@@ -3275,7 +3510,8 @@
      "explain": "Thụ tinh là sự KẾT HỢP giữa một tế bào đực (tinh trùng) và một tế bào cái (noãn) để tạo thành một tế bào mới — trứng đã thụ tinh, tức hợp tử. Các phương án còn lại thay chữ \"kết hợp\" bằng thoái hóa, chuyển giao, phân hủy, đào thải nên đều sai hoàn toàn về bản chất.",
      "tip": "Chỉ cần tìm đúng động từ: KẾT HỢP.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-202",
@@ -3291,7 +3527,8 @@
      "explain": "Trong giai đoạn sinh tinh bào, các tinh nguyên bào ở phần nền của biểu mô sinh tinh phân chia LIÊN TIẾP (gián phân nhiều lần) tạo nhiều thế hệ tế bào, cuối cùng cho ra tinh bào. Tinh bào mới là sản phẩm của giai đoạn này; phải qua giảm phân và giai đoạn tạo tinh trùng nữa mới thành tinh trùng trưởng thành.",
      "tip": "Hai chữ phải đúng: phân chia LIÊN TIẾP, và dừng lại ở TINH BÀO (chưa phải tinh trùng).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-203",
@@ -3307,7 +3544,8 @@
      "explain": "Tinh hoàn vừa là tuyến ngoại tiết (sinh tinh trùng trong ống sinh tinh) vừa là tuyến NỘI tiết (tế bào Leydig tiết testosteron đổ thẳng vào máu). Hai chức năng gắn chặt nhau vì chính testosteron lại cần cho quá trình sinh tinh. Gọi testosteron là \"ngoại tiết tố\" là sai; còn \"chuyển tinh trùng\" là việc của mào tinh và ống dẫn tinh.",
      "tip": "Tinh hoàn làm 2 việc: ra TINH TRÙNG và ra NỘI tiết tố (testosteron).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-204",
@@ -3323,7 +3561,8 @@
      "explain": "Các tế bào Sertoli liên kết với nhau bằng kiểu liên kết cầu tế bào, tạo thành hàng rào máu – tinh hoàn ngăn KHÔNG cho tinh trùng VÀ các sản phẩm thoái hóa của nó tiếp xúc với máu, nhờ đó tách biệt môi trường ống sinh tinh với máu. Nếu hàng rào này tổn thương, tinh trùng lọt vào máu gặp tế bào miễn dịch, cơ thể sinh kháng thể chống tinh trùng — một nguyên nhân gây vô sinh.",
      "tip": "Hàng rào này chặn CẢ HAI: tinh trùng và sản phẩm thoái hóa. Chặn để khỏi bị miễn dịch tấn công.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-205",
@@ -3339,7 +3578,8 @@
      "explain": "Cả ba cơ chế nêu ra đều thật sự tham gia đưa trứng/hợp tử về buồng tử cung: nhu động của lớp cơ vòi tử cung, hoạt động của nhung mao niêm mạc vòi, và luồng dịch chảy trong lòng vòi. Vì câu hỏi tìm cơ chế KHÔNG CÓ mà không phương án nào sai, nên đáp án là \"A, B và C đúng\".",
      "tip": "Ba lực đẩy trứng: CƠ co bóp – NHUNG MAO quét – DỊCH chảy. Không thiếu cái nào.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-206",
@@ -3355,7 +3595,8 @@
      "explain": "Phôi nang thường làm tổ ở đáy tử cung — vùng cao nhất của thân tử cung, nơi niêm mạc dày và được tưới máu tốt nhất. Làm tổ ở cổ tử cung hoặc đoạn dưới là bất thường (rau tiền đạo), còn làm tổ ngoài tử cung là chửa ngoài tử cung.",
      "tip": "Làm tổ ở ĐÁY tử cung — chỗ \"màu mỡ\" nhất.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-207",
@@ -3368,10 +3609,11 @@
       "E. Vùng giữa là nơi hình thành tay"
      ],
      "correct": null,
-     "explain": "⚠️ Câu này đã được đánh dấu BỎ trong đề gốc nên không chấm điểm. Lý do: theo slide, phôi thai mới thành lập chỉ biệt hóa thành ba vùng — vùng trước là đầu, vùng giữa nhô về phía bụng và lưng có rãnh thần kinh, vùng sau là đuôi; chi trên và chi dưới do vùng trước và vùng sau phình ra. Như vậy CẢ HAI phương án D (\"vùng cuối là phần chân\") và E (\"vùng giữa là nơi hình thành tay\") đều không đúng với bài giảng, tức câu hỏi có hai đáp án nên không dùng được.",
+     "explain": "Theo slide bài 7, phôi thai mới thành lập chỉ biệt hóa thành ba vùng: vùng trước là đầu, vùng giữa nhô về phía bụng và lưng có rãnh thần kinh, vùng sau là đuôi; chi trên và chi dưới về sau do vùng trước và vùng sau phình ra. Đối chiếu thì CẢ HAI phương án D (\"vùng cuối là phần chân\") và E (\"vùng giữa là nơi hình thành tay\") đều không đúng — câu hỏi có hai đáp án nên không chấm điểm được, và đó cũng là lý do đề gốc đánh dấu bỏ câu này.",
      "tip": "Phôi mới thành lập chỉ có 3 vùng: TRƯỚC (đầu) – GIỮA (bụng/lưng, rãnh thần kinh) – SAU (đuôi).",
      "image": null,
-     "flag": "dropped"
+     "flag": "dropped",
+     "answerNote": null
     },
     {
      "id": "bai-7-208",
@@ -3387,7 +3629,8 @@
      "explain": "Slide phân biệt rõ: thụ tinh là sự kết hợp giữa tinh trùng và noãn, còn THỤ THAI là sự thụ tinh KÈM THEO SAU ĐÓ là sự làm tổ của hợp tử trong tử cung. Nói cách khác, thụ tinh mà hợp tử không làm tổ được thì chưa gọi là thụ thai.",
      "tip": "Thụ thai = Thụ tinh + Làm tổ. Thiếu bước làm tổ là chưa có thai.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-209",
@@ -3403,7 +3646,8 @@
      "explain": "Sau khi làm tổ, phôi dâu/phôi nang phân hóa thành hai phần: đại phôi bào cho ra THAI, còn tiểu phôi bào cho ra các phần phụ của thai gồm bánh rau, màng rau, dây rau và nước ối. Các phương án dùng chữ \"hợp tử\" đều sai vì sau khi làm tổ nó không còn là hợp tử nữa.",
      "tip": "Trứng làm tổ xong → THAI + 4 phần phụ (bánh rau, màng rau, dây rau, nước ối).",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     },
     {
      "id": "bai-7-210",
@@ -3419,7 +3663,8 @@
      "explain": "Sự hoạt hóa trứng chỉ diễn ra sau khi màng của tinh trùng đã HÒA NHẬP với màng trứng và nhân tinh trùng đi vào bào tương trứng. Chỉ tiếp xúc hay kết dính thôi thì chưa đủ — lúc đó mới ở bước xâm nhập. Đây là câu lặp lại ý của câu 192.",
      "tip": "Phải HÒA NHẬP (dung hợp màng) rồi trứng mới \"tỉnh dậy\". Câu 192 và 210 cùng một đáp án.",
      "image": null,
-     "flag": null
+     "flag": null,
+     "answerNote": null
     }
    ]
   }

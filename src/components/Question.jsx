@@ -1,9 +1,14 @@
 import { imageSrc, isDropped, isGraded, letterFor, optionLabel } from '../lib/data.js'
 import { cx } from './ui.jsx'
 
-export function ChapterTag({ children }) {
+export function ChapterTag({ children, className }) {
   return (
-    <div className="text-[0.76rem] font-bold uppercase tracking-[0.02em] text-primary mb-2.5">
+    <div
+      className={cx(
+        'text-[0.76rem] font-bold uppercase tracking-[0.02em] text-primary mb-2.5',
+        className
+      )}
+    >
       {children}
     </div>
   )
@@ -40,6 +45,81 @@ export function QuestionNote({ question, className }) {
   return (
     <div className={className}>
       <NoteBox>{isDropped(question) ? DROPPED_NOTE : UNVERIFIED_NOTE}</NoteBox>
+    </div>
+  )
+}
+
+/** Chuyển **đoạn in đậm** trong chuỗi thành <strong>. */
+function richText(s) {
+  return String(s)
+    .split(/(\*\*[^*]+\*\*)/g)
+    .map((part, i) =>
+      part.startsWith('**') && part.endsWith('**') ? (
+        <strong key={i}>{part.slice(2, -2)}</strong>
+      ) : (
+        part
+      )
+    )
+}
+
+const BADGE_LABEL = {
+  corrected: '≠ đáp án gốc',
+  missing: 'đáp án bổ sung',
+  ambiguous: 'gốc tô 2 đáp án',
+}
+
+/**
+ * Nhãn nhỏ gắn vào câu hỏi để người học biết đáp án của câu này không giống
+ * hệt tài liệu gốc — hiện ngay từ trước khi trả lời, nhưng không lộ đáp án nào.
+ */
+export function AnswerBadge({ question, className }) {
+  const note = question.answerNote
+  if (!note) return null
+  return (
+    <span
+      className={cx(
+        'inline-flex flex-shrink-0 items-center gap-1 rounded-full border px-2 py-[2px] font-sans text-[0.68rem] font-bold whitespace-nowrap',
+        note.kind === 'corrected'
+          ? 'border-warning bg-warning-soft text-warning'
+          : 'border-border bg-surface-2 text-text-muted',
+        className
+      )}
+      title={note.title}
+    >
+      {BADGE_LABEL[note.kind]}
+    </span>
+  )
+}
+
+/**
+ * Hộp ghi chú nói rõ đáp án của câu này đến từ đâu: đã sửa khác tài liệu gốc,
+ * hay tài liệu gốc không tô / tô nhiều đáp án.
+ *
+ * Luôn hiện cùng lúc với đáp án đúng (sau khi trả lời) và KHÔNG chịu ảnh hưởng
+ * của nút 💡 — đây là thông tin về độ tin cậy của đáp án, không phải phần giải
+ * thích có thể tắt đi.
+ */
+export function AnswerNote({ question, className }) {
+  const note = question.answerNote
+  if (!note) return null
+  const corrected = note.kind === 'corrected'
+  return (
+    <div
+      className={cx(
+        'animate-fade-up mt-3.5 rounded-[13px] border-[1.5px] px-4 py-3.5 font-sans',
+        corrected ? 'border-warning bg-warning-soft' : 'border-border bg-surface-2',
+        className
+      )}
+    >
+      <div
+        className={cx(
+          'mb-1.5 flex items-center gap-1.5 text-[0.78rem] font-bold uppercase tracking-[0.03em]',
+          corrected ? 'text-warning' : 'text-text-muted'
+        )}
+      >
+        <span>{corrected ? '✎' : 'ℹ️'}</span> {note.title}
+      </div>
+      <p className="m-0 text-[0.88rem] leading-relaxed text-text">{richText(note.body)}</p>
     </div>
   )
 }
