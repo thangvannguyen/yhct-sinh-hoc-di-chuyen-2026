@@ -56,7 +56,7 @@ export default function Home() {
       <div className="pt-3.5 pb-1.5 text-center">
         <div
           className="mx-auto mb-3.5 h-[58px] w-[58px] rounded-[17px] bg-center bg-cover"
-          style={{ backgroundImage: 'url(./favicon.svg)', boxShadow: '0 10px 26px -8px rgba(20,110,245,0.45)' }}
+          style={{ backgroundImage: 'url(./favicon.svg)', boxShadow: '0 10px 26px -8px rgba(37,99,235,0.45)' }}
         />
         <h1 className="m-0 mb-1.5 text-[1.7rem] font-extrabold tracking-[-0.02em]">
           Ôn tập Sinh Học Di Truyền
